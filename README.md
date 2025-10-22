@@ -5,10 +5,10 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [Vue](#vue)
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
+*   [Vue](#vue)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -89,6 +89,8 @@
 *   [CoffeeScript](#coffeescript)
 
 ## Python
+
+*   [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 
 *   [akutayural/APIException](https://github.com/akutayural/APIException) - Standardize FastAPI error/exception handling with APIException. Custom error codes, fallback logging, and beautiful Swagger UI integration.
 
@@ -1728,131 +1730,9 @@
 
 *   [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 
-## Rust
-
-*   [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
-
-*   [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-
-*   [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
-
-*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-
-*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
-
-*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-
-*   [rzukic/zed-latex](https://github.com/rzukic/zed-latex) -
-
-*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
-
-*   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
-
-*   [microsoft/qdk](https://github.com/microsoft/qdk) - Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
-
-*   [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-
-*   [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
-
-*   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [longbridge/rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
-*   [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations.
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-
-*   [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
-
-*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-
-*   [onebot-walle/walle-q](https://github.com/onebot-walle/walle-q) - rs-onebot or rs-cqhttp?
-
-*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-
-*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [AV1080p/solana-copy-sniper-trading-bot](https://github.com/AV1080p/solana-copy-sniper-trading-bot) - solana copy sniper trading bot with zero latency, pump fun, pump swap, raydium launchpad, cpmm, clmm, meteora dbc, pumpfun  mev
-
-*   [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
-
-*   [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
-
-*   [Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer) - An local audio player & m3u8 radio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地/m3u8网络电台播放器🎵.
-
-*   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
-
-*   [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
-
-*   [rust-ml/book](https://github.com/rust-ml/book) - The Rust Machine Learning Book
-
-*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
-
-*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-*   [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
-
-*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
-
-*   [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
-
-*   [Asutorufa/hujiang\_dictionary](https://github.com/Asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
-
 ## TypeScript
+
+*   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
 *   [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server
 
@@ -2298,109 +2178,135 @@
 
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
-## Vue
+## Rust
 
-*   [ryanuo/whatToEat](https://github.com/ryanuo/whatToEat) - 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 
-*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+*   [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
 
-*   [JLinMr/Uptime-Status](https://github.com/JLinMr/Uptime-Status) - 优雅的站点状态监控面板
+*   [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 
-*   [Alessandro-Pang/reader-font](https://github.com/Alessandro-Pang/reader-font) - 读取并展示字体文件中的内容，可用于字体图标的单个字体导出、浏览等
+*   [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
 
-*   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
+*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 
-*   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
+*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 
-*   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
+*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+*   [rzukic/zed-latex](https://github.com/rzukic/zed-latex) -
 
-*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 
-*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+*   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
 
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+*   [microsoft/qdk](https://github.com/microsoft/qdk) - Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
 
-*   [shuax/MouseInc.Settings](https://github.com/shuax/MouseInc.Settings) - MouseInc设置界面
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 
-*   [A-kirami/matcha](https://github.com/A-kirami/matcha) - 💬 Matcha is mock chat. 模拟聊天交互的辅助开发工具
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+*   [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
 
-*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+*   [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+*   [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
 
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+*   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 
-*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 
-*   [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
-*   [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
-*   [Bingjian-Zhu/gin-vue-admin](https://github.com/Bingjian-Zhu/gin-vue-admin) - gin+gorm+jwt+vue, implemented as dependency injection
+*   [longbridge/rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
 
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
-*   [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
-*   [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.
+*   [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations.
 
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-*   [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
-*   [sl1673495/vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player
+*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 
-*   [imoyao/idealyard](https://github.com/imoyao/idealyard) - 使用 Vue 和 Flask 搭建前后端分离的 RESTful 个人博客
+*   [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
 
-*   [zsypsilon/animal-crossing-trading-system](https://github.com/zsypsilon/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
-*   [CHHome/extra-income](https://github.com/CHHome/extra-income) - 毕业设计 --外包项目网站 -- vue+python+flask+uwsgi+nginx
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
-*   [frostming/Flog](https://github.com/frostming/Flog) - A Simple Blog Powered by Flask
+*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 
-*   [bay1/vue-admin-flask-example](https://github.com/bay1/vue-admin-flask-example) - vue-admin和后端(flask)分离结合的超简单模板Demo
+*   [onebot-walle/walle-q](https://github.com/onebot-walle/walle-q) - rs-onebot or rs-cqhttp?
 
-*   [wangy8961/flask-vuejs-madblog](https://github.com/wangy8961/flask-vuejs-madblog) - 基于 Flask 和 Vue.js 前后端分离的微型博客项目，支持多用户、Markdown文章（喜欢/收藏文章）、粉丝关注、用户评论（点赞）、动态通知、站内私信、黑名单、邮件支持、管理后台、权限管理、RQ任务队列、Elasticsearch全文搜索、Linux VPS部署、Docker容器部署等
+*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 
-*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
+*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
 
-*   [Tsuk1ko/bww-generator](https://github.com/Tsuk1ko/bww-generator) - 🖼️ 黑白生草图制作器
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
-*   [L-HeliantHuS/simple-control](https://github.com/L-HeliantHuS/simple-control) - 一个使用Vue+Zeit-ui制作的后台管理页面模板
+*   [AV1080p/solana-copy-sniper-trading-bot](https://github.com/AV1080p/solana-copy-sniper-trading-bot) - solana copy sniper trading bot with zero latency, pump fun, pump swap, raydium launchpad, cpmm, clmm, meteora dbc, pumpfun  mev
 
-*   [aleversn/VFluent](https://github.com/aleversn/VFluent) - Vue Components inspired by Microsoft's Fluent Design System
+*   [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 
-*   [geist-org/vue](https://github.com/geist-org/vue) - Vue implementation of Geist
+*   [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
 
-*   [xyuanbuilds/my-blog](https://github.com/xyuanbuilds/my-blog) - simple vue web demo
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 
-*   [KieSun/FE-advance-road](https://github.com/KieSun/FE-advance-road) - 进阶资深前端开发
+*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 
-*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+*   [Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer) - An local audio player & m3u8 radio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地/m3u8网络电台播放器🎵.
 
-*   [gourouting/giligili-vue](https://github.com/gourouting/giligili-vue) - G站前端项目
+*   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
 
-*   [betterde/ects](https://github.com/betterde/ects) - Elastic Crontab System
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
-*   [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 
-*   [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
+*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 
-*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 
-*   [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
-*   [SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer) - :cake: Easy-to-use music player for Vue 2.x
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
+
+*   [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
+
+*   [rust-ml/book](https://github.com/rust-ml/book) - The Rust Machine Learning Book
+
+*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
+
+*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
+
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+*   [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
+
+*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
+
+*   [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
+
+*   [Asutorufa/hujiang\_dictionary](https://github.com/Asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
 
 ## JavaScript
+
+*   [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - A command-line tool to generate GitHub and GitLab activity graph.
 
 *   [illusionlie/burn-links](https://github.com/illusionlie/burn-links) - 简单的基于Cloudflare Worker的阅后即焚短链接服务
 
@@ -3162,7 +3068,107 @@
 
 *   [badlee/fun-dns](https://github.com/badlee/fun-dns) - Little Javascript DNS Server for resolve internet's hostname only
 
-*   [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
+## Vue
+
+*   [ryanuo/whatToEat](https://github.com/ryanuo/whatToEat) - 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。
+
+*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+
+*   [JLinMr/Uptime-Status](https://github.com/JLinMr/Uptime-Status) - 优雅的站点状态监控面板
+
+*   [Alessandro-Pang/reader-font](https://github.com/Alessandro-Pang/reader-font) - 读取并展示字体文件中的内容，可用于字体图标的单个字体导出、浏览等
+
+*   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
+
+*   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
+
+*   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
+
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+
+*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+
+*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [shuax/MouseInc.Settings](https://github.com/shuax/MouseInc.Settings) - MouseInc设置界面
+
+*   [A-kirami/matcha](https://github.com/A-kirami/matcha) - 💬 Matcha is mock chat. 模拟聊天交互的辅助开发工具
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+
+*   [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
+
+*   [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
+
+*   [Bingjian-Zhu/gin-vue-admin](https://github.com/Bingjian-Zhu/gin-vue-admin) - gin+gorm+jwt+vue, implemented as dependency injection
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
+
+*   [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.
+
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+
+*   [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+
+*   [sl1673495/vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player
+
+*   [imoyao/idealyard](https://github.com/imoyao/idealyard) - 使用 Vue 和 Flask 搭建前后端分离的 RESTful 个人博客
+
+*   [zsypsilon/animal-crossing-trading-system](https://github.com/zsypsilon/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
+
+*   [CHHome/extra-income](https://github.com/CHHome/extra-income) - 毕业设计 --外包项目网站 -- vue+python+flask+uwsgi+nginx
+
+*   [frostming/Flog](https://github.com/frostming/Flog) - A Simple Blog Powered by Flask
+
+*   [bay1/vue-admin-flask-example](https://github.com/bay1/vue-admin-flask-example) - vue-admin和后端(flask)分离结合的超简单模板Demo
+
+*   [wangy8961/flask-vuejs-madblog](https://github.com/wangy8961/flask-vuejs-madblog) - 基于 Flask 和 Vue.js 前后端分离的微型博客项目，支持多用户、Markdown文章（喜欢/收藏文章）、粉丝关注、用户评论（点赞）、动态通知、站内私信、黑名单、邮件支持、管理后台、权限管理、RQ任务队列、Elasticsearch全文搜索、Linux VPS部署、Docker容器部署等
+
+*   [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
+
+*   [Tsuk1ko/bww-generator](https://github.com/Tsuk1ko/bww-generator) - 🖼️ 黑白生草图制作器
+
+*   [L-HeliantHuS/simple-control](https://github.com/L-HeliantHuS/simple-control) - 一个使用Vue+Zeit-ui制作的后台管理页面模板
+
+*   [aleversn/VFluent](https://github.com/aleversn/VFluent) - Vue Components inspired by Microsoft's Fluent Design System
+
+*   [geist-org/vue](https://github.com/geist-org/vue) - Vue implementation of Geist
+
+*   [xyuanbuilds/my-blog](https://github.com/xyuanbuilds/my-blog) - simple vue web demo
+
+*   [KieSun/FE-advance-road](https://github.com/KieSun/FE-advance-road) - 进阶资深前端开发
+
+*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+
+*   [gourouting/giligili-vue](https://github.com/gourouting/giligili-vue) - G站前端项目
+
+*   [betterde/ects](https://github.com/betterde/ects) - Elastic Crontab System
+
+*   [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
+
+*   [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
+
+*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+*   [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
+
+*   [SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer) - :cake: Easy-to-use music player for Vue 2.x
 
 ## HTML
 
@@ -5152,8 +5158,6 @@
 
 *   [chitao1234/aria2-2048-threads](https://github.com/chitao1234/aria2-2048-threads) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
-*   [DaidoujiChen/DaiLive2DPlayground](https://github.com/DaidoujiChen/DaiLive2DPlayground) - Get a girl friend in programming
-
 ## Swift
 
 *   [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai) - A SwiftUI-based Chat App for LLMs on iOS
@@ -5830,8 +5834,6 @@
 
 *   [Molunerfinn/hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) - :musical\_keyboard:A simple & beautiful & fast theme for Hexo.
 
-*   [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
-
 ## MATLAB
 
 *   [BIMK/PlatEMO](https://github.com/BIMK/PlatEMO) - Evolutionary multi-objective optimization platform
@@ -5975,8 +5977,6 @@
 *   [wclk/time](https://github.com/wclk/time) - time是一个for typecho相册模板
 
 *   [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
-
-*   [adymilk/hexo-theme-Cards](https://github.com/adymilk/hexo-theme-Cards) - 卡片风格的 hexo 博客主题。简约大方，支持打赏，评论、搜索、留言、相册自定义收款等多种功能。性能上实现最大优化，首页加载平均1.6秒，使用了图片懒加载，让用户访问更快，体验更好。色彩和文字采用最新的UI 设计规范，在任何设备上都能完美显示！
 
 ## Just
 
