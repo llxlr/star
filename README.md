@@ -620,7 +620,7 @@
 
 *   [nonebot/plugin-apscheduler](https://github.com/nonebot/plugin-apscheduler) - APScheduler Support for NoneBot2
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
 
 *   [noneplugin/nonebot-plugin-shindan](https://github.com/noneplugin/nonebot-plugin-shindan) - Nonebot2 趣味占卜插件
 
@@ -2100,8 +2100,6 @@
 
 *   [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 
-*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-
 *   [funnyzak/pushoo-cli](https://github.com/funnyzak/pushoo-cli) - A command line tool with Pushoo.js pushes multiple platform messages.
 
 *   [funnyzak/pushoo-action](https://github.com/funnyzak/pushoo-action) - A GitHub Action with Pushoo.js pushes multiple platform messages.
@@ -2130,7 +2128,7 @@
 
 *   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources) - A repository of servers and clients from the Model Context Protocol tutorials
 
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 
 *   [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
 
@@ -3291,6 +3289,8 @@
 *   [JLinMr/Uptime-Status](https://github.com/JLinMr/Uptime-Status) - 优雅的站点状态监控面板
 
 *   [Alessandro-Pang/reader-font](https://github.com/Alessandro-Pang/reader-font) - 读取并展示字体文件中的内容，可用于字体图标的单个字体导出、浏览等
+
+*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 *   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
 
