@@ -1076,7 +1076,7 @@
 
 *   [zhourongyu/Typecho2Hexo](https://github.com/zhourongyu/Typecho2Hexo) - Typecho 数据的转换
 
-*   [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
+*   [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
 
 *   [StanfordVL/mujoco-py](https://github.com/StanfordVL/mujoco-py) - MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 
