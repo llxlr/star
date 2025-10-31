@@ -90,6 +90,8 @@
 
 ## JavaScript
 
+*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款剪贴板增强工具， 让你的复制与粘贴更加智能、高效与愉悦
+
 *   [TeamMoeAI/MoeSR](https://github.com/TeamMoeAI/MoeSR) - An application specialized in image super-resolution for ACGN illustrations and Visual Novel CG. 专注于插画/Galgame CG等ACGN领域的图像超分辨率的应用
 
 *   [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - A command-line tool to generate GitHub and GitLab activity graph.
@@ -952,7 +954,7 @@
 
 *   [theme-shoka-x/hexo-theme-shokaX](https://github.com/theme-shoka-x/hexo-theme-shokaX) - a hexo theme based on shoka
 
-*   [iamhyc/Overleaf-Workshop](https://github.com/iamhyc/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
+*   [overleaf-workshop/Overleaf-Workshop](https://github.com/overleaf-workshop/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
 
 *   [egoist/shell-ask](https://github.com/egoist/shell-ask) - Ask LLM directly from your terminal
 
@@ -2204,7 +2206,7 @@
 
 *   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 *   [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 
@@ -3473,8 +3475,6 @@
 *   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 *   [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-
-*   [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 
 ## Rust
 
