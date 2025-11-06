@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Python](#python)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [TeX](#tex)
 *   [PostScript](#postscript)
@@ -19,12 +20,11 @@
 *   [Kotlin](#kotlin)
 *   [PowerShell](#powershell)
 *   [Go](#go)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Swift](#swift)
 *   [Perl](#perl)
 *   [Dart](#dart)
 *   [Vim Script](#vim-script)
-*   [C#](#c-2)
 *   [Lua](#lua)
 *   [Jinja](#jinja)
 *   [Java](#java)
@@ -86,6 +86,190 @@
 *   [Sass](#sass)
 *   [PureBasic](#purebasic)
 *   [Processing](#processing)
+
+## C\#
+
+*   [PowerShell/AIShell](https://github.com/PowerShell/AIShell) - An interactive shell to work with AI-powered assistance providers
+
+*   [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
+
+*   [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) -
+
+*   [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
+
+*   [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
+
+*   [Tlaster/RSS](https://github.com/Tlaster/RSS) - RSS for PowerToys Command Palette.
+
+*   [sht2017/SteamCmdPalExtension](https://github.com/sht2017/SteamCmdPalExtension) - View, launch, and manage Steam games at a glance
+
+*   [Advaith3600/Command-Palette-Currency-Converter](https://github.com/Advaith3600/Command-Palette-Currency-Converter) - Command Palette extension which will convert real and crypto currencies.
+
+*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
+
+*   [lin-ycv/EverythingCommandPalette](https://github.com/lin-ycv/EverythingCommandPalette) - Everything search extension for Command Palette
+
+*   [Corona-Studio/ConnectX](https://github.com/Corona-Studio/ConnectX) - A cross-platform Minecraft P2P online multi-player library in C#, developed using high-performance sockets for excellent forwarding performance, with P2P powered by the Zerotier SDK.
+
+*   [Richasy/Rodel.Agent](https://github.com/Richasy/Rodel.Agent) - 支持主流在线 AI 服务的应用
+
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI Automation Testing Tools For Genshin Impact
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [Idered/snatch](https://github.com/Idered/snatch) - 📋 Beautiful clipboard manager for Windows
+
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+
+*   [nearby-sharing/android](https://github.com/nearby-sharing/android) - Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)
+
+*   [chenxuuu/cortana-speaker](https://github.com/chenxuuu/cortana-speaker) - 利用系统TTS接口进行自动化朗读的小工具，开源出来给大家
+
+*   [fasteddy516/SimplySerial](https://github.com/fasteddy516/SimplySerial) - A windows console application for serial communications.
+
+*   [bostrot/PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget) - Winget plugin for PowerToys Run
+
+*   [MoyuScript/PolPotKillingRhythm](https://github.com/MoyuScript/PolPotKillingRhythm) - 波波の节奏大师
+
+*   [microsoft/winget-cli-restsource](https://github.com/microsoft/winget-cli-restsource) - This project aims to provide a reference implementation for creating a REST based package source for the winget client.
+
+*   [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
+
+*   [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
+
+*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+
+*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+
+*   [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
+
+*   [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
+
+*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+
+*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
+
+*   [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+
+*   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+
+*   [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp) - A .NET library that provides access to the library that powers PyTorch.
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
+
+*   [Crequency/KitX](https://github.com/Crequency/KitX) - An all-purpose toolbox app that connect everything.
+
+*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+
+*   [Richasy/LoopbackManager.Desktop](https://github.com/Richasy/LoopbackManager.Desktop) - 适用于 Windows 11 的本地网络回环管理器
+
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+*   [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
+
+*   [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
+
+*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+
+*   [Paril/mcskin3d](https://github.com/Paril/mcskin3d) - Automatically exported from code.google.com/p/mcskin3d
+
+*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows
+
+*   [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
+
+*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
+
+*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
+
+*   [sourcechord/FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF.
+
+*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+
+*   [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
+
+*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
+
+*   [microsoft/qsharp-runtime](https://github.com/microsoft/qsharp-runtime) - Runtime components for Q#
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [GreenShadeZhang/BiliBili-WinUI](https://github.com/GreenShadeZhang/BiliBili-WinUI) - 一个移植哔哩UWP的WinUI桌面项目
+
+*   [joelverhagen/TorSharp](https://github.com/joelverhagen/TorSharp) - Use Tor for your C# HTTP clients. Use Privoxy or .NET 6+ SOCKS support to proxy HTTP traffic.
+
+*   [944095635/DMSkin](https://github.com/944095635/DMSkin) - DMSkin WPF 样式 UI 框架 | WPF Borderless Window | Custom Controls & Styles | MVVM Support
+
+*   [Mochengvia/PanuonUI.Silver](https://github.com/Mochengvia/PanuonUI.Silver) - Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.
+
+*   [aduskin/AduSkin](https://github.com/aduskin/AduSkin) - A Beautiful WPF Control UI
+
+*   [Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
+
+*   [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+
+*   [shadowsocksr-rm/shadowsocksr-csharp](https://github.com/shadowsocksr-rm/shadowsocksr-csharp) -
+
+*   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
+
+*   [sovetskyfish/bingpic](https://github.com/sovetskyfish/bingpic) - A tiny tool which changes your desktop to Bing's image of the day.
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+
+*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
+
+*   [rylandev/WordxTex](https://github.com/rylandev/WordxTex) - A Latex addin for word
+
+*   [lachesis/scallion](https://github.com/lachesis/scallion) - GPU-based Onion Hash generator
+
+*   [huihut/Facemoji](https://github.com/huihut/Facemoji) - 😆 A voice chatbot that can imitate your expression. OpenCV+Dlib+Live2D+Moments Recorder+Turing Robot+Iflytek IAT+Iflytek TTS
+
+*   [newbe36524/Newbe.Mahua.Framework](https://github.com/newbe36524/Newbe.Mahua.Framework) - 本SDK为实现QQ机器人平台的大一统，支持多种机器人平台：酷Q、MyPCQQ、QQLight等
+
+*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+
+*   [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) - Wow. Yet another Pixiv client!
+
+*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili（B站）无人值守直播工具。自动登录，自动获取直播推流地址，自动推流（使用ffmpeg），可以用于电脑、树莓派等设备无人值守直播。
+
+*   [sovetskyfish/pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
+
+*   [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [SDchao/AutoVScodeCEnvironment](https://github.com/SDchao/AutoVScodeCEnvironment) - 自动配置C语言开发环境
+
+*   [oboard/CoolApk-UWP](https://github.com/oboard/CoolApk-UWP) - 酷安的UWP版第三方客户端。。
+
+*   [Perfare/AzurLaneLive2DExtract](https://github.com/Perfare/AzurLaneLive2DExtract) - OBSOLETE - see readme / 碧蓝航线Live2D提取
+
+*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+
+*   [Anankke/SSRR-Windows](https://github.com/Anankke/SSRR-Windows) - 希望你知道这意味着什么。
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+*   [chenxuuu/add-one-second-UWP](https://github.com/chenxuuu/add-one-second-UWP) - 🐸This is a cilent for time donation project.
+
+*   [HZZW/StickyNotes](https://github.com/HZZW/StickyNotes) - 便签软件
+
+*   [copyliu/bililive\_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## Python
 
@@ -2981,7 +3165,7 @@
 
 *   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 
-*   [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) - Exquisite GitHub style Gitea themes ( 精致的 GitHub 风格 Gitea 主题 )
+*   [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) - Exquisite GitHub style Gitea themes
 
 *   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 
@@ -4208,8 +4392,6 @@
 *   [lhyfst/learn\_jupyter](https://github.com/lhyfst/learn_jupyter) - This is a jupyter practical tutorial. Welcome to edit together!
 
 *   [ymgd/codereader](https://github.com/ymgd/codereader) - 跟大咖一起读源码
-
-*   [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 
 ## Vue
 
@@ -5457,188 +5639,6 @@
 
 *   [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 
-## C\#
-
-*   [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
-
-*   [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) -
-
-*   [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
-
-*   [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
-
-*   [Tlaster/RSS](https://github.com/Tlaster/RSS) - RSS for PowerToys Command Palette.
-
-*   [sht2017/SteamCmdPalExtension](https://github.com/sht2017/SteamCmdPalExtension) - View, launch, and manage Steam games at a glance
-
-*   [Advaith3600/Command-Palette-Currency-Converter](https://github.com/Advaith3600/Command-Palette-Currency-Converter) - Command Palette extension which will convert real and crypto currencies.
-
-*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-
-*   [lin-ycv/EverythingCommandPalette](https://github.com/lin-ycv/EverythingCommandPalette) - Everything search extension for Command Palette
-
-*   [Corona-Studio/ConnectX](https://github.com/Corona-Studio/ConnectX) - A cross-platform Minecraft P2P online multi-player library in C#, developed using high-performance sockets for excellent forwarding performance, with P2P powered by the Zerotier SDK.
-
-*   [Richasy/Rodel.Agent](https://github.com/Richasy/Rodel.Agent) - 支持主流在线 AI 服务的应用
-
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI Automation Testing Tools For Genshin Impact
-
-*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
-
-*   [Idered/snatch](https://github.com/Idered/snatch) - 📋 Beautiful clipboard manager for Windows
-
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
-
-*   [nearby-sharing/android](https://github.com/nearby-sharing/android) - Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)
-
-*   [chenxuuu/cortana-speaker](https://github.com/chenxuuu/cortana-speaker) - 利用系统TTS接口进行自动化朗读的小工具，开源出来给大家
-
-*   [fasteddy516/SimplySerial](https://github.com/fasteddy516/SimplySerial) - A windows console application for serial communications.
-
-*   [bostrot/PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget) - Winget plugin for PowerToys Run
-
-*   [MoyuScript/PolPotKillingRhythm](https://github.com/MoyuScript/PolPotKillingRhythm) - 波波の节奏大师
-
-*   [microsoft/winget-cli-restsource](https://github.com/microsoft/winget-cli-restsource) - This project aims to provide a reference implementation for creating a REST based package source for the winget client.
-
-*   [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
-
-*   [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
-
-*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
-
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-
-*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-
-*   [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
-
-*   [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
-
-*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-
-*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
-
-*   [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
-
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
-
-*   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-
-*   [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp) - A .NET library that provides access to the library that powers PyTorch.
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
-
-*   [Crequency/KitX](https://github.com/Crequency/KitX) - An all-purpose toolbox app that connect everything.
-
-*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
-
-*   [Richasy/LoopbackManager.Desktop](https://github.com/Richasy/LoopbackManager.Desktop) - 适用于 Windows 11 的本地网络回环管理器
-
-*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-
-*   [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
-
-*   [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
-
-*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-
-*   [Paril/mcskin3d](https://github.com/Paril/mcskin3d) - Automatically exported from code.google.com/p/mcskin3d
-
-*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows
-
-*   [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
-
-*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-
-*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
-
-*   [sourcechord/FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF.
-
-*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
-
-*   [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
-
-*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-
-*   [microsoft/qsharp-runtime](https://github.com/microsoft/qsharp-runtime) - Runtime components for Q#
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [GreenShadeZhang/BiliBili-WinUI](https://github.com/GreenShadeZhang/BiliBili-WinUI) - 一个移植哔哩UWP的WinUI桌面项目
-
-*   [joelverhagen/TorSharp](https://github.com/joelverhagen/TorSharp) - Use Tor for your C# HTTP clients. Use Privoxy or .NET 6+ SOCKS support to proxy HTTP traffic.
-
-*   [944095635/DMSkin](https://github.com/944095635/DMSkin) - DMSkin WPF 样式 UI 框架 | WPF Borderless Window | Custom Controls & Styles | MVVM Support
-
-*   [Mochengvia/PanuonUI.Silver](https://github.com/Mochengvia/PanuonUI.Silver) - Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.
-
-*   [aduskin/AduSkin](https://github.com/aduskin/AduSkin) - A Beautiful WPF Control UI
-
-*   [Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
-
-*   [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
-
-*   [shadowsocksr-rm/shadowsocksr-csharp](https://github.com/shadowsocksr-rm/shadowsocksr-csharp) -
-
-*   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
-
-*   [sovetskyfish/bingpic](https://github.com/sovetskyfish/bingpic) - A tiny tool which changes your desktop to Bing's image of the day.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-
-*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
-
-*   [rylandev/WordxTex](https://github.com/rylandev/WordxTex) - A Latex addin for word
-
-*   [lachesis/scallion](https://github.com/lachesis/scallion) - GPU-based Onion Hash generator
-
-*   [huihut/Facemoji](https://github.com/huihut/Facemoji) - 😆 A voice chatbot that can imitate your expression. OpenCV+Dlib+Live2D+Moments Recorder+Turing Robot+Iflytek IAT+Iflytek TTS
-
-*   [newbe36524/Newbe.Mahua.Framework](https://github.com/newbe36524/Newbe.Mahua.Framework) - 本SDK为实现QQ机器人平台的大一统，支持多种机器人平台：酷Q、MyPCQQ、QQLight等
-
-*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-
-*   [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) - Wow. Yet another Pixiv client!
-
-*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili（B站）无人值守直播工具。自动登录，自动获取直播推流地址，自动推流（使用ffmpeg），可以用于电脑、树莓派等设备无人值守直播。
-
-*   [sovetskyfish/pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
-
-*   [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [SDchao/AutoVScodeCEnvironment](https://github.com/SDchao/AutoVScodeCEnvironment) - 自动配置C语言开发环境
-
-*   [oboard/CoolApk-UWP](https://github.com/oboard/CoolApk-UWP) - 酷安的UWP版第三方客户端。。
-
-*   [Perfare/AzurLaneLive2DExtract](https://github.com/Perfare/AzurLaneLive2DExtract) - OBSOLETE - see readme / 碧蓝航线Live2D提取
-
-*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-
-*   [Anankke/SSRR-Windows](https://github.com/Anankke/SSRR-Windows) - 希望你知道这意味着什么。
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-*   [chenxuuu/add-one-second-UWP](https://github.com/chenxuuu/add-one-second-UWP) - 🐸This is a cilent for time donation project.
-
-*   [HZZW/StickyNotes](https://github.com/HZZW/StickyNotes) - 便签软件
-
-*   [copyliu/bililive\_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
 ## Lua
 
 *   [wtsnjp/llmk](https://github.com/wtsnjp/llmk) - Light LaTeX Make
@@ -5935,7 +5935,7 @@
 
 *   [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
 
-*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site/
+*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site
 
 *   [DT27/EditorMD](https://github.com/DT27/EditorMD) - Markdown 编辑器 Editor.md for Typecho
 
