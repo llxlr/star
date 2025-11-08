@@ -89,7 +89,7 @@
 
 ## Python
 
-*   [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) - A Python implement of Agent Client Protocol (ACP, https://agentclientprotocol.com, by Zed Industries)
+*   [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) - Python SDK for ACP clients and agents.
 
 *   [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 
@@ -2182,8 +2182,6 @@
 *   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
 
 *   [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
-
-*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 *   [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
@@ -5024,6 +5022,8 @@
 *   [rstudio/tinytex-releases](https://github.com/rstudio/tinytex-releases) - Windows/macOS/Linux binaries and installation methods of TinyTeX
 
 *   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## Go
 
