@@ -633,7 +633,7 @@
 
 *   [Relph1119/deeplearning-with-pytorch-notes](https://github.com/Relph1119/deeplearning-with-pytorch-notes) - 龙曲良《PyTorch深度学习》学习笔记及代码
 
-*   [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
+*   [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
 
 *   [timerring/bilive](https://github.com/timerring/bilive) - 极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种模态模型，兼容超低配置机器。Extremely fast live recording, automatic slicing, rendering, uploading and Integrating MLLMs. Compatible with low configurations machines.
 
