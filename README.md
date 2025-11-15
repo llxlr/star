@@ -89,6 +89,8 @@
 
 ## TypeScript
 
+*   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
+
 *   [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
 
 *   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
@@ -2133,7 +2135,7 @@
 
 *   [huggingface/hmtl](https://github.com/huggingface/hmtl) - 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
 
-*   [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+*   [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 
 *   [espectre/Kaggle\_Dogs\_vs\_Cats\_PyTorch](https://github.com/espectre/Kaggle_Dogs_vs_Cats_PyTorch) - kaggle competition: Dogs\_vs\_Cats\_PyTorch Presentation（Getting started with PyTorch）
 
@@ -5570,8 +5572,6 @@
 *   [Shuep418Slw/OSlw\_Code](https://github.com/Shuep418Slw/OSlw_Code) - Code for OSLW
 
 *   [kriswebdev/android\_aircrack](https://github.com/kriswebdev/android_aircrack) - Aircrack-ng command-line for Android. Binaries & source. 🇺🇦 SUPPORT UKRAINE! 🇺🇦
-
-*   [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
 
 ## Swift
 
