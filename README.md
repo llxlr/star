@@ -89,6 +89,8 @@
 
 ## Python
 
+*   [703519523/Emote\_Widget](https://github.com/703519523/Emote_Widget) - 一个基于webGL的动态角色框架，填补了Python不能直接调用galgame emote模型的空白
+
 *   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
 
 *   [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) - Python SDK for ACP clients and agents.
@@ -4681,7 +4683,7 @@
 
 *   [MapleRecall/html5-particles](https://github.com/MapleRecall/html5-particles) - A particle generator on HTML 5 Canvas
 
-*   [Num142857/alili.tech](https://github.com/Num142857/alili.tech) - WEB BANG! BANG!! BANG!!!
+*   [0x1428571429/alili.tech](https://github.com/0x1428571429/alili.tech) - WEB BANG! BANG!! BANG!!!
 
 *   [han3420/01](https://github.com/han3420/01) -
 
@@ -6040,8 +6042,6 @@
 ## Batchfile
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
 
 *   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 
