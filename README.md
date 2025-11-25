@@ -2351,7 +2351,7 @@
 
 *   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
-*   [AV1080p/solana-copy-sniper-trading-bot](https://github.com/AV1080p/solana-copy-sniper-trading-bot) - solana copy sniper trading bot with zero latency, pump fun, pump swap, raydium launchpad, cpmm, clmm, meteora dbc, pumpfun  mev
+*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot
 
 *   [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 
@@ -2474,6 +2474,8 @@
 *   [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+
+*   [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
 *   [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
 
@@ -3341,7 +3343,7 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [HCLonely/hexo-steam-games](https://github.com/HCLonely/hexo-steam-games) - 为Hexo添加Steam游戏库页面
 
@@ -3390,8 +3392,6 @@
 *   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
 *   [avscms/avscms](https://github.com/avscms/avscms) - avscms
-
-*   [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
 *   [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
 
@@ -4065,6 +4065,8 @@
 
 *   [iphysresearch/DataSciComp](https://github.com/iphysresearch/DataSciComp) - A collection of popular Data Science Challenges/Competitions || Countdown timers to keep track of the entry deadlines.
 
+*   [0x1428571429/alili.tech](https://github.com/0x1428571429/alili.tech) - WEB BANG! BANG!! BANG!!!
+
 *   [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 
 *   [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
@@ -4682,8 +4684,6 @@
 *   [bmob/BmobDocs](https://github.com/bmob/BmobDocs) - Bmob 文档中心
 
 *   [MapleRecall/html5-particles](https://github.com/MapleRecall/html5-particles) - A particle generator on HTML 5 Canvas
-
-*   [0x1428571429/alili.tech](https://github.com/0x1428571429/alili.tech) - WEB BANG! BANG!! BANG!!!
 
 *   [han3420/01](https://github.com/han3420/01) -
 
@@ -5447,7 +5447,7 @@
 
 *   [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 
-*   [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - Android background process keep-alive, prevent uninstallation, anti-uninstall, background pop-up activity. The latest Android high-availability black-tech application keep-alive for 2024, achieving the ultimate goal: app immortality. Refuse forced termination, auto-start on phone boot, auto-start at scheduled times, event-driven auto-start.
+*   [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) -
 
 *   [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 
