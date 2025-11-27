@@ -1313,7 +1313,7 @@
 
 *   [aiqm/torchani](https://github.com/aiqm/torchani) - TorchANI 2.0 is an open-source library that supports training, development, and research of ANI-style neural network interatomic potentials. It was originally developed and is currently maintained by the Roitberg group.
 
-*   [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
+*   [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 
 *   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 
@@ -5481,7 +5481,7 @@
 
 *   [LSPosed/WSA-Kernel-SU](https://github.com/LSPosed/WSA-Kernel-SU) - A kernel module to provide /system/xbin/su to Android Kernel (especially to WSA)
 
-*   [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
+*   [sypstraw/rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 
 *   [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 
@@ -5839,7 +5839,7 @@
 
 ## Zig
 
-*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+*   [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
