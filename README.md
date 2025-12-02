@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [OpenSCAD](#openscad)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -86,6 +87,10 @@
 *   [Sass](#sass)
 *   [PureBasic](#purebasic)
 *   [Processing](#processing)
+
+## OpenSCAD
+
+*   [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 
 ## TypeScript
 
@@ -2722,8 +2727,6 @@
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
 *   [YixuanFranco/yourGirlFriend](https://github.com/YixuanFranco/yourGirlFriend) -
-
-*   [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - Model library for live2d-widget.js
 
 ## Rust
 
