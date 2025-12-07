@@ -302,7 +302,7 @@
 
 *   [ChenXu233/nonebot\_plugin\_dialectlist](https://github.com/ChenXu233/nonebot_plugin_dialectlist) - 看看群友能有多话唠
 
-*   [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书x-s参数纯算纯协议逆向
+*   [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书x-s x-s-common xsc 等字段 纯算逆向
 
 *   [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
 
@@ -3484,6 +3484,8 @@
 
 *   [no13bus/chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension) - ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题
 
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+
 *   [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
 
 *   [zotero/make-it-red](https://github.com/zotero/make-it-red) - Sample plugin for Zotero 7
@@ -4441,8 +4443,6 @@
 *   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 *   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 
