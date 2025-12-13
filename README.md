@@ -92,7 +92,7 @@
 
 *   [llxlr/blog](https://github.com/llxlr/blog) - 博客源码
 
-*   [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力以及iCal日程同步。
+*   [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力以及iCal日程同步。同时支持Worker和Docker方式部署。
 
 *   [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
@@ -114,7 +114,7 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubRelease/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [HCLonely/hexo-steam-games](https://github.com/HCLonely/hexo-steam-games) - 为Hexo添加Steam游戏库页面
 
@@ -2646,6 +2646,8 @@
 
 *   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 
+*   [ikaros-dev/ikaros](https://github.com/ikaros-dev/ikaros) - Dedicated to ACGMN's Content Management System (CMS). | 专注于ACGMN的内容管理系统(CMS)。
+
 *   [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata) - Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
 
 *   [AlistGo/desktop-release](https://github.com/AlistGo/desktop-release) -
@@ -2973,8 +2975,6 @@
 *   [TencentEdgeOne/edgeone-pages-action](https://github.com/TencentEdgeOne/edgeone-pages-action) - Easily deploy EdgeOne pages applications using edgeone cli and github actions
 
 *   [meinming/QSL\_Cards\_Examples](https://github.com/meinming/QSL_Cards_Examples) - 为了让HAM们有更可爱的QSL通联卡片来使用！
-
-*   [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 
 *   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 
@@ -4698,6 +4698,8 @@
 
 ## Shell
 
+*   [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+
 *   [kejilion/sh](https://github.com/kejilion/sh) - KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!
 
 *   [UnblockNeteaseMusic/luci-app-unblockneteasemusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) - \[OpenWrt] 解除网易云音乐播放限制
@@ -5708,8 +5710,6 @@
 
 *   [patzly/tack-android](https://github.com/patzly/tack-android) - Beautiful metronome for Android with a powerful Wear OS experience
 
-*   [ikaros-dev/ikaros](https://github.com/ikaros-dev/ikaros) - Dedicated to ACGMN's Content Management System (CMS). | 专注于ACGMN的内容管理系统(CMS)。
-
 *   [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
 *   [fennifith/Metronome-Android](https://github.com/fennifith/Metronome-Android) - A lightweight, well designed metronome app for Android.
@@ -5846,7 +5846,7 @@
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
-*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+*   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Zig
 
