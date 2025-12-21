@@ -1598,7 +1598,7 @@
 
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
-*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 550 颗 ★
+*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 551 颗 ★
 
 *   [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 
@@ -3498,7 +3498,7 @@
 
 *   [submato/xhscrawl](https://github.com/submato/xhscrawl) - 小红书数据,xhs数据采集,小红书逆向,小红书 xs逆向,小红书爬虫,小红书数据,bilibili数据,b站数据
 
-*   [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
+*   [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - A modernized version of the classic QuickPic Gallery with improved compatibility, bug fixes, and a refreshed Material 3 design, while keeping the app lightweight, fast, and offline-first
 
 *   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
 
