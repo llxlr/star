@@ -462,7 +462,7 @@
 
 *   [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 
-*   [Akagicv/Automatic-sprout-cultivation-system-ASCS](https://github.com/Akagicv/Automatic-sprout-cultivation-system-ASCS) - 自动化豆芽培育系统
+*   [WindowsNoEditor/Automatic-sprout-cultivation-system-ASCS](https://github.com/WindowsNoEditor/Automatic-sprout-cultivation-system-ASCS) - 自动化豆芽培育系统
 
 *   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
@@ -3118,8 +3118,6 @@
 
 *   [geeeeeeeek/videoproject](https://github.com/geeeeeeeek/videoproject) - python+Django视频播放系统，课程设计/毕业设计，用于在线播放mp4视频，视频管理，m3u8 player
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
-
 *   [sabrinaluo/hexo-theme-replica](https://github.com/sabrinaluo/hexo-theme-replica) - :octocat:Github style replication for hexo theme
 
 *   [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
@@ -3187,6 +3185,8 @@
 *   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
 *   [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
+
+*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 *   [funnyzak/pushoo-cli](https://github.com/funnyzak/pushoo-cli) - A command line tool with Pushoo.js pushes multiple platform messages.
 
@@ -4094,6 +4094,8 @@
 
 *   [avsaj/python-midi](https://github.com/avsaj/python-midi) - Python MIDI library
 
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+
 *   [36huo/wechat\_anti\_revoke](https://github.com/36huo/wechat_anti_revoke) - patch wechat(for pc) to anti revoke message
 
 *   [TommyZihao/Zihao-Blog](https://github.com/TommyZihao/Zihao-Blog) - Blog of programming
@@ -4599,8 +4601,6 @@
 *   [JLinMr/Uptime-Status](https://github.com/JLinMr/Uptime-Status) - 优雅的站点状态监控面板
 
 *   [Alessandro-Pang/reader-font](https://github.com/Alessandro-Pang/reader-font) - 读取并展示字体文件中的内容，可用于字体图标的单个字体导出、浏览等
-
-*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 *   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
 
