@@ -584,7 +584,7 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubAPI/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/TG/GithubAPI/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [HCLonely/hexo-steam-games](https://github.com/HCLonely/hexo-steam-games) - 为Hexo添加Steam游戏库页面
 
@@ -1598,7 +1598,7 @@
 
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
-*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 551 颗 ★
+*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 552 颗 ★
 
 *   [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 
@@ -1858,7 +1858,7 @@
 
 *   [MinatoAquaCrews/nonebot\_plugin\_fortune](https://github.com/MinatoAquaCrews/nonebot_plugin_fortune) - Fortune divination plugin for nonebot2
 
-*   [monsterxcn/nonebot\_plugin\_epicfree](https://github.com/monsterxcn/nonebot_plugin_epicfree) - 🤖 NoneBot2 EpicGameStore 喜加一资讯插件，发送「喜加一」逝世看吧！
+*   [FlanChanXwO/nonebot-plugin-epicfree](https://github.com/FlanChanXwO/nonebot-plugin-epicfree) - 🤖 NoneBot2 EpicGameStore 喜加一资讯插件，发送「喜加一」逝世看吧！
 
 *   [bilibili/ailab](https://github.com/bilibili/ailab) -
 
@@ -5384,8 +5384,6 @@
 
 *   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 
-*   [yuhaiin/yuhaiin](https://github.com/yuhaiin/yuhaiin) - proxy kit for Linux/Windows/MacOS
-
 *   [gourouting/giligili](https://github.com/gourouting/giligili) - gin+gorm开发的视频网站示例
 
 *   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -5553,6 +5551,8 @@
 *   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 *   [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
+
+*   [yuhaiin/yuhaiin](https://github.com/yuhaiin/yuhaiin) - proxy kit for Linux/Windows/MacOS
 
 *   [LiteOS/LiteOS](https://github.com/LiteOS/LiteOS) - code and manual
 
