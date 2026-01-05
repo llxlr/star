@@ -1799,7 +1799,7 @@
 
 *   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
-*   [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - Fast, accurate, and batch subtitle translation for 50+ languages. 批量字幕翻译
+*   [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 50+ languages, AI-powered 批量字幕翻译
 
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
