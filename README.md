@@ -1815,7 +1815,7 @@
 
 *   [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 
 *   [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
@@ -4285,6 +4285,8 @@
 
 *   [Shuep418Slw/OSlw\_Code](https://github.com/Shuep418Slw/OSlw_Code) - Code for OSLW
 
+*   [kriswebdev/android\_aircrack](https://github.com/kriswebdev/android_aircrack) - Aircrack-ng command-line for Android. Binaries & source. 🇺🇦 SUPPORT UKRAINE! 🇺🇦
+
 ## miscellaneous
 
 *   [TencentEdgeOne/edgeone-pages-action](https://github.com/TencentEdgeOne/edgeone-pages-action) - Easily deploy EdgeOne pages applications using edgeone cli and github actions
@@ -5542,8 +5544,6 @@
 *   [Ccixyj/JBusDriver](https://github.com/Ccixyj/JBusDriver) - 这是去幼儿园的班车(滑稽
 
 *   [MobilCat/AndroCat](https://github.com/MobilCat/AndroCat) - :octocat: AndroCat is a GitHub client for Android phones and provides to user GitHub user interface like how they used to.
-
-*   [YZune/WakeupSchedule\_Kotlin](https://github.com/YZune/WakeupSchedule_Kotlin) - Wakeup课程表Kotlin重构版
 
 *   [Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin) - A IntelliJ plugin that can explore archive-based file in project view
 
