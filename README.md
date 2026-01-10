@@ -257,6 +257,8 @@
 
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 *   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 
 *   [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
@@ -2679,7 +2681,7 @@
 
 *   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 
-*   [yuhaiin/yuhaiin](https://github.com/yuhaiin/yuhaiin) - proxy kit for Linux/Windows/MacOS
+*   [yuhaiin/yuhaiin](https://github.com/yuhaiin/yuhaiin) - proxy kit for Linux/Windows/MacOS/Android
 
 *   [gourouting/giligili](https://github.com/gourouting/giligili) - gin+gorm开发的视频网站示例
 
@@ -5798,8 +5800,6 @@
 ## Svelte
 
 *   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [nicejade/chatgpt.nicelinks.site](https://github.com/nicejade/chatgpt.nicelinks.site) - 素问智聊斋，非官方 ChatGPT 在线客户端，旨在提供更便捷的 ChatGPT 访问体验；它基于非官方 ChatGPT API、Svelte、TailwindCSS、Vite 和 NodeJS 所搭建；无需账号，零配置，即可与 ChatGPT 畅聊；支持自定义 OPENAI API KEY。
 
