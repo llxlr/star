@@ -735,7 +735,7 @@
 
 *   [jonghwanhyeon/python-ffmpeg](https://github.com/jonghwanhyeon/python-ffmpeg) - A python binding for FFmpeg which provides sync and async APIs
 
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 *   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 
@@ -1955,6 +1955,8 @@
 
 *   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 
+*   [zotero-cita/zotero-cita](https://github.com/zotero-cita/zotero-cita) - Cita: a Wikidata addon for Zotero with citations metadata support
+
 *   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
 
 *   [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
@@ -2107,7 +2109,7 @@
 
 *   [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 
-*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  一键安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
+*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 
 *   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 
@@ -3364,8 +3366,6 @@
 *   [qierkang/yang-game](https://github.com/qierkang/yang-game) - 羊了个羊游戏源代码\代码\完全开源 H5在线体验（兼容微信打开）：http://qekang.com/yang 服务端源码：https://github.com/qierkang/yang-server
 
 *   [jerryc127/butterfly-plugins](https://github.com/jerryc127/butterfly-plugins) -
-
-*   [zotero-cita/zotero-cita](https://github.com/zotero-cita/zotero-cita) - Cita: a Wikidata addon for Zotero with citations metadata support
 
 *   [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
 
