@@ -3185,6 +3185,8 @@
 
 *   [Fluorohydride/ygopro](https://github.com/Fluorohydride/ygopro) - A script engine for "yu-gi-oh!" and sample gui
 
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
 ## JavaScript
 
 *   [llxlr/blog](https://github.com/llxlr/blog) - 博客源码
@@ -3982,8 +3984,6 @@
 *   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
 
 *   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
-
-*   [QianJianTech/LaTeXLive](https://github.com/QianJianTech/LaTeXLive) - LateX公式编辑器-妈叔出品
 
 *   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 
