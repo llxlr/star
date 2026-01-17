@@ -25,6 +25,7 @@
 *   [Perl](#perl)
 *   [Dart](#dart)
 *   [Vim Script](#vim-script)
+*   [Fluent](#fluent)
 *   [Lua](#lua)
 *   [Jinja](#jinja)
 *   [Java](#java)
@@ -57,7 +58,6 @@
 *   [R](#r)
 *   [Mathematica](#mathematica)
 *   [VBA](#vba)
-*   [Fluent](#fluent)
 *   [Less](#less)
 *   [Assembly](#assembly)
 *   [Ruby](#ruby)
@@ -3243,8 +3243,6 @@
 
 *   [twikoojs/twikoo-cloudflare](https://github.com/twikoojs/twikoo-cloudflare) -
 
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
 *   [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 
 *   [erzaozi/neko-status-plugin](https://github.com/erzaozi/neko-status-plugin) - 基于 Yunzai 的系统状态插件喵~
@@ -3955,7 +3953,7 @@
 
 ## HTML
 
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 
 *   [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
 
@@ -5649,6 +5647,12 @@
 
 *   [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 
+## Fluent
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Lua
 
 *   [wtsnjp/llmk](https://github.com/wtsnjp/llmk) - Light LaTeX Make
@@ -6318,10 +6322,6 @@
 ## VBA
 
 *   [ivankokan/Excel2LaTeX](https://github.com/ivankokan/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
-
-## Fluent
-
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Less
 
