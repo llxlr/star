@@ -25,7 +25,6 @@
 *   [Perl](#perl)
 *   [Dart](#dart)
 *   [Vim Script](#vim-script)
-*   [Fluent](#fluent)
 *   [Lua](#lua)
 *   [Jinja](#jinja)
 *   [Java](#java)
@@ -58,6 +57,7 @@
 *   [R](#r)
 *   [Mathematica](#mathematica)
 *   [VBA](#vba)
+*   [Fluent](#fluent)
 *   [Less](#less)
 *   [Assembly](#assembly)
 *   [Ruby](#ruby)
@@ -3213,7 +3213,7 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具，支持多存储聚合。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、文件预览、挂载WebDAV 服务。支持 Cloudflare Workers 或 Docker 部署。
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、文件预览、挂载WebDAV 服务。支持 Cloudflare Workers 或 Docker 部署。
 
 *   [HCLonely/hexo-steam-games](https://github.com/HCLonely/hexo-steam-games) - 为Hexo添加Steam游戏库页面
 
@@ -3242,6 +3242,8 @@
 *   [zkz098/hexo-theme-shoka](https://github.com/zkz098/hexo-theme-shoka) - Just For www.kaitaku.xyz
 
 *   [twikoojs/twikoo-cloudflare](https://github.com/twikoojs/twikoo-cloudflare) -
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 *   [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 
@@ -5647,12 +5649,6 @@
 
 *   [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 
-## Fluent
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Lua
 
 *   [wtsnjp/llmk](https://github.com/wtsnjp/llmk) - Light LaTeX Make
@@ -6322,6 +6318,10 @@
 ## VBA
 
 *   [ivankokan/Excel2LaTeX](https://github.com/ivankokan/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
+
+## Fluent
+
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Less
 
