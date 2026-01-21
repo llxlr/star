@@ -72,7 +72,6 @@
 *   [Awk](#awk)
 *   [Nim](#nim)
 *   [Q#](#q)
-*   [Roff](#roff)
 *   [RMarkdown](#rmarkdown)
 *   [V](#v)
 *   [Blade](#blade)
@@ -1782,8 +1781,6 @@
 *   [funnyzak/pushoo-action](https://github.com/funnyzak/pushoo-action) - A GitHub Action with Pushoo.js pushes multiple platform messages.
 
 *   [imaegoo/pushoo](https://github.com/imaegoo/pushoo) - 💬 即时消息推送 Node SDK
-
-*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
 *   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 
@@ -4135,7 +4132,7 @@
 
 *   [hamiltron/py-simple-audio](https://github.com/hamiltron/py-simple-audio) - A simple audio playback Python extension - cross-platform, asynchronous, dependency-free
 
-*   [Majjcom/ncmpp](https://github.com/Majjcom/ncmpp) - 一个用C++编写的极速ncm解密器
+*   [Majjcom/ncmpp](https://github.com/Majjcom/ncmpp) - 一个用C++编写的极速ncm解密工具
 
 *   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
@@ -5147,6 +5144,8 @@
 
 *   [Alessandro-Pang/reader-font](https://github.com/Alessandro-Pang/reader-font) - 读取并展示字体文件中的内容，可用于字体图标的单个字体导出、浏览等
 
+*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+
 *   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
 
 *   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
@@ -5354,6 +5353,8 @@
 *   [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 
 *   [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
@@ -6390,10 +6391,6 @@
 ## Q\#
 
 *   [silq-lang/silq](https://github.com/silq-lang/silq) -
-
-## Roff
-
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## RMarkdown
 
