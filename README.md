@@ -56,6 +56,7 @@
 *   [Pascal](#pascal)
 *   [R](#r)
 *   [Mathematica](#mathematica)
+*   [Wolfram Language](#wolfram-language)
 *   [VBA](#vba)
 *   [Fluent](#fluent)
 *   [Less](#less)
@@ -3442,8 +3443,6 @@
 
 *   [ttphan/Quantum-Bloch-Sphere-Simulator](https://github.com/ttphan/Quantum-Bloch-Sphere-Simulator) - A quantum Bloch-sphere simulator.
 
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
 *   [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
 *   [itorr/homo](https://github.com/itorr/homo) - 💩「恶臭数字论证器」数字恶臭化工具
@@ -4499,6 +4498,8 @@
 *   [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 
 *   [KumaTea/pytorch-arm](https://github.com/KumaTea/pytorch-arm) - PyTorch wheels (whl) for ARM / armv7l, with vision, audio, text & csprng
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
 *   [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 
@@ -6313,6 +6314,8 @@
 ## Mathematica
 
 *   [FeynCalc/feynonium](https://github.com/FeynCalc/feynonium) - FeynOnium is a FeynCalc add-on that facilitates calculations in Nonrelativistic QCD (NRQCD) and potential Nonrelativistic QCD (pNRQCD)
+
+## Wolfram Language
 
 *   [FeynCalc/feyncalc](https://github.com/FeynCalc/feyncalc) - Mathematica package for algebraic calculations in elementary particle physics.
 
