@@ -3121,7 +3121,7 @@
 
 *   [kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api) - 为 酷Q 提供通过 HTTP 或 WebSocket 接收事件和调用 API 的能力
 
-*   [aliyun/ossfs](https://github.com/aliyun/ossfs) - Export s3fs for aliyun oss.
+*   [aliyun/ossfs](https://github.com/aliyun/ossfs) - A high-performance file client for mounting an OSS bucket as a local filesystem.
 
 *   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -4499,7 +4499,7 @@
 
 *   [KumaTea/pytorch-arm](https://github.com/KumaTea/pytorch-arm) - PyTorch wheels (whl) for ARM / armv7l, with vision, audio, text & csprng
 
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
 
 *   [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 
