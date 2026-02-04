@@ -159,7 +159,7 @@
 
 *   [Tealina28/QQNT\_Export](https://github.com/Tealina28/QQNT_Export) - 读取并导出解密后的QQNT数据库中的聊天记录
 
-*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
 
 *   [google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome) - This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.
 
@@ -273,7 +273,7 @@
 
 *   [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 
-*   [bytedance/Protenix](https://github.com/bytedance/Protenix) - A trainable PyTorch reproduction of AlphaFold 3.
+*   [bytedance/Protenix](https://github.com/bytedance/Protenix) - Toward High-Accuracy Open-Source Biomolecular Structure Prediction.
 
 *   [Cvandia/nonebot-plugin-whateat-pic](https://github.com/Cvandia/nonebot-plugin-whateat-pic) - 基于Nonebot2的一款今天吃什么喝什么的插件
 
