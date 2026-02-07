@@ -1589,8 +1589,6 @@
 
 *   [yaphone/RasWxNeteaseMusic](https://github.com/yaphone/RasWxNeteaseMusic) - 微信-树莓派-网易云音乐
 
-*   [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
-
 *   [Neod0Matrix/PixivCrawlerIII](https://github.com/Neod0Matrix/PixivCrawlerIII) - A python3 crawler for crawling Pixiv ranking top and any illustrator all artworks
 
 *   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
@@ -3185,8 +3183,6 @@
 
 *   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 
-*   [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-
 ## JavaScript
 
 *   [llxlr/blog](https://github.com/llxlr/blog) - 博客源码
@@ -4075,6 +4071,8 @@
 
 *   [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
 
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 *   [pianosnake/uke-chord](https://github.com/pianosnake/uke-chord) - Web Component/HTML element for tab chord diagrams using SVG
 
 *   [wangzhiye-tiancai/mysupervisor\_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据
@@ -4798,6 +4796,8 @@
 *   [Go-loneliness-of-man/easy-news](https://github.com/Go-loneliness-of-man/easy-news) - 个人项目，简易新闻站
 
 *   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
+
+*   [OpenAtomFoundation/TobudOS](https://github.com/OpenAtomFoundation/TobudOS) - 开放原子开源基金会孵化的物联网操作系统，捐赠前为腾讯物联网终端操作系统TencentOS Tiny
 
 *   [bydmm/singo-book](https://github.com/bydmm/singo-book) -
 
@@ -5839,8 +5839,6 @@
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
 *   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Zig
@@ -6348,6 +6346,8 @@
 *   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
 *   [xcatliu/jekyllcn](https://github.com/xcatliu/jekyllcn) - Jekyll 的中文翻译网站
+
+*   [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 ## Nix
 
