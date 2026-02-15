@@ -1977,7 +1977,7 @@
 
 *   [journey-ad/Bitmagnet-Next-Web](https://github.com/journey-ad/Bitmagnet-Next-Web) - 🧲 A modern BitTorrent indexer, powered by Bitmagnet - 一个更现代的磁力搜索列表程序，由 Bitmagnet 强力驱动
 
-*   [LIUBINfighter/Obsidian-Tab-Flow](https://github.com/LIUBINfighter/Obsidian-Tab-Flow) - Render, play and create guitar tabs. Write tabs in text. Modern music font and sound! (.alphatab, .gp, .gp3, .gp4, .gp5, .gpx) Powered by alphaTab.js.
+*   [LIUBINfighter/Obsidian-Tab-Flow](https://github.com/LIUBINfighter/Obsidian-Tab-Flow) - Render, play and create guitar tabs. Write tabs in text. Modern music font and sound! (.atex, .gp, .gp3, .gp4, .gp5, .gpx) Powered by alphaTab.js.
 
 *   [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 
@@ -2004,6 +2004,8 @@
 *   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 
 *   [AnswerZhao/CookingAgent](https://github.com/AnswerZhao/CookingAgent) - 一个基于大型语言模型（LLM）的智能做菜推荐系统，利用 HowToCook 开源菜谱库，为用户提供个性化的菜单推荐、购物清单生成和做菜流程规划、做菜步骤，达到小白都知道“吃什么、怎么做”的目标。
 
@@ -2446,8 +2448,6 @@
 *   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
 
 *   [microsoft/qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 
 *   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 
