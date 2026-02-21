@@ -3255,7 +3255,7 @@
 
 *   [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 
-*   [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
+*   [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 
 *   [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 
@@ -5167,7 +5167,7 @@
 
 *   [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) - Elegant LaTeX Template for Books
 
-*   [lvjr/tabularray](https://github.com/lvjr/tabularray) - Typeset tabulars and arrays with LaTeX3
+*   [TeXackers/tabularray](https://github.com/TeXackers/tabularray) - Typeset tabulars and arrays with LaTeX3
 
 *   [hailiang-wang/book-of-tao](https://github.com/hailiang-wang/book-of-tao) - 《道德经》是中国历史上春秋时期末期老子写作的论述处世哲学的作品
 
