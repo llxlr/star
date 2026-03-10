@@ -2411,7 +2411,7 @@
 
 *   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 
 *   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
 
