@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [PHP](#php)
 *   [TypeScript](#typescript)
+*   [PHP](#php)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Shell](#shell)
@@ -87,187 +87,9 @@
 *   [PureBasic](#purebasic)
 *   [Processing](#processing)
 
-## PHP
-
-*   [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
-
-*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
-
-*   [greensea/rssindexer](https://github.com/greensea/rssindexer) - 索引 BT RSS 资源，提供搜索服务，实现 RSS 大法
-
-*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-
-*   [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
-
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-
-*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-
-*   [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
-
-*   [gogobody/onecircle](https://github.com/gogobody/onecircle) - 一款typecho 社交圈子 主题
-
-*   [yurafuca/5000choyen](https://github.com/yurafuca/5000choyen) - 5000choyen generator
-
-*   [wf-nb/Typecho](https://github.com/wf-nb/Typecho) -
-
-*   [xhboke/IP](https://github.com/xhboke/IP) - IP签名档显示IP、地址、日期······
-
-*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
-
-*   [w920686/typecho\_Oauth](https://github.com/w920686/typecho_Oauth) - typecho免申请第三方应用集成多种第三方登录插件 目前支持 小程序H5扫码即微信扫码 QQ 微博 百度 钉钉 GitHub Gitee 华为 Gitlab 阿里云 支付宝 小米 开源中国 领英 企业微信 飞书 微软 此为typcho插件 其他程序可参考 https://auth.gmit.vip/ 进行开发
-
-*   [jrotty/CatClaw](https://github.com/jrotty/CatClaw) - Typecho猫爪影视采集插件
-
-*   [SC-Networks/deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - Connector library for deepl.com rest translation api
-
-*   [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
-
-*   [newsn/typecho-plugin-github-oauth](https://github.com/newsn/typecho-plugin-github-oauth) - typecho插件，github登陆之oauth，演示地址：https://newsn.net/
-
-*   [ZeroDream-CN/SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) - 樱花内网穿透网站源代码，2020 重制版
-
-*   [meiu/meiupic](https://github.com/meiu/meiupic) - 简洁好用的多用户图片社区。
-
-*   [p0ise/Typecho-ColorfulTags-For-Handsome](https://github.com/p0ise/Typecho-ColorfulTags-For-Handsome) - Handsome专用彩色3D标签云插件，即装即用
-
-*   [ShadowySpirits/BangumiList](https://github.com/ShadowySpirits/BangumiList) - Bangumi 追番列表插件 Typecho 版
-
-*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
-
-*   [MoLeft/CommentToDingtalk](https://github.com/MoLeft/CommentToDingtalk) - typecho插件，可以将评论推送到钉钉
-
-*   [MoLeft/ArticlePoster](https://github.com/MoLeft/ArticlePoster) - 免费的Typecho文章海报插件，基于GD库
-
-*   [mhcyong/TeePay](https://github.com/mhcyong/TeePay) - Typecho 个人支付宝、微信收款插件
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-*   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
-
-*   [BigCoke233/adams](https://github.com/BigCoke233/adams) - 🍀 简洁而不失优雅的 Typecho 主题
-
-*   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
-
-*   [yumusb/autoPicCdn](https://github.com/yumusb/autoPicCdn) -
-
-*   [yumusb/alipay-f2fpay](https://github.com/yumusb/alipay-f2fpay) - 支付宝当面付DEMO
-
-*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。
-
-*   [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay) - WordPress & Typecho插件：「特殊节日使用」在国家公祭日、全国哀悼日时网站增加灰色滤镜。
-
-*   [AlanDecode/PandaBangumi-Typecho-Plugin](https://github.com/AlanDecode/PandaBangumi-Typecho-Plugin) - 给博客添加精美的追番展示页吧！
-
-*   [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
-
-*   [benzBrake/ShortLinks](https://github.com/benzBrake/ShortLinks) - Typecho外链转内链插件，支持正文和评论者链接
-
-*   [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) -
-
-*   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-
-*   [ylqjgm/LoveKKComment](https://github.com/ylqjgm/LoveKKComment) - Typecho 评论邮件通知插件
-
-*   [visamz/CommentToMail](https://github.com/visamz/CommentToMail) - Typecho评论邮件提醒插件
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [ennnnny/typecho](https://github.com/ennnnny/typecho) - typecho plugins
-
-*   [typecho/plugins](https://github.com/typecho/plugins) - Typecho插件列表
-
-*   [Yves-X/Copyright-for-Typecho](https://github.com/Yves-X/Copyright-for-Typecho) - 一个灵活的版权小尾巴插件 for Typecho
-
-*   [droomo/AliOssForTypecho](https://github.com/droomo/AliOssForTypecho) - first upload
-
-*   [dishcheng/cosUploadV5](https://github.com/dishcheng/cosUploadV5) - 针对腾讯云cos v5更新   for Typecho
-
-*   [holmesian/Typecho-AMP](https://github.com/holmesian/Typecho-AMP) - A typecho plugin for Google AMP / Baidu MIP.
-
-*   [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
-
-*   [moegirlwiki/MW-Cloudflare](https://github.com/moegirlwiki/MW-Cloudflare) - mediawiki的clouflare管理插件
-
-*   [AyagawaSeirin/BilibiliFollowPage](https://github.com/AyagawaSeirin/BilibiliFollowPage) - 基于handsome主题的B站追番列表独立页面作品
-
-*   [mixcm/lovewall](https://github.com/mixcm/lovewall) - 趁青春
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget) - 会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily ranking widget, automatically updates, suitable for blog sidebar, etc.
-
-*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
-
-*   [dsyph3r/github-api3-php](https://github.com/dsyph3r/github-api3-php) - PHP library for the GitHub API v3
-
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-
-*   [Tsuk1ko/Comment2IFTTT](https://github.com/Tsuk1ko/Comment2IFTTT) - A Typecho plugin to push new comments to IFTTT Webhooks
-
-*   [vfhky/PlayAtWill](https://github.com/vfhky/PlayAtWill) - 音乐播放器PlayAtWill for typecho插件
-
-*   [metowolf/NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) - 网易云音乐API，项目合并至 Meting
-
-*   [hakula139/UserAgent-for-Typecho](https://github.com/hakula139/UserAgent-for-Typecho) - Typecho 下显示评论 User Agent 的插件
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [luoshuijs/pixiv-homepage-drawing-API](https://github.com/luoshuijs/pixiv-homepage-drawing-API) - P站首页美图获取
-
-*   [spoonysonny/pi-dashboard-daq](https://github.com/spoonysonny/pi-dashboard-daq) -
-
-*   [ghboke/win10explore](https://github.com/ghboke/win10explore) - WordPress win10explore主题
-
-*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
-
-*   [YianAndCode/Comment2Wechat](https://github.com/YianAndCode/Comment2Wechat) - Typecho 插件——新评论微信通知
-
-*   [jzwalk/TeStore](https://github.com/jzwalk/TeStore) - 插件仓库插件 for Typecho 1.1
-
-*   [kokororin/typecho-plugin-Access](https://github.com/kokororin/typecho-plugin-Access) - Access Log Plugin for Typecho
-
-*   [censujiang/Mokore](https://github.com/censujiang/Mokore) - 🎉Wordpress二次元简约个人博客主题by江程训
-
-*   [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
-
-*   [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
-
-*   [SillyLi67/Forlover](https://github.com/SillyLi67/Forlover) - SillyLi表白墙 sillyli.com
-
-*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
-
-*   [GinkgoTeam/YJTZB\_2019](https://github.com/GinkgoTeam/YJTZB_2019) - 2019年”应急挑战杯“大学生网络安全邀请赛题目源码及writeUP
-
-*   [journey-ad/cPlayer-Typecho-Plugin](https://github.com/journey-ad/cPlayer-Typecho-Plugin) - A typecho plugin for a beautiful html5 music player https://github.com/MoePlayer/cPlayer/tree/f9b593dcd89395f9d7dd08ccda428f7628ab9ab2
-
-*   [lkeme/BiliHelper](https://github.com/lkeme/BiliHelper) - （Bilibili）B 站自动领瓜子、直播助手、直播挂机脚本、主站助手 - PHP 版
-
-*   [ColmonBai/raspberrypi\_dht11](https://github.com/ColmonBai/raspberrypi_dht11) - 基于树莓派和DHT11的温湿度远程监控系统
-
-*   [dugulingping/music163API](https://github.com/dugulingping/music163API) - 高品质，快速度，简单易用的网易云音乐API
-
-*   [txperl/Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho) - Typecho Theme Moricolor - 森之色
-
-*   [journey-ad/Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin) - 简单的，有丰富自定义项的 typecho 页面下雪插件
-
-*   [PomeloOfficial/Weibo](https://github.com/PomeloOfficial/Weibo) - 微言大“艺” The Art of Sublime Words
-
-*   [galnetwen/Random-Image](https://github.com/galnetwen/Random-Image) - 随机图片服务
-
-*   [kokororin/pixiv-api-php](https://github.com/kokororin/pixiv-api-php) - Pixiv API for PHP
-
-*   [komeiji-satori/CRZ.im](https://github.com/komeiji-satori/CRZ.im) - 一个域名缩短服务的源代码
-
-*   [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-
-*   [A123asdo11/code-release](https://github.com/A123asdo11/code-release) - 简单的代码发布系统 包括 用户权限控制/环境切换/发不同分支/发不同的机器/发送Log
-
 ## TypeScript
+
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 *   [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 
@@ -735,6 +557,186 @@
 
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
+## PHP
+
+*   [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
+
+*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
+
+*   [greensea/rssindexer](https://github.com/greensea/rssindexer) - 索引 BT RSS 资源，提供搜索服务，实现 RSS 大法
+
+*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+
+*   [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
+
+*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+
+*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+*   [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
+
+*   [gogobody/onecircle](https://github.com/gogobody/onecircle) - 一款typecho 社交圈子 主题
+
+*   [yurafuca/5000choyen](https://github.com/yurafuca/5000choyen) - 5000choyen generator
+
+*   [wf-nb/Typecho](https://github.com/wf-nb/Typecho) -
+
+*   [xhboke/IP](https://github.com/xhboke/IP) - IP签名档显示IP、地址、日期······
+
+*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
+
+*   [w920686/typecho\_Oauth](https://github.com/w920686/typecho_Oauth) - typecho免申请第三方应用集成多种第三方登录插件 目前支持 小程序H5扫码即微信扫码 QQ 微博 百度 钉钉 GitHub Gitee 华为 Gitlab 阿里云 支付宝 小米 开源中国 领英 企业微信 飞书 微软 此为typcho插件 其他程序可参考 https://auth.gmit.vip/ 进行开发
+
+*   [jrotty/CatClaw](https://github.com/jrotty/CatClaw) - Typecho猫爪影视采集插件
+
+*   [SC-Networks/deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - Connector library for deepl.com rest translation api
+
+*   [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
+
+*   [newsn/typecho-plugin-github-oauth](https://github.com/newsn/typecho-plugin-github-oauth) - typecho插件，github登陆之oauth，演示地址：https://newsn.net/
+
+*   [ZeroDream-CN/SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) - 樱花内网穿透网站源代码，2020 重制版
+
+*   [meiu/meiupic](https://github.com/meiu/meiupic) - 简洁好用的多用户图片社区。
+
+*   [p0ise/Typecho-ColorfulTags-For-Handsome](https://github.com/p0ise/Typecho-ColorfulTags-For-Handsome) - Handsome专用彩色3D标签云插件，即装即用
+
+*   [ShadowySpirits/BangumiList](https://github.com/ShadowySpirits/BangumiList) - Bangumi 追番列表插件 Typecho 版
+
+*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
+
+*   [MoLeft/CommentToDingtalk](https://github.com/MoLeft/CommentToDingtalk) - typecho插件，可以将评论推送到钉钉
+
+*   [MoLeft/ArticlePoster](https://github.com/MoLeft/ArticlePoster) - 免费的Typecho文章海报插件，基于GD库
+
+*   [mhcyong/TeePay](https://github.com/mhcyong/TeePay) - Typecho 个人支付宝、微信收款插件
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
+
+*   [BigCoke233/adams](https://github.com/BigCoke233/adams) - 🍀 简洁而不失优雅的 Typecho 主题
+
+*   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
+
+*   [yumusb/autoPicCdn](https://github.com/yumusb/autoPicCdn) -
+
+*   [yumusb/alipay-f2fpay](https://github.com/yumusb/alipay-f2fpay) - 支付宝当面付DEMO
+
+*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。
+
+*   [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay) - WordPress & Typecho插件：「特殊节日使用」在国家公祭日、全国哀悼日时网站增加灰色滤镜。
+
+*   [AlanDecode/PandaBangumi-Typecho-Plugin](https://github.com/AlanDecode/PandaBangumi-Typecho-Plugin) - 给博客添加精美的追番展示页吧！
+
+*   [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
+
+*   [benzBrake/ShortLinks](https://github.com/benzBrake/ShortLinks) - Typecho外链转内链插件，支持正文和评论者链接
+
+*   [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) -
+
+*   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
+
+*   [ylqjgm/LoveKKComment](https://github.com/ylqjgm/LoveKKComment) - Typecho 评论邮件通知插件
+
+*   [visamz/CommentToMail](https://github.com/visamz/CommentToMail) - Typecho评论邮件提醒插件
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [ennnnny/typecho](https://github.com/ennnnny/typecho) - typecho plugins
+
+*   [typecho/plugins](https://github.com/typecho/plugins) - Typecho插件列表
+
+*   [Yves-X/Copyright-for-Typecho](https://github.com/Yves-X/Copyright-for-Typecho) - 一个灵活的版权小尾巴插件 for Typecho
+
+*   [droomo/AliOssForTypecho](https://github.com/droomo/AliOssForTypecho) - first upload
+
+*   [dishcheng/cosUploadV5](https://github.com/dishcheng/cosUploadV5) - 针对腾讯云cos v5更新   for Typecho
+
+*   [holmesian/Typecho-AMP](https://github.com/holmesian/Typecho-AMP) - A typecho plugin for Google AMP / Baidu MIP.
+
+*   [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
+
+*   [moegirlwiki/MW-Cloudflare](https://github.com/moegirlwiki/MW-Cloudflare) - mediawiki的clouflare管理插件
+
+*   [AyagawaSeirin/BilibiliFollowPage](https://github.com/AyagawaSeirin/BilibiliFollowPage) - 基于handsome主题的B站追番列表独立页面作品
+
+*   [mixcm/lovewall](https://github.com/mixcm/lovewall) - 趁青春
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget) - 会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily ranking widget, automatically updates, suitable for blog sidebar, etc.
+
+*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+
+*   [dsyph3r/github-api3-php](https://github.com/dsyph3r/github-api3-php) - PHP library for the GitHub API v3
+
+*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+
+*   [Tsuk1ko/Comment2IFTTT](https://github.com/Tsuk1ko/Comment2IFTTT) - A Typecho plugin to push new comments to IFTTT Webhooks
+
+*   [vfhky/PlayAtWill](https://github.com/vfhky/PlayAtWill) - 音乐播放器PlayAtWill for typecho插件
+
+*   [metowolf/NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) - 网易云音乐API，项目合并至 Meting
+
+*   [hakula139/UserAgent-for-Typecho](https://github.com/hakula139/UserAgent-for-Typecho) - Typecho 下显示评论 User Agent 的插件
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [luoshuijs/pixiv-homepage-drawing-API](https://github.com/luoshuijs/pixiv-homepage-drawing-API) - P站首页美图获取
+
+*   [spoonysonny/pi-dashboard-daq](https://github.com/spoonysonny/pi-dashboard-daq) -
+
+*   [ghboke/win10explore](https://github.com/ghboke/win10explore) - WordPress win10explore主题
+
+*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+
+*   [YianAndCode/Comment2Wechat](https://github.com/YianAndCode/Comment2Wechat) - Typecho 插件——新评论微信通知
+
+*   [jzwalk/TeStore](https://github.com/jzwalk/TeStore) - 插件仓库插件 for Typecho 1.1
+
+*   [kokororin/typecho-plugin-Access](https://github.com/kokororin/typecho-plugin-Access) - Access Log Plugin for Typecho
+
+*   [censujiang/Mokore](https://github.com/censujiang/Mokore) - 🎉Wordpress二次元简约个人博客主题by江程训
+
+*   [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
+
+*   [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
+
+*   [SillyLi67/Forlover](https://github.com/SillyLi67/Forlover) - SillyLi表白墙 sillyli.com
+
+*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
+
+*   [GinkgoTeam/YJTZB\_2019](https://github.com/GinkgoTeam/YJTZB_2019) - 2019年”应急挑战杯“大学生网络安全邀请赛题目源码及writeUP
+
+*   [journey-ad/cPlayer-Typecho-Plugin](https://github.com/journey-ad/cPlayer-Typecho-Plugin) - A typecho plugin for a beautiful html5 music player https://github.com/MoePlayer/cPlayer/tree/f9b593dcd89395f9d7dd08ccda428f7628ab9ab2
+
+*   [lkeme/BiliHelper](https://github.com/lkeme/BiliHelper) - （Bilibili）B 站自动领瓜子、直播助手、直播挂机脚本、主站助手 - PHP 版
+
+*   [ColmonBai/raspberrypi\_dht11](https://github.com/ColmonBai/raspberrypi_dht11) - 基于树莓派和DHT11的温湿度远程监控系统
+
+*   [dugulingping/music163API](https://github.com/dugulingping/music163API) - 高品质，快速度，简单易用的网易云音乐API
+
+*   [txperl/Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho) - Typecho Theme Moricolor - 森之色
+
+*   [journey-ad/Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin) - 简单的，有丰富自定义项的 typecho 页面下雪插件
+
+*   [PomeloOfficial/Weibo](https://github.com/PomeloOfficial/Weibo) - 微言大“艺” The Art of Sublime Words
+
+*   [galnetwen/Random-Image](https://github.com/galnetwen/Random-Image) - 随机图片服务
+
+*   [kokororin/pixiv-api-php](https://github.com/kokororin/pixiv-api-php) - Pixiv API for PHP
+
+*   [komeiji-satori/CRZ.im](https://github.com/komeiji-satori/CRZ.im) - 一个域名缩短服务的源代码
+
+*   [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
+
+*   [A123asdo11/code-release](https://github.com/A123asdo11/code-release) - 简单的代码发布系统 包括 用户权限控制/环境切换/发不同分支/发不同的机器/发送Log
+
 ## Python
 
 *   [huggingface/skills](https://github.com/huggingface/skills) -
@@ -933,7 +935,7 @@
 
 *   [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 
-*   [Jezza34000/homeassistant\_petkit](https://github.com/Jezza34000/homeassistant_petkit) - 😺🐶 Control your PetKit devices with camera support, all in Home Assistant
+*   [Jezza34000/homeassistant\_petkit](https://github.com/Jezza34000/homeassistant_petkit) - 🐾 The most advanced Petkit integration for Home Assistant — full device support, live stream, media, bluetooth relay & more.
 
 *   [hanasa2023/nonebot-plugin-updater](https://github.com/hanasa2023/nonebot-plugin-updater) - 一款全新的检测已安装插件更新情况的插件
 
@@ -2479,7 +2481,7 @@
 
 *   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
 
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，因此还是来学学 AI 时代的第二语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
 *   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 
@@ -6032,8 +6034,6 @@
 *   [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 
 *   [amehime/hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka) - Just For https://shoka.lostyu.me/
-
-*   [Molunerfinn/hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) - :musical\_keyboard:A simple & beautiful & fast theme for Hexo.
 
 ## MATLAB
 
