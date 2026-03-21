@@ -3438,7 +3438,7 @@
 
 *   [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 
-*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database that spins up instantly, scale per request, and drop to zero when idle. Multimodal retrieval and streaming to training PyTorch.
 
 *   [OpenHero/gblastn](https://github.com/OpenHero/gblastn) - G-BLASTN is a GPU-accelerated nucleotide alignment tool based on the widely used NCBI-BLAST.
 
