@@ -2304,7 +2304,7 @@
 
 *   [tomoncle/Python-notes](https://github.com/tomoncle/Python-notes) - Python related technologies used in work: crawler, data analysis, timing tasks, RPC, page parsing, decorator, built-in functions, Python objects, multi-threading, multi-process, asynchronous, redis, mongodb, mysql, openstack, etc.
 
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *   [dreamhunter2333/python\_faceunlock](https://github.com/dreamhunter2333/python_faceunlock) - Python 人脸解锁登录
 
@@ -3438,7 +3438,7 @@
 
 *   [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 
-*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database that spins up instantly, scale per request, and drop to zero when idle. Multimodal retrieval and streaming to training PyTorch.
+*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learning.
 
 *   [OpenHero/gblastn](https://github.com/OpenHero/gblastn) - G-BLASTN is a GPU-accelerated nucleotide alignment tool based on the widely used NCBI-BLAST.
 
@@ -4908,7 +4908,7 @@
 
 *   [Br3uxi/Purple-Night-Theme](https://github.com/Br3uxi/Purple-Night-Theme) - Purple Night Firefox Theme with Twinkling Stars
 
-*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+*   [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
 
 *   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
