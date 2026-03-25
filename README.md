@@ -3439,7 +3439,7 @@
 
 *   [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 
-*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learning.
+*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 
 *   [OpenHero/gblastn](https://github.com/OpenHero/gblastn) - G-BLASTN is a GPU-accelerated nucleotide alignment tool based on the widely used NCBI-BLAST.
 
