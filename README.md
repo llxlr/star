@@ -867,6 +867,8 @@
 
 *   [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 
+*   [A123asdo11/code-release](https://github.com/A123asdo11/code-release) - 简单的代码发布系统 包括 用户权限控制/环境切换/发不同分支/发不同的机器/发送Log
+
 ## Python
 
 *   [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
@@ -1079,7 +1081,7 @@
 
 *   [SamuNatsu/nonebot-plugin-deer-pipe](https://github.com/SamuNatsu/nonebot-plugin-deer-pipe) - 一个🦌管签到插件
 
-*   [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+*   [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 
 *   [nonebot/plugin-apscheduler](https://github.com/nonebot/plugin-apscheduler) - APScheduler Support for NoneBot2
 
@@ -3610,8 +3612,6 @@
 *   [illusionlie/burn-links](https://github.com/illusionlie/burn-links) - 简单的基于Cloudflare Worker的阅后即焚短链接服务
 
 *   [SunXin121/bing\_wallpaper](https://github.com/SunXin121/bing_wallpaper) - 自建 bing 随机壁纸 API
-
-*   [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 
 *   [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
 
