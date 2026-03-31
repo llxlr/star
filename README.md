@@ -4707,7 +4707,7 @@
 
 *   [MiKTeX/miktex](https://github.com/MiKTeX/miktex) - the MiKTeX source code
 
-*   [destan19/OpenAppFilter](https://github.com/destan19/OpenAppFilter) - OAF is a parental control plug-in based on OpenWrt, which supports app filtering for games, videos, chats, downloads, such as Tiktok, Youtube, Telegram,etc.
+*   [destan19/OpenAppFilter](https://github.com/destan19/OpenAppFilter) - OAF(OpenAppFilter) is a parental control software based on OpenWrt. It supports popular applications across gaming, video streaming, instant messaging, such as TikTok, YouTube, Facebook. Currently, it supports hundreds of different applications.
 
 *   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
 
