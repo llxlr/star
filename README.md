@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [PHP](#php)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -87,137 +87,11 @@
 *   [PureBasic](#purebasic)
 *   [Processing](#processing)
 
-## Rust
-
-*   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-
-*   [zydou/arti](https://github.com/zydou/arti) - An implementation of Tor, in Rust. \[NOT Official, Mirrors Only, NO PR here]
-
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-
-*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-
-*   [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
-
-*   [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-
-*   [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
-
-*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-
-*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
-
-*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-
-*   [rzukic/zed-latex](https://github.com/rzukic/zed-latex) -
-
-*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
-
-*   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
-
-*   [microsoft/qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
-
-*   [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-
-*   [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
-
-*   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [longbridge/rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations.
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-
-*   [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
-
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-
-*   [onebot-walle/walle-q](https://github.com/onebot-walle/walle-q) - rs-onebot or rs-cqhttp?
-
-*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-
-*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot https://t.me/av1080profit
-
-*   [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
-
-*   [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
-
-*   [Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer) - An local audio player & m3u8 radio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地/m3u8网络电台播放器🎵.
-
-*   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
-
-*   [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
-
-*   [rust-ml/book](https://github.com/rust-ml/book) - The Rust Machine Learning Book
-
-*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
-
-*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-*   [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
-
-*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
-
-*   [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-
-*   [Asutorufa/hujiang\_dictionary](https://github.com/Asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
-
 ## TypeScript
+
+*   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
+
+*   [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
@@ -491,7 +365,7 @@
 
 *   [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 
-*   [scitedotai/scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) - See how your saved papers are being cited. Displays supporting, contrasting, and mentioning citation counts directly in your library.
+*   [scitedotai/scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) - See how your saved papers are cited. Supporting, contrasting, and mentioning counts appear directly in your Zotero library.
 
 *   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 
@@ -687,6 +561,138 @@
 
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
+## Rust
+
+*   [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.
+
+*   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+
+*   [zydou/arti](https://github.com/zydou/arti) - An implementation of Tor, in Rust. \[NOT Official, Mirrors Only, NO PR here]
+
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+
+*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+
+*   [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
+
+*   [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
+
+*   [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
+
+*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+
+*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+
+*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
+
+*   [rzukic/zed-latex](https://github.com/rzukic/zed-latex) -
+
+*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+
+*   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
+
+*   [microsoft/qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
+
+*   [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+
+*   [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
+
+*   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [longbridge/rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations.
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+
+*   [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
+
+*   [onebot-walle/walle-q](https://github.com/onebot-walle/walle-q) - rs-onebot or rs-cqhttp?
+
+*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
+
+*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot https://t.me/av1080profit
+
+*   [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
+
+*   [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
+
+*   [Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer) - An local audio player & m3u8 radio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地/m3u8网络电台播放器🎵.
+
+*   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
+
+*   [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
+
+*   [rust-ml/book](https://github.com/rust-ml/book) - The Rust Machine Learning Book
+
+*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
+
+*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
+
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+*   [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
+
+*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
+
+*   [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+
+*   [Asutorufa/hujiang\_dictionary](https://github.com/Asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
+
 ## PHP
 
 *   [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
@@ -864,8 +870,6 @@
 *   [komeiji-satori/CRZ.im](https://github.com/komeiji-satori/CRZ.im) - 一个域名缩短服务的源代码
 
 *   [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-
-*   [A123asdo11/code-release](https://github.com/A123asdo11/code-release) - 简单的代码发布系统 包括 用户权限控制/环境切换/发不同分支/发不同的机器/发送Log
 
 ## Python
 
@@ -2305,7 +2309,7 @@
 
 *   [tomoncle/Python-notes](https://github.com/tomoncle/Python-notes) - Python related technologies used in work: crawler, data analysis, timing tasks, RPC, page parsing, decorator, built-in functions, Python objects, multi-threading, multi-process, asynchronous, redis, mongodb, mysql, openstack, etc.
 
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 
 *   [dreamhunter2333/python\_faceunlock](https://github.com/dreamhunter2333/python_faceunlock) - Python 人脸解锁登录
 
@@ -4351,8 +4355,6 @@
 
 *   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 
-*   [codefine/hexo-theme-mellow](https://github.com/codefine/hexo-theme-mellow) - based on material design
-
 ## Vue
 
 *   [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力、iCal日程同步以及账单管理功能。同时支持Worker和Docker方式部署。
@@ -5504,8 +5506,6 @@
 *   [jonathonyan/Anime-Face-Detection-and-Recognition](https://github.com/jonathonyan/Anime-Face-Detection-and-Recognition) - CSC420 Fall 2019 Project
 
 *   [xushengyuan/Fastsinging](https://github.com/xushengyuan/Fastsinging) - 一个基于Fastspeech的开源歌声合成系统
-
-*   [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model. Accuracy 90%+
 
 *   [WillKoehrsen/pytorch\_challenge](https://github.com/WillKoehrsen/pytorch_challenge) -
 
