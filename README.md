@@ -89,9 +89,9 @@
 
 ## Rust
 
-*   [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
+*   [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 
-*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - \[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - \[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
 *   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 
@@ -1157,7 +1157,7 @@
 
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
-*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 562 颗 ★
+*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 563 颗 ★
 
 *   [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 
