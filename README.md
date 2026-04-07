@@ -653,7 +653,7 @@
 
 *   [xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) - 与其迷恋幻影，不如迷恋Crush。欢迎加入数字永生！Inspired by colleague-skill（同事skill）.
 
-*   [perkfly/ex-skill](https://github.com/perkfly/ex-skill) - 前女友 skill
+*   [perkfly/ex-skill](https://github.com/perkfly/ex-skill) - 前任 skill
 
 *   [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) - 老板.skills. 把老板炼入token，把生产力的解放留给自己。Alchemize your boss into a token, and keep the liberation of productivity for yourself.
 
@@ -753,7 +753,7 @@
 
 *   [georgezhao2010/midea\_ac\_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 
-*   [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23 Downloader 是一款跨平台（Windows/Linux/macOS）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。支持多线程加速、断点续传等特性，搭配图形化界面与零配置操作，提供高效便捷的下载体验。
+*   [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23-Downloader 是一款跨平台的 B 站视频下载工具，兼容 Windows（含 Win7）、Linux 和 macOS。它拥有现代化 UI，支持音视频流分离下载、多线程加速、弹幕与字幕获取、封面提取、元数据刮削等丰富功能，并可自定义文件命名与分类，满足多样化需求。
 
 *   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
 
@@ -2068,8 +2068,6 @@
 *   [llSourcell/Make\_Money\_with\_Tensorflow](https://github.com/llSourcell/Make_Money_with_Tensorflow) - This is the code for "Make Money with Tensorflow" by Siraj Raval on Youtube
 
 *   [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
-
-*   [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 
 *   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
@@ -4217,7 +4215,7 @@
 
 *   [go-python/cpy3](https://github.com/go-python/cpy3) - Go bindings to the CPython-3 API
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
@@ -5738,6 +5736,8 @@
 *   [LarryJiang134/Image\_manipulation\_detection](https://github.com/LarryJiang134/Image_manipulation_detection) - Paper: CVPR2018, Learning Rich Features for Image Manipulation Detection
 
 *   [czy36mengfei/tensorflow2\_tutorials\_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) - tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
+
+*   [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 
 *   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 
