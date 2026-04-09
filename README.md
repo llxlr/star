@@ -5805,7 +5805,7 @@
 
 *   [FossifyOrg/Clock](https://github.com/FossifyOrg/Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
 
-*   [sosauce/Chocola](https://github.com/sosauce/Chocola) - Chocola is a cute and powerful offline music player for Android!
+*   [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 
 *   [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
 
