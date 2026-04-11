@@ -2509,7 +2509,7 @@
 
 *   [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
 
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+*   [win12-online/win12](https://github.com/win12-online/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
 *   [lxl80/hexo-admonition](https://github.com/lxl80/hexo-admonition) - Add block-styled admonition to hexo, e.g. note, warning or error. | Hexo内容辅助插件，支持向文档中添加如提示、警告、错误等块式内容。
 
