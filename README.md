@@ -4566,7 +4566,7 @@
 
 *   [Richasy/Rodel.Agent](https://github.com/Richasy/Rodel.Agent) - 支持主流在线 AI 服务的应用
 
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI Automation Testing Tools For Genshin Impact
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
 
 *   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 
@@ -5800,7 +5800,7 @@
 
 ## Kotlin
 
-*   [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Encrypted Gallery App for Android
+*   [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 
 *   [Moriafly/spw-workshop-api](https://github.com/Moriafly/spw-workshop-api) - SPW 创意工坊（Mod）API
 
