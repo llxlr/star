@@ -3220,7 +3220,7 @@
 
 *   [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 
 *   [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) - Customize the displayed authors list
 
@@ -4262,7 +4262,7 @@
 
 *   [skip2/go-qrcode](https://github.com/skip2/go-qrcode) - :sparkles: QR Code encoder (Go)
 
-*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - A scalable social community platform powered by Gin backend and modern TypeScript/Vue frontend architecture
 
 *   [jchv/go-webview2](https://github.com/jchv/go-webview2) - WebView2 bindings for pure Go, without CGo, based on the webview/webview bindings.
 
