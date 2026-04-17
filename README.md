@@ -182,7 +182,7 @@
 
 *   [TimeRainStarSky/Yunzai](https://github.com/TimeRainStarSky/Yunzai) - Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord
 
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive)
 
 *   [QDDCoder/gemini-pro-proxy](https://github.com/QDDCoder/gemini-pro-proxy) - 使用腾讯云搭建Google的gemini代理
 
