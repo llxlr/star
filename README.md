@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [JavaScript](#javascript)
 *   [Roff](#roff)
 *   [Python](#python)
@@ -89,6 +90,10 @@
 *   [Processing](#processing)
 *   [VimL](#viml)
 *   [CoffeeScript](#coffeescript)
+
+## Astro
+
+*   [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) - 下一代Material Design 3 博客主题(Astro驱动)
 
 ## JavaScript
 
@@ -1127,6 +1132,8 @@
 *   [PowerHouseMan/ComfyUI-AdvancedLivePortrait](https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait) -
 
 *   [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
+
+*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 
 *   [nonebot/adapter-telegram](https://github.com/nonebot/adapter-telegram) - NoneBot2 Telegram适配器 / Telegram Adapter for NoneBot2
 
@@ -2642,8 +2649,6 @@
 
 *   [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) -
 
-*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
-
 *   [PatrickAlex2019/PhotoEditor](https://github.com/PatrickAlex2019/PhotoEditor) - PhotoEditor Mod - A powerful and beautiful Android mobile phone image editing software
 
 *   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  智能桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 900 KB
@@ -3119,8 +3124,6 @@
 *   [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
 *   [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
-
-*   [guoyunsky/Markdown-Chinese-Demo](https://github.com/guoyunsky/Markdown-Chinese-Demo) - 针对中文,演示Markdown的各种语法
 
 ## TypeScript
 
@@ -6078,7 +6081,7 @@
 
 *   [IoT-Technology/IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) - :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
 
-*   [TechNewegg/redis-manager](https://github.com/TechNewegg/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
+*   [neweggai/redis-manager](https://github.com/neweggai/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
 
 *   [iTXTech/mirai-console-loader](https://github.com/iTXTech/mirai-console-loader) - 模块化、轻量级且支持完全自定义的 mirai 加载器。
 
