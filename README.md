@@ -5725,8 +5725,6 @@
 
 *   [sangyx/d2l-torch](https://github.com/sangyx/d2l-torch) - 《动手学深度学习》 PyTorch 版本
 
-*   [echohandsome/Machine\_Learning\_in\_Action\_for\_smallwhite](https://github.com/echohandsome/Machine_Learning_in_Action_for_smallwhite) - 面向机器学习初学者的最全注释版本的机器学习实战的代码
-
 *   [dataflowr/notebooks](https://github.com/dataflowr/notebooks) - code for deep learning courses
 
 *   [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
@@ -6340,6 +6338,8 @@
 *   [letiantian/huno](https://github.com/letiantian/huno) - A responsible theme for Hexo
 
 *   [juthilo/run-jekyll-on-windows](https://github.com/juthilo/run-jekyll-on-windows) - Learn how to run Jekyll, the blog-aware, static site generator in Ruby on Windows.
+
+*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
 
 ## Fluent
 
