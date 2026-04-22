@@ -3331,8 +3331,6 @@
 
 *   [PKM-er/obsidian-zotlit](https://github.com/PKM-er/obsidian-zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero, by providing a set of community plugins for both Obsidian and Zotero.
 
-*   [volatile-static/Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
-
 *   [obsidian-community/obsidian-zotero-integration](https://github.com/obsidian-community/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 
 *   [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
@@ -5056,6 +5054,8 @@
 *   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+*   [volatile-static/Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
 
 *   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 
