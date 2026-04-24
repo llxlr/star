@@ -93,6 +93,8 @@
 
 ## JavaScript
 
+*   [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+
 *   [amehime/hexo-renderer-multi-markdown-it](https://github.com/amehime/hexo-renderer-multi-markdown-it) - A renderer plugin for Hexo based on Markdown-it and auto Minify HTML, CSS, JS.
 
 *   [steven-jianhao-li/zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
@@ -6338,8 +6340,6 @@
 *   [letiantian/huno](https://github.com/letiantian/huno) - A responsible theme for Hexo
 
 *   [juthilo/run-jekyll-on-windows](https://github.com/juthilo/run-jekyll-on-windows) - Learn how to run Jekyll, the blog-aware, static site generator in Ruby on Windows.
-
-*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
 
 ## Fluent
 
