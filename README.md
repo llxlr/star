@@ -93,6 +93,8 @@
 
 ## JavaScript
 
+*   [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
+
 *   [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 
 *   [amehime/hexo-renderer-multi-markdown-it](https://github.com/amehime/hexo-renderer-multi-markdown-it) - A renderer plugin for Hexo based on Markdown-it and auto Minify HTML, CSS, JS.
@@ -2581,8 +2583,6 @@
 
 *   [sixs/anyew](https://github.com/sixs/anyew) - 暗夜小说网python爬虫 —— http://m.anyew.cn
 
-*   [wuub/SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
-
 ## miscellaneous
 
 *   [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
@@ -3300,8 +3300,6 @@
 *   [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 
 *   [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit) - Toolkit for Zotero Plugin Developers.
-
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 
 *   [redleafnew/zotero-updateifsE](https://github.com/redleafnew/zotero-updateifsE) - Green Frog https://github.com/redleafnew/zotero-updateifs  的easyScholar数据版。更新影响因子，其他一系列工具，详见Readme
 
@@ -5046,6 +5044,8 @@
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 
 *   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
