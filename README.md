@@ -1139,7 +1139,7 @@
 
 *   [Blk-S-Bellamy/RecWare-Photok](https://github.com/Blk-S-Bellamy/RecWare-Photok) - Decrypt backups and files encrypted with Photok from a Windows or Linux desktop. Even recover partially damaged backups too!
 
-*   [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data context layer for unstructured data - images, video, sensor data, text and PDFs
+*   [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 
 *   [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
 
@@ -2058,6 +2058,8 @@
 *   [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 
 *   [avinassh/pytorch-flask-api](https://github.com/avinassh/pytorch-flask-api) -
+
+*   [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
 
 *   [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - python module to plot beautiful and highly customizable genome browser tracks
 
@@ -5641,8 +5643,6 @@
 
 *   [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 
-*   [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
-
 *   [deeplearningzerotoall/PyTorch](https://github.com/deeplearningzerotoall/PyTorch) - Deep Learning Zero to All - Pytorch
 
 *   [d2l-ai/d2l-pytorch-colab](https://github.com/d2l-ai/d2l-pytorch-colab) - Automatically Generated Notebooks for Colab
@@ -6571,7 +6571,7 @@
 
 ## BibTeX Style
 
-*   [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - GB/T 7714-2015 BibTeX Style
+*   [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - BibTeX styles for China national standard GB/T 7714
 
 ## CMake
 
