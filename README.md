@@ -14,8 +14,8 @@
 *   [Rust](#rust)
 *   [PHP](#php)
 *   [Shell](#shell)
-*   [C++](#c-1)
 *   [Go](#go)
+*   [C++](#c-1)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [C](#c-2)
@@ -1090,6 +1090,8 @@
 *   [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 
 *   [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
+
+*   [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
 
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
@@ -4337,298 +4339,6 @@
 
 *   [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
 
-## C++
-
-*   [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站
-
-*   [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
-
-*   [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
-
-*   [koadman/mauveAligner](https://github.com/koadman/mauveAligner) - command-line interface software for genome alignment
-
-*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
-*   [MrBeanCpp/Dr-Folder](https://github.com/MrBeanCpp/Dr-Folder) - Select icons for your software folders automatically.
-
-*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
-
-*   [electron/rcedit](https://github.com/electron/rcedit) - Command line tool to edit resources of exe
-
-*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。
-
-*   [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
-
-*   [XiaoMi/StableDiffusionOnDevice](https://github.com/XiaoMi/StableDiffusionOnDevice) - 本项目是一个通过文字生成图片的项目，基于开源模型Stable Diffusion V1.5生成可以在手机的CPU和NPU上运行的模型，包括其配套的模型运行框架。
-
-*   [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
-
-*   [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-
-*   [deepmodeling/deepflame-dev](https://github.com/deepmodeling/deepflame-dev) - A deep learning empowered open-source platform for reacting flow simulations
-
-*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
-
-*   [microsoft/MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
-
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-*   [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
-
-*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-
-*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
-
-*   [fxliang/weasel](https://github.com/fxliang/weasel) - 【小狼毫】Rime for Windows
-
-*   [Zhou-zhi-peng/SerialPortForWindowsTerminal](https://github.com/Zhou-zhi-peng/SerialPortForWindowsTerminal) - Serial port for windows terminal, 让Windows Terminal支持串口的插件
-
-*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-
-*   [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-
-*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-
-*   [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
-
-*   [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
-
-*   [L-Super/udesigner](https://github.com/L-Super/udesigner) -
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-
-*   [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
-
-*   [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
-
-*   [pywinrt/python-winsdk](https://github.com/pywinrt/python-winsdk) - Python package with bindings for Windows SDK
-
-*   [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) - chess variant engine supporting Xiangqi, Shogi, Janggi, Makruk, S-Chess, Crazyhouse, Bughouse, and many more
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-
-*   [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) -
-
-*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
-
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-*   [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
-
-*   [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
-
-*   [SlopeCraft/SlopeCraft](https://github.com/SlopeCraft/SlopeCraft) - Map Pixel Art Generator for Minecraft
-
-*   [Maplespe/explorerTool](https://github.com/Maplespe/explorerTool) - Custom Windows Explorer background image
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [wx1183618058/ZET-Optical-Network-Terminal-Decoder](https://github.com/wx1183618058/ZET-Optical-Network-Terminal-Decoder) -
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [klatexformula/klatexformula](https://github.com/klatexformula/klatexformula) - Generate images from LaTeX equations that you can drag and drop, copy and paste or save to disk.
-
-*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-
-*   [CuriosAI/sai](https://github.com/CuriosAI/sai) - SAI: a fork of Leela Zero with variable komi.
-
-*   [netease-im/NIM\_Duilib\_Framework](https://github.com/netease-im/NIM_Duilib_Framework) - 网易云信Windows应用开发框架。
-
-*   [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-
-*   [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理 Study the principles of cheat design from scratch
-
-*   [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
-
-*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-
-*   [Dice-Developer-Team/Dice](https://github.com/Dice-Developer-Team/Dice) - QQ Dice Robot For TRPG QQ跑团掷骰机器人
-
-*   [brian-pantano/PianoFromAbove](https://github.com/brian-pantano/PianoFromAbove) -
-
-*   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper
-
-*   [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
-
-*   [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-
-*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
-
-*   [OpenHero/gblastn](https://github.com/OpenHero/gblastn) - G-BLASTN is a GPU-accelerated nucleotide alignment tool based on the widely used NCBI-BLAST.
-
-*   [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
-
-*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-*   [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
-
-*   [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
-
-*   [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
-
-*   [akof1314/CoolFormat](https://github.com/akof1314/CoolFormat) - CoolFormat Source Code Formatter
-
-*   [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
-
-*   [markondej/fm\_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
-
-*   [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C++ DataFrame for statistical, financial, and ML analysis in modern C++
-
-*   [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-
-*   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-
-*   [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
-
-*   [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
-
-*   [SirLynix/obs-kinect](https://github.com/SirLynix/obs-kinect) - OBS Plugin to use a Kinect (all models supported) in OBS (and setup a virtual green screen based on depth and/or body detection).
-
-*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-
-*   [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - High Performance Chinese License Plate Recognition Framework.
-
-*   [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
-
-*   [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
-
-*   [trishume/eyeLike](https://github.com/trishume/eyeLike) - A webcam based pupil tracking implementation.
-
-*   [mlverse/torch](https://github.com/mlverse/torch) - R Interface to Torch
-
-*   [softwareQinc/qpp](https://github.com/softwareQinc/qpp) - Modern C++ quantum computing library
-
-*   [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-
-*   [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
-
-*   [microsoft/DirectML](https://github.com/microsoft/DirectML) - ⚠️DirectML is in maintenance mode ⚠️ DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
-
-*   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
-
-*   [tankaishuai/eval32\_as\_Matlab](https://github.com/tankaishuai/eval32_as_Matlab) - 迷你版仿Matlab矩阵表达式计算解释器
-
-*   [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
-
-*   [BIGBALLON/PyTorch-CPP](https://github.com/BIGBALLON/PyTorch-CPP) - PyTorch C++ inference with LibTorch
-
-*   [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-
-*   [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
-
-*   [WindowsNoEditor/Automatic-sprout-cultivation-system-ASCS](https://github.com/WindowsNoEditor/Automatic-sprout-cultivation-system-ASCS) - 自动化豆芽培育系统
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-
-*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
-
-*   [pezy/CppPrimer](https://github.com/pezy/CppPrimer) - :books: Solutions for C++ Primer 5th exercises.
-
-*   [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
-
-*   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-*   [skriegman/reconfigurable\_organisms](https://github.com/skriegman/reconfigurable_organisms) - A scalable pipeline for designing reconfigurable organisms
-
-*   [peter1591/hearthstone-ai](https://github.com/peter1591/hearthstone-ai) - A Hearthstone AI based on Monte Carlo tree search and neural nets written in modern C++.
-
-*   [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-
-*   [Tencent/wwsearch](https://github.com/Tencent/wwsearch) - A full-text search engine supporting massive users, real-time updating, fast fuzzy matching and flexible table splitting.
-
-*   [kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api) - 为 酷Q 提供通过 HTTP 或 WebSocket 接收事件和调用 API 的能力
-
-*   [aliyun/ossfs](https://github.com/aliyun/ossfs) - A high-performance file client for mounting an OSS bucket as a local filesystem.
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [daliansky/Dell-Inspiron-7560-Hackintosh](https://github.com/daliansky/Dell-Inspiron-7560-Hackintosh) - Dell Inspiron 7000 (7x60) for macOS Mojave & High Sierra & Sierra
-
-*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
-
-*   [journey-ad/USTC-CS-Courses-Resource](https://github.com/journey-ad/USTC-CS-Courses-Resource) - :heart:中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)
-
-*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
-
-*   [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-
-*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
-
-*   [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
-
-*   [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
-
-*   [edvardHua/PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) -  :dancer: Real-time single person pose estimation for Android and iOS.
-
-*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
-
-*   [zhiwuba/Spider](https://github.com/zhiwuba/Spider) - 高性能爬虫
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
-
-*   [TonyRobotics/gauss](https://github.com/TonyRobotics/gauss) - code repo for gauss6500
-
-*   [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [gloomyfish1998/opencv\_tutorial](https://github.com/gloomyfish1998/opencv_tutorial) - 基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像
-
-*   [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-
-*   [o0o0o0o0o0o0o/image-processing-from-scratch](https://github.com/o0o0o0o0o0o0o/image-processing-from-scratch) - This project contains some interesting image processing algorithms that were wrote in python and c++ from scratch.
-
-*   [devosoft/avida](https://github.com/devosoft/avida) -
-
-*   [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-
-*   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
-
-*   [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
-
-*   [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-
-*   [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
-
-*   [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract) - Tesseract Open Source OCR Engine (main repository)
-
-*   [davisking/dlib-models](https://github.com/davisking/dlib-models) - Trained model files for dlib example programs.
-
-*   [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
-
-*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-
-*   [Fluorohydride/ygopro](https://github.com/Fluorohydride/ygopro) - A script engine for "yu-gi-oh!" and sample gui
-
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-
-*   [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-
-*   [chitao1234/aria2-2048-threads](https://github.com/chitao1234/aria2-2048-threads) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [DaidoujiChen/DaiLive2DPlayground](https://github.com/DaidoujiChen/DaiLive2DPlayground) - Get a girl friend in programming
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
 ## Go
 
 *   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -5020,6 +4730,296 @@
 *   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 *   [shakenetwork/onionscan](https://github.com/shakenetwork/onionscan) - OnionScan暗网爬虫是一个免费的开源工具，用于调查黑网。 OnionScan is a free and open source tool for investigating the Dark Web https://github.com/s-rah/onionscan
+
+## C++
+
+*   [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+
+*   [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
+
+*   [koadman/mauveAligner](https://github.com/koadman/mauveAligner) - command-line interface software for genome alignment
+
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [MrBeanCpp/Dr-Folder](https://github.com/MrBeanCpp/Dr-Folder) - Select icons for your software folders automatically.
+
+*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
+
+*   [electron/rcedit](https://github.com/electron/rcedit) - Command line tool to edit resources of exe
+
+*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。
+
+*   [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
+
+*   [XiaoMi/StableDiffusionOnDevice](https://github.com/XiaoMi/StableDiffusionOnDevice) - 本项目是一个通过文字生成图片的项目，基于开源模型Stable Diffusion V1.5生成可以在手机的CPU和NPU上运行的模型，包括其配套的模型运行框架。
+
+*   [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
+
+*   [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+
+*   [deepmodeling/deepflame-dev](https://github.com/deepmodeling/deepflame-dev) - A deep learning empowered open-source platform for reacting flow simulations
+
+*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
+
+*   [microsoft/MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
+
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+*   [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
+
+*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
+
+*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
+
+*   [fxliang/weasel](https://github.com/fxliang/weasel) - 【小狼毫】Rime for Windows
+
+*   [Zhou-zhi-peng/SerialPortForWindowsTerminal](https://github.com/Zhou-zhi-peng/SerialPortForWindowsTerminal) - Serial port for windows terminal, 让Windows Terminal支持串口的插件
+
+*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
+*   [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+
+*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+
+*   [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
+
+*   [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
+
+*   [L-Super/udesigner](https://github.com/L-Super/udesigner) -
+
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+
+*   [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
+
+*   [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
+
+*   [pywinrt/python-winsdk](https://github.com/pywinrt/python-winsdk) - Python package with bindings for Windows SDK
+
+*   [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) - chess variant engine supporting Xiangqi, Shogi, Janggi, Makruk, S-Chess, Crazyhouse, Bughouse, and many more
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+*   [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) -
+
+*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+
+*   [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
+
+*   [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
+
+*   [SlopeCraft/SlopeCraft](https://github.com/SlopeCraft/SlopeCraft) - Map Pixel Art Generator for Minecraft
+
+*   [Maplespe/explorerTool](https://github.com/Maplespe/explorerTool) - Custom Windows Explorer background image
+
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+*   [wx1183618058/ZET-Optical-Network-Terminal-Decoder](https://github.com/wx1183618058/ZET-Optical-Network-Terminal-Decoder) -
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
+*   [klatexformula/klatexformula](https://github.com/klatexformula/klatexformula) - Generate images from LaTeX equations that you can drag and drop, copy and paste or save to disk.
+
+*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
+
+*   [CuriosAI/sai](https://github.com/CuriosAI/sai) - SAI: a fork of Leela Zero with variable komi.
+
+*   [netease-im/NIM\_Duilib\_Framework](https://github.com/netease-im/NIM_Duilib_Framework) - 网易云信Windows应用开发框架。
+
+*   [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+
+*   [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理 Study the principles of cheat design from scratch
+
+*   [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
+
+*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+
+*   [Dice-Developer-Team/Dice](https://github.com/Dice-Developer-Team/Dice) - QQ Dice Robot For TRPG QQ跑团掷骰机器人
+
+*   [brian-pantano/PianoFromAbove](https://github.com/brian-pantano/PianoFromAbove) -
+
+*   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper
+
+*   [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
+
+*   [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
+
+*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
+
+*   [OpenHero/gblastn](https://github.com/OpenHero/gblastn) - G-BLASTN is a GPU-accelerated nucleotide alignment tool based on the widely used NCBI-BLAST.
+
+*   [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
+
+*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+*   [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
+
+*   [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
+
+*   [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
+
+*   [akof1314/CoolFormat](https://github.com/akof1314/CoolFormat) - CoolFormat Source Code Formatter
+
+*   [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
+
+*   [markondej/fm\_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
+
+*   [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C++ DataFrame for statistical, financial, and ML analysis in modern C++
+
+*   [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+
+*   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
+
+*   [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
+
+*   [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
+
+*   [SirLynix/obs-kinect](https://github.com/SirLynix/obs-kinect) - OBS Plugin to use a Kinect (all models supported) in OBS (and setup a virtual green screen based on depth and/or body detection).
+
+*   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+
+*   [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - High Performance Chinese License Plate Recognition Framework.
+
+*   [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+
+*   [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
+
+*   [trishume/eyeLike](https://github.com/trishume/eyeLike) - A webcam based pupil tracking implementation.
+
+*   [mlverse/torch](https://github.com/mlverse/torch) - R Interface to Torch
+
+*   [softwareQinc/qpp](https://github.com/softwareQinc/qpp) - Modern C++ quantum computing library
+
+*   [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+
+*   [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
+
+*   [microsoft/DirectML](https://github.com/microsoft/DirectML) - ⚠️DirectML is in maintenance mode ⚠️ DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
+
+*   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+
+*   [tankaishuai/eval32\_as\_Matlab](https://github.com/tankaishuai/eval32_as_Matlab) - 迷你版仿Matlab矩阵表达式计算解释器
+
+*   [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
+
+*   [BIGBALLON/PyTorch-CPP](https://github.com/BIGBALLON/PyTorch-CPP) - PyTorch C++ inference with LibTorch
+
+*   [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
+
+*   [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+
+*   [WindowsNoEditor/Automatic-sprout-cultivation-system-ASCS](https://github.com/WindowsNoEditor/Automatic-sprout-cultivation-system-ASCS) - 自动化豆芽培育系统
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+
+*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
+
+*   [pezy/CppPrimer](https://github.com/pezy/CppPrimer) - :books: Solutions for C++ Primer 5th exercises.
+
+*   [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
+
+*   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+*   [skriegman/reconfigurable\_organisms](https://github.com/skriegman/reconfigurable_organisms) - A scalable pipeline for designing reconfigurable organisms
+
+*   [peter1591/hearthstone-ai](https://github.com/peter1591/hearthstone-ai) - A Hearthstone AI based on Monte Carlo tree search and neural nets written in modern C++.
+
+*   [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+*   [Tencent/wwsearch](https://github.com/Tencent/wwsearch) - A full-text search engine supporting massive users, real-time updating, fast fuzzy matching and flexible table splitting.
+
+*   [kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api) - 为 酷Q 提供通过 HTTP 或 WebSocket 接收事件和调用 API 的能力
+
+*   [aliyun/ossfs](https://github.com/aliyun/ossfs) - A high-performance file client for mounting an OSS bucket as a local filesystem.
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [daliansky/Dell-Inspiron-7560-Hackintosh](https://github.com/daliansky/Dell-Inspiron-7560-Hackintosh) - Dell Inspiron 7000 (7x60) for macOS Mojave & High Sierra & Sierra
+
+*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
+
+*   [journey-ad/USTC-CS-Courses-Resource](https://github.com/journey-ad/USTC-CS-Courses-Resource) - :heart:中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)
+
+*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
+
+*   [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+
+*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
+
+*   [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
+
+*   [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
+
+*   [edvardHua/PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) -  :dancer: Real-time single person pose estimation for Android and iOS.
+
+*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
+
+*   [zhiwuba/Spider](https://github.com/zhiwuba/Spider) - 高性能爬虫
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
+
+*   [TonyRobotics/gauss](https://github.com/TonyRobotics/gauss) - code repo for gauss6500
+
+*   [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+*   [gloomyfish1998/opencv\_tutorial](https://github.com/gloomyfish1998/opencv_tutorial) - 基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像
+
+*   [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+
+*   [o0o0o0o0o0o0o/image-processing-from-scratch](https://github.com/o0o0o0o0o0o0o/image-processing-from-scratch) - This project contains some interesting image processing algorithms that were wrote in python and c++ from scratch.
+
+*   [devosoft/avida](https://github.com/devosoft/avida) -
+
+*   [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+
+*   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
+
+*   [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
+
+*   [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+
+*   [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
+
+*   [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [davisking/dlib-models](https://github.com/davisking/dlib-models) - Trained model files for dlib example programs.
+
+*   [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
+
+*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+
+*   [Fluorohydride/ygopro](https://github.com/Fluorohydride/ygopro) - A script engine for "yu-gi-oh!" and sample gui
+
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
+
+*   [chitao1234/aria2-2048-threads](https://github.com/chitao1234/aria2-2048-threads) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [DaidoujiChen/DaiLive2DPlayground](https://github.com/DaidoujiChen/DaiLive2DPlayground) - Get a girl friend in programming
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 ## Vue
 
