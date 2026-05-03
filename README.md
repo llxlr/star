@@ -6571,7 +6571,7 @@
 
 ## BibTeX Style
 
-*   [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - BibTeX styles for China national standard GB/T 7714
+*   [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - BibTeX styles for Chinese National Standard GB/T 7714
 
 ## CMake
 
