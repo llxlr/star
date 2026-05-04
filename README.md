@@ -1485,7 +1485,7 @@
 
 *   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 
 *   [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 
