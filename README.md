@@ -751,6 +751,8 @@
 
 *   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
 *   [egoist/docute-evanyou](https://github.com/egoist/docute-evanyou) - A docute plugin inspired by evan you.
 
 *   [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
@@ -959,7 +961,7 @@
 
 *   [ben174/git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app\_4jvnd48x7khm1
+*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 *   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 
@@ -6390,8 +6392,6 @@
 *   [cloudflare/serverless-action](https://github.com/cloudflare/serverless-action) -
 
 *   [NishkarshRaj/Dockerize-Actions](https://github.com/NishkarshRaj/Dockerize-Actions) - #ActionsHackathon submission for Dev: GitHub Actions Hackathon - Dockerize your source code repository on GitHub, build it remotely via GitHub Actions and deploy it on GitHub Packages.
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [winterssy/SSR-Docker](https://github.com/winterssy/SSR-Docker) - 使用Docker部署ShadowsocksR服务端
 
