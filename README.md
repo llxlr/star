@@ -803,7 +803,7 @@
 
 *   [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 
-*   [huangxd-/danmu\_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
+*   [huangxd-/danmu\_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 
 *   [FFTYYY/YMusic](https://github.com/FFTYYY/YMusic) - 用一两个简单的符号在网页上写乐谱！
 
@@ -1571,7 +1571,7 @@
 
 *   [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 
-*   [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
+*   [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
@@ -2142,8 +2142,6 @@
 *   [nschloe/matplotx](https://github.com/nschloe/matplotx) - :bar\_chart: More styles and useful extensions for Matplotlib
 
 *   [veusz/veusz](https://github.com/veusz/veusz) - Veusz scientific plotting application
-
-*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
 
 *   [RimoChan/kill3d](https://github.com/RimoChan/kill3d) - 三次元人类屏蔽器！
 
@@ -3325,7 +3323,7 @@
 
 *   [PatrickAlex2019/PhotoEditor](https://github.com/PatrickAlex2019/PhotoEditor) - PhotoEditor Mod - A powerful and beautiful Android mobile phone image editing software
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  智能桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 900 KB
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  智能桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 906 KB
 
 *   [trzsz/lrzsz-win32](https://github.com/trzsz/lrzsz-win32) - The lrzsz suite of x/y/z-modem tools on Windows.
 
@@ -4188,6 +4186,8 @@
 *   [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 
 *   [sbwml/alist-heroku](https://github.com/sbwml/alist-heroku) -
+
+*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
 
 *   [moneymeets/python-poetry-buildpack](https://github.com/moneymeets/python-poetry-buildpack) - Heroku buildpack that makes it possible to use Poetry with the official Python buildpack
 
