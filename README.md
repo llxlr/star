@@ -1767,7 +1767,7 @@
 
 *   [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 
-*   [Jezza34000/homeassistant\_petkit](https://github.com/Jezza34000/homeassistant_petkit) - 🐾 The most advanced Petkit integration for Home Assistant : full device support, live stream, media, bluetooth relay & more.
+*   [Jezza34000/homeassistant\_petkit](https://github.com/Jezza34000/homeassistant_petkit) - A full-featured Petkit experience, natively in Home Assistant
 
 *   [hanasa2023/nonebot-plugin-updater](https://github.com/hanasa2023/nonebot-plugin-updater) - 一款全新的检测已安装插件更新情况的插件
 
@@ -1965,7 +1965,7 @@
 
 *   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
 *   [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 
