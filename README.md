@@ -4127,7 +4127,7 @@
 
 ## Shell
 
-*   [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) -  在Docker容器中运行 MDCX，并通过Web界面或远程桌面进行控制。Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.
+*   [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) - Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.
 
 *   [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 
