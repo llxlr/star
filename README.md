@@ -3883,6 +3883,8 @@
 
 *   [junxiaosong/AlphaZero\_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku) - An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)
 
+*   [bmob/BmobDocs](https://github.com/bmob/BmobDocs) - Bmob 文档中心
+
 *   [x0rz/tweets\_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 
 *   [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
@@ -5300,8 +5302,6 @@
 *   [Jan1995/Sao\_Operation](https://github.com/Jan1995/Sao_Operation) -
 
 *   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
-
-*   [bmob/BmobDocs](https://github.com/bmob/BmobDocs) - Bmob 文档中心
 
 *   [MapleRecall/html5-particles](https://github.com/MapleRecall/html5-particles) - A particle generator on HTML 5 Canvas
 
