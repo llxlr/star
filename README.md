@@ -1363,7 +1363,7 @@
 
 *   [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software \[NOW PATCHED]
 
-*   [rentruewang/aioway](https://github.com/rentruewang/aioway) - AI on the way. An RDBMS approach to deep learning. Declarative, explainable, scalable, optimizable, easy to deploy, all that good stuff.
+*   [rentruewang/aioway](https://github.com/rentruewang/aioway) - AI on the way. An auto deep learning pipe dream. An RDBMS approach to deep learning. Declarative, explainable, scalable, optimizable, easy to deploy, all that good stuff.
 
 *   [H-K-Y/Genshin\_Impact\_bot](https://github.com/H-K-Y/Genshin_Impact_bot) - 原神bot，这是一个基于nonebot和HoshinoBot的原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找资源点等功能
 
@@ -1669,7 +1669,7 @@
 
 *   [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 
-*   [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing
+*   [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels for ingress, webhooks, demos, and APIs
 
 *   [JDAI-CV/FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo) - A PyTorch Toolbox for Face Recognition
 
@@ -2923,6 +2923,8 @@
 
 *   [zhpmatrix/nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！
 
+*   [nndl/nndl](https://github.com/nndl/nndl) - 邱锡鹏《神经网络与深度学习》（蒲公英书）理论书 v2 与通识版
+
 *   [ccyyycy/ycy](https://github.com/ccyyycy/ycy) - "Hello YCY" Programming Competition
 
 *   [ShusenTang/LeetCode](https://github.com/ShusenTang/LeetCode) - LeetCode solutions with Chinese explanation & Summary of classic algorithms.
@@ -3055,7 +3057,7 @@
 
 *   [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 
 *   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。
 
@@ -3805,7 +3807,7 @@
 
 ## Rust
 
-*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI, CN-region endpoint, CNB mirror.
 
 *   [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 
@@ -5269,8 +5271,6 @@
 
 *   [smilecc/blive-cookie](https://github.com/smilecc/blive-cookie) - 更为方便的获取Bilibili的Cookie
 
-*   [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-
 *   [dkurt/cvpr2019](https://github.com/dkurt/cvpr2019) - Workshop materials for OpenCV day at CVPR 2019 conference
 
 *   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -5775,7 +5775,7 @@
 
 *   [xxbb1234021/deep-learning](https://github.com/xxbb1234021/deep-learning) - 深度学习实战
 
-*   [nndl/exercise](https://github.com/nndl/exercise) - exercise for nndl
+*   [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch 实现
 
 *   [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
