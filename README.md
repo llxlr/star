@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Vim Script](#vim-script)
 *   [Python](#python)
@@ -13,7 +14,6 @@
 *   [Go](#go)
 *   [Rust](#rust)
 *   [MDX](#mdx)
-*   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [Astro](#astro)
@@ -90,6 +90,494 @@
 *   [Processing](#processing)
 *   [VimL](#viml)
 *   [CoffeeScript](#coffeescript)
+
+## TypeScript
+
+*   [legend80s/deepseek-balance-statusline](https://github.com/legend80s/deepseek-balance-statusline) - Real-time DeepSeek balance statusline for Claude Code.
+
+*   [EvanNotFound/vercount](https://github.com/EvanNotFound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
+
+*   [squirrelchat/smol-toml](https://github.com/squirrelchat/smol-toml) - A small, fast, and correct TOML (1.1.0) parser and serializer
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
+*   [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
+
+*   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
+
+*   [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+*   [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
+
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+
+*   [vgerbot-app/gtrend-cloudflare-worker](https://github.com/vgerbot-app/gtrend-cloudflare-worker) - A Cloudflare Worker that scrapes GitHub Trending pages to provide a JSON API for trending repositories. Built with TypeScript and Cheerio.
+
+*   [moayuisuda/two-moons](https://github.com/moayuisuda/two-moons) - 🌙 Powerful and Interactive Music Learning Platform.
+
+*   [LottieFiles/lottie-player](https://github.com/LottieFiles/lottie-player) - Lottie viewer/player as an easy to use web component! https://lottiefiles.com/web-player
+
+*   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+
+*   [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
+
+*   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
+
+*   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+
+*   [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server
+
+*   [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
+
+*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+
+*   [journey-ad/Bitmagnet-Next-Web](https://github.com/journey-ad/Bitmagnet-Next-Web) - 🧲 A modern BitTorrent indexer, powered by Bitmagnet - 一个更现代的磁力搜索列表程序，由 Bitmagnet 强力驱动
+
+*   [LIUBINfighter/Obsidian-Tab-Flow](https://github.com/LIUBINfighter/Obsidian-Tab-Flow) - Render, play and create guitar tabs. Write tabs in text. Modern music font and sound! (.atex, .gp, .gp3, .gp4, .gp5, .gpx) Powered by alphaTab.js.
+
+*   [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
+
+*   [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
+
+*   [Smoosic/Smoosic](https://github.com/Smoosic/Smoosic) - Main repository for Smoosic, the music notation and playback library written in typescript
+
+*   [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs
+
+*   [mdit-plugins/mdit-plugins](https://github.com/mdit-plugins/mdit-plugins) - MarkdownIt plugin collections written with ts
+
+*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+
+*   [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
+
+*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+
+*   [funnyzak/pushoo-cli](https://github.com/funnyzak/pushoo-cli) - A command line tool with Pushoo.js pushes multiple platform messages.
+
+*   [funnyzak/pushoo-action](https://github.com/funnyzak/pushoo-action) - A GitHub Action with Pushoo.js pushes multiple platform messages.
+
+*   [imaegoo/pushoo](https://github.com/imaegoo/pushoo) - 💬 即时消息推送 Node SDK
+
+*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [AnswerZhao/CookingAgent](https://github.com/AnswerZhao/CookingAgent) - 一个基于大型语言模型（LLM）的智能做菜推荐系统，利用 HowToCook 开源菜谱库，为用户提供个性化的菜单推荐、购物清单生成和做菜流程规划、做菜步骤，达到小白都知道“吃什么、怎么做”的目标。
+
+*   [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
+
+*   [silq-lang/vscode-silq](https://github.com/silq-lang/vscode-silq) -
+
+*   [JohnsonRan/CRules](https://github.com/JohnsonRan/CRules) - 自用 Mihomo 配置
+
+*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+
+*   [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 120+ 语言
+
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+*   [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
+
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
+
+*   [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
+
+*   [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
+
+*   [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+
+*   [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+
+*   [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
+
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
+
+*   [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) - Customize the displayed authors list
+
+*   [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables
+
+*   [kekxv/AiReviewPR](https://github.com/kekxv/AiReviewPR) - gitea,ai review,ollama
+
+*   [Adpro-Team/GKD\_subscription](https://github.com/Adpro-Team/GKD_subscription) - 由 Adpro-Team 维护的 GKD 订阅规则
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+
+*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
+
+*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
+*   [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) - Exquisite GitHub style Gitea themes
+
+*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
+
+*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
+
+*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
+
+*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
+
+*   [theme-shoka-x/hexo-theme-shokaX](https://github.com/theme-shoka-x/hexo-theme-shokaX) - a hexo theme based on shoka
+
+*   [overleaf-workshop/Overleaf-Workshop](https://github.com/overleaf-workshop/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
+
+*   [egoist/shell-ask](https://github.com/egoist/shell-ask) - Ask LLM directly from your terminal
+
+*   [zzlb0224/zotero-annotation-manage](https://github.com/zzlb0224/zotero-annotation-manage) - zotero-annotation-manage Zotero的笔记整理
+
+*   [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
+
+*   [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+
+*   [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+
+*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
+
+*   [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata) - Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
+
+*   [AlistGo/desktop-release](https://github.com/AlistGo/desktop-release) -
+
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+
+*   [Hiram-Wong/zyfun](https://github.com/Hiram-Wong/zyfun) - 跨平台桌面端视频资源播放器,免费高颜值.
+
+*   [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Zotero Add-on Market  | Zotero插件市场 | Browsing and installing plugins within Zotero
+
+*   [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
+
+*   [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
+
+*   [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
+
+*   [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
+
+*   [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit) - Toolkit for Zotero Plugin Developers.
+
+*   [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
+
+*   [redleafnew/zotero-updateifsE](https://github.com/redleafnew/zotero-updateifsE) - Green Frog https://github.com/redleafnew/zotero-updateifs  的easyScholar数据版。更新影响因子，其他一系列工具，详见Readme
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
+
+*   [wfjsw/danbooru-diffusion-prompt-builder](https://github.com/wfjsw/danbooru-diffusion-prompt-builder) - Danbooru / NovelAI 标签超市
+
+*   [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+
+*   [ds300/lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
+
+*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) -
+
+*   [MuiseDestiny/zotero-citation](https://github.com/MuiseDestiny/zotero-citation) - Make Zotero's citation in Word easier and clearer.
+
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [easychen/github-action-server-chan](https://github.com/easychen/github-action-server-chan) -
+
+*   [wei2912/obsidian-latex](https://github.com/wei2912/obsidian-latex) -
+
+*   [mnixry/nonebot-plugin-gocqhttp](https://github.com/mnixry/nonebot-plugin-gocqhttp) - 一款在NoneBot2中直接运行go-cqhttp的插件, 无需额外下载安装 / A plugin to run go-cqhttp directly in NoneBot2, without additional download and installation.
+
+*   [l0o0/tara](https://github.com/l0o0/tara) - A Zotero add-on for backup and restore preferences, add-ons, translators, styles, and locate between two machines
+
+*   [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template) - A plugin template for Zotero.
+
+*   [aidenlx/zotlit](https://github.com/aidenlx/zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero, by providing a set of community plugins for both Obsidian and Zotero.
+
+*   [obsidian-community/obsidian-zotero-integration](https://github.com/obsidian-community/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
+
+*   [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
+
+*   [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
+
+*   [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
+
+*   [Yuelioi/snippet-cat](https://github.com/Yuelioi/snippet-cat) - Snippet Cat 是一款 VSCODE 拓展,用于管理代码片段,笔记
+
+*   [Quorafind/Obsidian-Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator) - A plugin for generate markdown table quickly like Typora.
+
+*   [Stardusten/ob-table-enhancer](https://github.com/Stardusten/ob-table-enhancer) - Manipulate markdown tables without touching the source code in Obsidian.
+
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+
+*   [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) - An obsidian toolbar plugin, modified from the Cmenu plugin
+
+*   [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
+
+*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+
+*   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
+
+*   [zotero-cita/zotero-cita](https://github.com/zotero-cita/zotero-cita) - Cita: a Wikidata addon for Zotero with citations metadata support
+
+*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
+
+*   [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
+
+*   [W4J1e/picgo-plugin-dogecloud](https://github.com/W4J1e/picgo-plugin-dogecloud) - 一个上传图片到多吉云存储的picgo插件。
+
+*   [zhaohongxuan/obsidian-weread-plugin](https://github.com/zhaohongxuan/obsidian-weread-plugin) - Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.
+
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+
+*   [YunYouJun/sponsors](https://github.com/YunYouJun/sponsors) - 💰 Sponsors of @YunYouJun. 云游君的赞助者们
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
+
+*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
+
+*   [heroku/cli](https://github.com/heroku/cli) - Heroku CLI
+
+*   [microsoft/quantum-viz.js](https://github.com/microsoft/quantum-viz.js) - quantum-viz.js is a configurable tool for rendering quantum circuits using pure HTML.
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
+
+*   [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items and notes into Notion
+
+*   [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech\_balloon: Render Disqus comments in Mainland China using Disqus API
+
+*   [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+
+*   [mongodb-developer/cloudflare-worker-rest-api-atlas](https://github.com/mongodb-developer/cloudflare-worker-rest-api-atlas) - This project explains how to build a REST API in a Cloudflare worker using MongoDB Realm Web JS and a MongoDB Atlas cluster to store the data.
+
+*   [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
+
+*   [jianggaocheng/mihoyo-signin](https://github.com/jianggaocheng/mihoyo-signin) - 米游社app 自动签到
+
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
+*   [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）
+
+*   [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+
+*   [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
+
+*   [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
+
+*   [EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
+
+*   [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
+
+*   [scitedotai/scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) - See how your saved papers are cited. Supporting, contrasting, and mentioning counts appear directly in your Zotero library.
+
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
+
+*   [gilmarsquinelato/i18n-manager](https://github.com/gilmarsquinelato/i18n-manager) - Translation management app
+
+*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+
+*   [LingDong-/legumes](https://github.com/LingDong-/legumes) - 🎼 A sheet music to polylines renderer
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
+
+*   [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) - vscode qq extension based on android qq protocol
+
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scaling modern AI applications, managed databases (MySQL, PostgreSQL, Redis, MongoDB) and complex microservice architectures.
+
+*   [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
+
+*   [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
+
+*   [AlistGo/web-v2](https://github.com/AlistGo/web-v2) - 🗂️ The front end of Alist V2
+
+*   [fect-org/fect](https://github.com/fect-org/fect) - Minimalist UI components built on Vue-next
+
+*   [davidecaruso/shell.js](https://github.com/davidecaruso/shell.js) - :zap: A JavaScript library to create HTML terminals in web pages.
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+
+*   [6tail/lunar-typescript](https://github.com/6tail/lunar-typescript) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
+
+*   [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
+
+*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
+
+*   [dromara/issues-translate-action](https://github.com/dromara/issues-translate-action) - The action for translating Non-English issues content to English.
+
+*   [satouriko/cqhttp-twitter-bot](https://github.com/satouriko/cqhttp-twitter-bot) - Twitter -> QQ Bot
+
+*   [CL-Jeremy/mirai-twitter-bot](https://github.com/CL-Jeremy/mirai-twitter-bot) - Twitter -> QQ Bot
+
+*   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
+
+*   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+
+*   [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
+
+*   [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
+
+*   [actions/upload-artifact](https://github.com/actions/upload-artifact) -
+
+*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+
+*   [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
+
+*   [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
+
+*   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+
+*   [loadchange/gwm](https://github.com/loadchange/gwm) - 🍭gwm.js Generate Watermark  用于生成网页水印，警示信息安全与责任追踪。
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+
+*   [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
+
+*   [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+
+*   [actions/delete-package-versions](https://github.com/actions/delete-package-versions) -
+
+*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+
+*   [propelml/tfjs-npy](https://github.com/propelml/tfjs-npy) - NumPy file parsing and serialization for TensorFlow.js
+
+*   [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
+
+*   [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 二十年》中文版
+
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+
+*   [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+
+*   [microsoft/onnxjs-demo](https://github.com/microsoft/onnxjs-demo) - demos to show the capabilities of ONNX.js
+
+*   [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX.js: run ONNX models using JavaScript
+
+*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
+
+*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+
+*   [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
+
+*   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
+
+*   [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
+
+*   [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
+
+*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
+
+*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+
+*   [zuozishi/C51-Extension-for-VScode](https://github.com/zuozishi/C51-Extension-for-VScode) - 适用于VScode 的 C51 系列单片机编译插件
+
+*   [aizuyan/google-trans-api](https://github.com/aizuyan/google-trans-api) - puppeteer google translate wrapper
+
+*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+
+*   [unix/unix.bio](https://github.com/unix/unix.bio) - My static blog template.
+
+*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+
+*   [Ovilia/moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
+
+*   [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
+
+*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+
+*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+
+*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
+
+*   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+
+*   [unpkg/unpkg](https://github.com/unpkg/unpkg) - The CDN for everything on npm
+
+*   [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
+
+*   [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
+
+*   [fhyoga/picgo-plugin-watermark](https://github.com/fhyoga/picgo-plugin-watermark) - PicGo's watermark plugin
+
+*   [antfu/wenyan-lang-vscode](https://github.com/antfu/wenyan-lang-vscode) - 文言 Wenyan Lang for VS Code
+
+*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+
+*   [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+
+*   [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
+
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+*   [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
+
+*   [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
+
+*   [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
+
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+
+*   [JP1016/Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
+
+*   [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
+
+*   [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) - WeChat Mini-program plugin for TensorFlow.js
+
+*   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
+
+*   [amoilanen/js-crawler](https://github.com/amoilanen/js-crawler) - Web crawler for Node.JS
+
+*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
+*   [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
+
+*   [egoist/presite](https://github.com/egoist/presite) - A static site generator based on Puppeteer.
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+
+*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+
+*   [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
+
+*   [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
+
+*   [surmon-china/simple-netease-cloud-music](https://github.com/surmon-china/simple-netease-cloud-music) - 🎵 A simple netease music api lib. 简单、统一、轻巧的 Node.js 版网易云音乐 API
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
+
+*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+
+*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+
+*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## miscellaneous
 
@@ -2793,7 +3281,7 @@
 
 *   [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 
@@ -3303,492 +3791,6 @@
 
 *   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
-## TypeScript
-
-*   [EvanNotFound/vercount](https://github.com/EvanNotFound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
-
-*   [squirrelchat/smol-toml](https://github.com/squirrelchat/smol-toml) - A small, fast, and correct TOML (1.1.0) parser and serializer
-
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-
-*   [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
-
-*   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
-
-*   [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-*   [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
-
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
-
-*   [vgerbot-app/gtrend-cloudflare-worker](https://github.com/vgerbot-app/gtrend-cloudflare-worker) - A Cloudflare Worker that scrapes GitHub Trending pages to provide a JSON API for trending repositories. Built with TypeScript and Cheerio.
-
-*   [moayuisuda/two-moons](https://github.com/moayuisuda/two-moons) - 🌙 Powerful and Interactive Music Learning Platform.
-
-*   [LottieFiles/lottie-player](https://github.com/LottieFiles/lottie-player) - Lottie viewer/player as an easy to use web component! https://lottiefiles.com/web-player
-
-*   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-
-*   [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
-
-*   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-
-*   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-
-*   [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server
-
-*   [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
-
-*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-
-*   [journey-ad/Bitmagnet-Next-Web](https://github.com/journey-ad/Bitmagnet-Next-Web) - 🧲 A modern BitTorrent indexer, powered by Bitmagnet - 一个更现代的磁力搜索列表程序，由 Bitmagnet 强力驱动
-
-*   [LIUBINfighter/Obsidian-Tab-Flow](https://github.com/LIUBINfighter/Obsidian-Tab-Flow) - Render, play and create guitar tabs. Write tabs in text. Modern music font and sound! (.atex, .gp, .gp3, .gp4, .gp5, .gpx) Powered by alphaTab.js.
-
-*   [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
-
-*   [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-
-*   [Smoosic/Smoosic](https://github.com/Smoosic/Smoosic) - Main repository for Smoosic, the music notation and playback library written in typescript
-
-*   [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs
-
-*   [mdit-plugins/mdit-plugins](https://github.com/mdit-plugins/mdit-plugins) - MarkdownIt plugin collections written with ts
-
-*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-
-*   [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
-
-*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-
-*   [funnyzak/pushoo-cli](https://github.com/funnyzak/pushoo-cli) - A command line tool with Pushoo.js pushes multiple platform messages.
-
-*   [funnyzak/pushoo-action](https://github.com/funnyzak/pushoo-action) - A GitHub Action with Pushoo.js pushes multiple platform messages.
-
-*   [imaegoo/pushoo](https://github.com/imaegoo/pushoo) - 💬 即时消息推送 Node SDK
-
-*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [AnswerZhao/CookingAgent](https://github.com/AnswerZhao/CookingAgent) - 一个基于大型语言模型（LLM）的智能做菜推荐系统，利用 HowToCook 开源菜谱库，为用户提供个性化的菜单推荐、购物清单生成和做菜流程规划、做菜步骤，达到小白都知道“吃什么、怎么做”的目标。
-
-*   [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
-
-*   [silq-lang/vscode-silq](https://github.com/silq-lang/vscode-silq) -
-
-*   [JohnsonRan/CRules](https://github.com/JohnsonRan/CRules) - 自用 Mihomo 配置
-
-*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
-
-*   [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 120+ 语言
-
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-
-*   [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
-
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
-
-*   [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
-
-*   [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
-
-*   [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-
-*   [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-
-*   [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
-
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
-
-*   [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) - Customize the displayed authors list
-
-*   [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables
-
-*   [kekxv/AiReviewPR](https://github.com/kekxv/AiReviewPR) - gitea,ai review,ollama
-
-*   [Adpro-Team/GKD\_subscription](https://github.com/Adpro-Team/GKD_subscription) - 由 Adpro-Team 维护的 GKD 订阅规则
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
-
-*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
-
-*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-
-*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
-
-*   [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) - Exquisite GitHub style Gitea themes
-
-*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
-
-*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
-
-*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
-
-*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
-
-*   [theme-shoka-x/hexo-theme-shokaX](https://github.com/theme-shoka-x/hexo-theme-shokaX) - a hexo theme based on shoka
-
-*   [overleaf-workshop/Overleaf-Workshop](https://github.com/overleaf-workshop/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
-
-*   [egoist/shell-ask](https://github.com/egoist/shell-ask) - Ask LLM directly from your terminal
-
-*   [zzlb0224/zotero-annotation-manage](https://github.com/zzlb0224/zotero-annotation-manage) - zotero-annotation-manage Zotero的笔记整理
-
-*   [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-
-*   [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
-
-*   [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-
-*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
-
-*   [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata) - Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
-
-*   [AlistGo/desktop-release](https://github.com/AlistGo/desktop-release) -
-
-*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-
-*   [Hiram-Wong/zyfun](https://github.com/Hiram-Wong/zyfun) - 跨平台桌面端视频资源播放器,免费高颜值.
-
-*   [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Zotero Add-on Market  | Zotero插件市场 | Browsing and installing plugins within Zotero
-
-*   [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
-
-*   [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
-
-*   [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
-
-*   [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
-
-*   [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit) - Toolkit for Zotero Plugin Developers.
-
-*   [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
-
-*   [redleafnew/zotero-updateifsE](https://github.com/redleafnew/zotero-updateifsE) - Green Frog https://github.com/redleafnew/zotero-updateifs  的easyScholar数据版。更新影响因子，其他一系列工具，详见Readme
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
-
-*   [wfjsw/danbooru-diffusion-prompt-builder](https://github.com/wfjsw/danbooru-diffusion-prompt-builder) - Danbooru / NovelAI 标签超市
-
-*   [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-
-*   [ds300/lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
-
-*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) -
-
-*   [MuiseDestiny/zotero-citation](https://github.com/MuiseDestiny/zotero-citation) - Make Zotero's citation in Word easier and clearer.
-
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-
-*   [easychen/github-action-server-chan](https://github.com/easychen/github-action-server-chan) -
-
-*   [wei2912/obsidian-latex](https://github.com/wei2912/obsidian-latex) -
-
-*   [mnixry/nonebot-plugin-gocqhttp](https://github.com/mnixry/nonebot-plugin-gocqhttp) - 一款在NoneBot2中直接运行go-cqhttp的插件, 无需额外下载安装 / A plugin to run go-cqhttp directly in NoneBot2, without additional download and installation.
-
-*   [l0o0/tara](https://github.com/l0o0/tara) - A Zotero add-on for backup and restore preferences, add-ons, translators, styles, and locate between two machines
-
-*   [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template) - A plugin template for Zotero.
-
-*   [aidenlx/zotlit](https://github.com/aidenlx/zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero, by providing a set of community plugins for both Obsidian and Zotero.
-
-*   [obsidian-community/obsidian-zotero-integration](https://github.com/obsidian-community/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
-
-*   [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
-
-*   [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
-
-*   [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
-
-*   [Yuelioi/snippet-cat](https://github.com/Yuelioi/snippet-cat) - Snippet Cat 是一款 VSCODE 拓展,用于管理代码片段,笔记
-
-*   [Quorafind/Obsidian-Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator) - A plugin for generate markdown table quickly like Typora.
-
-*   [Stardusten/ob-table-enhancer](https://github.com/Stardusten/ob-table-enhancer) - Manipulate markdown tables without touching the source code in Obsidian.
-
-*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-
-*   [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) - An obsidian toolbar plugin, modified from the Cmenu plugin
-
-*   [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
-
-*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
-*   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
-
-*   [zotero-cita/zotero-cita](https://github.com/zotero-cita/zotero-cita) - Cita: a Wikidata addon for Zotero with citations metadata support
-
-*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
-
-*   [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
-
-*   [W4J1e/picgo-plugin-dogecloud](https://github.com/W4J1e/picgo-plugin-dogecloud) - 一个上传图片到多吉云存储的picgo插件。
-
-*   [zhaohongxuan/obsidian-weread-plugin](https://github.com/zhaohongxuan/obsidian-weread-plugin) - Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.
-
-*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-
-*   [YunYouJun/sponsors](https://github.com/YunYouJun/sponsors) - 💰 Sponsors of @YunYouJun. 云游君的赞助者们
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
-
-*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
-
-*   [heroku/cli](https://github.com/heroku/cli) - Heroku CLI
-
-*   [microsoft/quantum-viz.js](https://github.com/microsoft/quantum-viz.js) - quantum-viz.js is a configurable tool for rendering quantum circuits using pure HTML.
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
-
-*   [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items and notes into Notion
-
-*   [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech\_balloon: Render Disqus comments in Mainland China using Disqus API
-
-*   [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
-
-*   [mongodb-developer/cloudflare-worker-rest-api-atlas](https://github.com/mongodb-developer/cloudflare-worker-rest-api-atlas) - This project explains how to build a REST API in a Cloudflare worker using MongoDB Realm Web JS and a MongoDB Atlas cluster to store the data.
-
-*   [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
-
-*   [jianggaocheng/mihoyo-signin](https://github.com/jianggaocheng/mihoyo-signin) - 米游社app 自动签到
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-*   [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）
-
-*   [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
-
-*   [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
-
-*   [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
-
-*   [EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
-
-*   [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
-
-*   [scitedotai/scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) - See how your saved papers are cited. Supporting, contrasting, and mentioning counts appear directly in your Zotero library.
-
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
-
-*   [gilmarsquinelato/i18n-manager](https://github.com/gilmarsquinelato/i18n-manager) - Translation management app
-
-*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-
-*   [LingDong-/legumes](https://github.com/LingDong-/legumes) - 🎼 A sheet music to polylines renderer
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
-
-*   [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) - vscode qq extension based on android qq protocol
-
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scaling modern AI applications, managed databases (MySQL, PostgreSQL, Redis, MongoDB) and complex microservice architectures.
-
-*   [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
-
-*   [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
-
-*   [AlistGo/web-v2](https://github.com/AlistGo/web-v2) - 🗂️ The front end of Alist V2
-
-*   [fect-org/fect](https://github.com/fect-org/fect) - Minimalist UI components built on Vue-next
-
-*   [davidecaruso/shell.js](https://github.com/davidecaruso/shell.js) - :zap: A JavaScript library to create HTML terminals in web pages.
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-
-*   [6tail/lunar-typescript](https://github.com/6tail/lunar-typescript) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
-
-*   [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
-
-*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
-
-*   [dromara/issues-translate-action](https://github.com/dromara/issues-translate-action) - The action for translating Non-English issues content to English.
-
-*   [satouriko/cqhttp-twitter-bot](https://github.com/satouriko/cqhttp-twitter-bot) - Twitter -> QQ Bot
-
-*   [CL-Jeremy/mirai-twitter-bot](https://github.com/CL-Jeremy/mirai-twitter-bot) - Twitter -> QQ Bot
-
-*   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
-
-*   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-
-*   [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-
-*   [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
-
-*   [actions/upload-artifact](https://github.com/actions/upload-artifact) -
-
-*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-
-*   [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
-
-*   [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
-
-*   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-
-*   [loadchange/gwm](https://github.com/loadchange/gwm) - 🍭gwm.js Generate Watermark  用于生成网页水印，警示信息安全与责任追踪。
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-
-*   [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
-
-*   [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-
-*   [actions/delete-package-versions](https://github.com/actions/delete-package-versions) -
-
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-
-*   [propelml/tfjs-npy](https://github.com/propelml/tfjs-npy) - NumPy file parsing and serialization for TensorFlow.js
-
-*   [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-
-*   [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 二十年》中文版
-
-*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-
-*   [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-
-*   [microsoft/onnxjs-demo](https://github.com/microsoft/onnxjs-demo) - demos to show the capabilities of ONNX.js
-
-*   [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX.js: run ONNX models using JavaScript
-
-*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-
-*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-
-*   [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
-
-*   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
-
-*   [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
-
-*   [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
-
-*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
-
-*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-
-*   [zuozishi/C51-Extension-for-VScode](https://github.com/zuozishi/C51-Extension-for-VScode) - 适用于VScode 的 C51 系列单片机编译插件
-
-*   [aizuyan/google-trans-api](https://github.com/aizuyan/google-trans-api) - puppeteer google translate wrapper
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-*   [unix/unix.bio](https://github.com/unix/unix.bio) - My static blog template.
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
-*   [Ovilia/moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
-
-*   [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
-
-*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-
-*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-
-*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
-
-*   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-
-*   [unpkg/unpkg](https://github.com/unpkg/unpkg) - The CDN for everything on npm
-
-*   [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
-
-*   [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
-
-*   [fhyoga/picgo-plugin-watermark](https://github.com/fhyoga/picgo-plugin-watermark) - PicGo's watermark plugin
-
-*   [antfu/wenyan-lang-vscode](https://github.com/antfu/wenyan-lang-vscode) - 文言 Wenyan Lang for VS Code
-
-*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-*   [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-
-*   [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-
-*   [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
-
-*   [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
-
-*   [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
-
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-
-*   [JP1016/Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
-
-*   [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
-
-*   [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) - WeChat Mini-program plugin for TensorFlow.js
-
-*   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
-
-*   [amoilanen/js-crawler](https://github.com/amoilanen/js-crawler) - Web crawler for Node.JS
-
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
-*   [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
-
-*   [egoist/presite](https://github.com/egoist/presite) - A static site generator based on Puppeteer.
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
-*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-
-*   [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
-
-*   [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
-
-*   [surmon-china/simple-netease-cloud-music](https://github.com/surmon-china/simple-netease-cloud-music) - 🎵 A simple netease music api lib. 简单、统一、轻巧的 Node.js 版网易云音乐 API
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
-
-*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
-
-*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-
-*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-
 ## PHP
 
 *   [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
@@ -4065,7 +4067,7 @@
 
 *   [leochen-g/dify-schedule](https://github.com/leochen-g/dify-schedule) - Dify Schedule. 免费的Dify工作流定时助手，支持多渠道发送通知. A free automated scheduling solution for Dify, powered by GitHub Actions.
 
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
@@ -4203,7 +4205,7 @@
 
 *   [ecomfe/echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - Word Cloud extension based on Apache ECharts and wordcloud2.js
 
-*   [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+*   [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
 
 *   [eric-wood/excel2latex](https://github.com/eric-wood/excel2latex) - Javascript .xlsx to LaTeX table converter
 
@@ -6372,8 +6374,6 @@
 *   [iblh/hexo-theme-material](https://github.com/iblh/hexo-theme-material) - Material Design theme for hexo.
 
 *   [iTimeTraveler/hexo-theme-hiker](https://github.com/iTimeTraveler/hexo-theme-hiker) - An attractive theme for Hexo. called "Hiker", short for "HikerNews".
-
-*   [letiantian/huno](https://github.com/letiantian/huno) - A responsible theme for Hexo
 
 ## Fluent
 
