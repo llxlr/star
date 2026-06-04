@@ -25,6 +25,7 @@
 *   [TeX](#tex)
 *   [PostScript](#postscript)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [CSS](#css)
 *   [Kotlin](#kotlin)
 *   [Dockerfile](#dockerfile)
 *   [PowerShell](#powershell)
@@ -38,7 +39,6 @@
 *   [Cuda](#cuda)
 *   [Zig](#zig)
 *   [Stylus](#stylus)
-*   [CSS](#css)
 *   [Fluent](#fluent)
 *   [SCSS](#scss)
 *   [Just](#just)
@@ -755,7 +755,7 @@
 
 *   [A-kirami/nonebot-plugin-template](https://github.com/A-kirami/nonebot-plugin-template) - nonebot2 插件模板库
 
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+*   [kkndmetianya/kkndme\_tianya](https://github.com/kkndmetianya/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 
 *   [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 
@@ -1184,6 +1184,8 @@
 *   [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 
 *   [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV
+
+*   [llxlr/blog](https://github.com/llxlr/blog) - 博客源码
 
 *   [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 
@@ -3669,7 +3671,7 @@
 
 *   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 
-*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 
 *   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 
@@ -3991,8 +3993,6 @@
 
 *   [ybq22/supervisor](https://github.com/ybq22/supervisor) -
 
-*   [llxlr/blog](https://github.com/llxlr/blog) - 博客源码
-
 *   [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 *   [TeamMoeAI/MoeSR](https://github.com/TeamMoeAI/MoeSR) - An application specialized in image super-resolution for ACGN illustrations and Visual Novel CG. 专注于插画/Galgame CG等ACGN领域的图像超分辨率的应用
@@ -4008,8 +4008,6 @@
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 
 *   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。
-
-*   [HCLonely/hexo-steam-games](https://github.com/HCLonely/hexo-steam-games) - 为Hexo添加Steam游戏库页面
 
 *   [tombatossals/react-chords](https://github.com/tombatossals/react-chords) - React library for easily generate guitar/ukulele SVG chords
 
@@ -5857,6 +5855,110 @@
 
 *   [luoda888/tianchi-diabetes-top12](https://github.com/luoda888/tianchi-diabetes-top12) -
 
+## CSS
+
+*   [HCLonely/hexo-steam-games](https://github.com/HCLonely/hexo-steam-games) - 为Hexo添加Steam游戏库页面
+
+*   [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
+
+*   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+
+*   [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
+
+*   [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
+
+*   [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
+
+*   [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
+
+*   [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
+
+*   [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) - A :iphone: responsive theme for Nginx Fancyindex module :wrench:. Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form :mag\_right:, aims to handle thousands of files without any problems :open\_file\_folder:
+
+*   [Edgarware/Threshold-Skin](https://github.com/Edgarware/Threshold-Skin) - A Windows 10 UWP style skin for Steam
+
+*   [xuhuai66/pt-dwz](https://github.com/xuhuai66/pt-dwz) - pt短网址，短网址前后端，综合短网址
+
+*   [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
+
+*   [machengwei1024/Note-Hexo](https://github.com/machengwei1024/Note-Hexo) - Hexo Theme
+
+*   [apachecn/lqcuq-zh](https://github.com/apachecn/lqcuq-zh) - 使用Qiskit学习量子计算
+
+*   [Jrohy/QPlayer-Typecho-Plugin](https://github.com/Jrohy/QPlayer-Typecho-Plugin) - 简洁美观 の 悬浮Typecho音乐播放器插件
+
+*   [idealclover/UniTypecho](https://github.com/idealclover/UniTypecho) - 🎉 多平台 Typecho 移动应用解决方案 可打包为 APP/小程序
+
+*   [pokoint/jigokutsushin](https://github.com/pokoint/jigokutsushin) -
+
+*   [zhangyingwei/html-css-only](https://github.com/zhangyingwei/html-css-only) - 漂亮的 CSS 系列~
+
+*   [huhexian/tiangou](https://github.com/huhexian/tiangou) -
+
+*   [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
+
+*   [Zisbusy/Akina-for-Typecho](https://github.com/Zisbusy/Akina-for-Typecho) - Akina for Typecho 主题模板
+
+*   [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
+
+*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
+
+*   [djzhao627/WaterWaveAnimation-CSS](https://github.com/djzhao627/WaterWaveAnimation-CSS) - 使用CSS让网页展示水波纹效果
+
+*   [buxia97/Typecho-user](https://github.com/buxia97/Typecho-user) - typecho开源博客程序，实现多用户会员中心。
+
+*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
+
+*   [newpanjing/fastnat](https://github.com/newpanjing/fastnat) - 全协议内网穿透神器，支持TCP、UDP、HTTP
+
+*   [wandou911/ssr](https://github.com/wandou911/ssr) - ssr免费节点
+
+*   [Dreamer-Paul/Fantasy](https://github.com/Dreamer-Paul/Fantasy) - 🍨 一个优美梦幻的动漫风 Typecho 博客主题
+
+*   [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) - :book:  \[译] 利用 Python 进行数据分析 · 第 2 版
+
+*   [jeremyrchow/Harassment-Classifier-App](https://github.com/jeremyrchow/Harassment-Classifier-App) - Website that classifies comments for toxicity in real time
+
+*   [iaboaix/NetworkGraph](https://github.com/iaboaix/NetworkGraph) - 基于D3.js的Neo4j网络图可视化(Visualization of Neo4j Network Graph Based on D3.js
+
+*   [mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
+
+*   [glzjin/CISCN-2019-Northern-China-Web](https://github.com/glzjin/CISCN-2019-Northern-China-Web) - 国赛 2019 华北赛区 Web 题目备份
+
+*   [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
+
+*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site
+
+*   [DT27/EditorMD](https://github.com/DT27/EditorMD) - Markdown 编辑器 Editor.md for Typecho
+
+*   [nexmoe/wall-public](https://github.com/nexmoe/wall-public) - 一个基于 Vue.js 的匿名表白墙轻量级小程序
+
+*   [HSEFZ/bbq](https://github.com/HSEFZ/bbq) - 华师大二附中表白墙
+
+*   [SSShooter/Creepy.CSS](https://github.com/SSShooter/Creepy.CSS) - a creepy style UI
+
+*   [Bililive/www.danmuji.org](https://github.com/Bililive/www.danmuji.org) - 弹幕姬的网站 https://www.danmuji.org 弹幕姬 https://github.com/copyliu/bililive\_dm
+
+*   [jukanntenn/django-blog-tutorial](https://github.com/jukanntenn/django-blog-tutorial) - 基于 Python3.5 和 Django 1.10 的 Django Blog 项目。
+
+*   [eeg1412/Live2dRem](https://github.com/eeg1412/Live2dRem) -
+
+*   [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: \[译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
+
+*   [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
+
+*   [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - 旧 HelloGitHub.com 网站源码
+
+*   [YixuanFranco/yixuanfranco.github.io](https://github.com/YixuanFranco/yixuanfranco.github.io) - 极客绿呀极客绿. 模板是抄的, 但 theme + 配色, 还有很多细节是俺一个个调的. 如果遇到 bug, 欢迎来报. 么么哒.
+
+*   [old-jekyll-templates/Twenty-Jekyll-Theme](https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme) - Twenty Jekyll Theme - more themes available @ http://cloudcannon.com/jekyll\_themes
+
+*   [pandolia/pandolia.github.io](https://github.com/pandolia/pandolia.github.io) - https://pandolia.net/
+
+*   [iblh/hexo-theme-material](https://github.com/iblh/hexo-theme-material) - Material Design theme for hexo.
+
+*   [iTimeTraveler/hexo-theme-hiker](https://github.com/iTimeTraveler/hexo-theme-hiker) - An attractive theme for Hexo. called "Hiker", short for "HikerNews".
+
 ## Kotlin
 
 *   [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
@@ -6272,108 +6374,6 @@
 *   [Molunerfinn/hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) - :musical\_keyboard:A simple & beautiful & fast theme for Hexo.
 
 *   [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
-
-## CSS
-
-*   [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
-
-*   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
-
-*   [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
-
-*   [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
-
-*   [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
-
-*   [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
-
-*   [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
-
-*   [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) - A :iphone: responsive theme for Nginx Fancyindex module :wrench:. Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form :mag\_right:, aims to handle thousands of files without any problems :open\_file\_folder:
-
-*   [Edgarware/Threshold-Skin](https://github.com/Edgarware/Threshold-Skin) - A Windows 10 UWP style skin for Steam
-
-*   [xuhuai66/pt-dwz](https://github.com/xuhuai66/pt-dwz) - pt短网址，短网址前后端，综合短网址
-
-*   [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
-
-*   [machengwei1024/Note-Hexo](https://github.com/machengwei1024/Note-Hexo) - Hexo Theme
-
-*   [apachecn/lqcuq-zh](https://github.com/apachecn/lqcuq-zh) - 使用Qiskit学习量子计算
-
-*   [Jrohy/QPlayer-Typecho-Plugin](https://github.com/Jrohy/QPlayer-Typecho-Plugin) - 简洁美观 の 悬浮Typecho音乐播放器插件
-
-*   [idealclover/UniTypecho](https://github.com/idealclover/UniTypecho) - 🎉 多平台 Typecho 移动应用解决方案 可打包为 APP/小程序
-
-*   [pokoint/jigokutsushin](https://github.com/pokoint/jigokutsushin) -
-
-*   [zhangyingwei/html-css-only](https://github.com/zhangyingwei/html-css-only) - 漂亮的 CSS 系列~
-
-*   [huhexian/tiangou](https://github.com/huhexian/tiangou) -
-
-*   [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
-
-*   [Zisbusy/Akina-for-Typecho](https://github.com/Zisbusy/Akina-for-Typecho) - Akina for Typecho 主题模板
-
-*   [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
-
-*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
-
-*   [djzhao627/WaterWaveAnimation-CSS](https://github.com/djzhao627/WaterWaveAnimation-CSS) - 使用CSS让网页展示水波纹效果
-
-*   [buxia97/Typecho-user](https://github.com/buxia97/Typecho-user) - typecho开源博客程序，实现多用户会员中心。
-
-*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
-
-*   [newpanjing/fastnat](https://github.com/newpanjing/fastnat) - 全协议内网穿透神器，支持TCP、UDP、HTTP
-
-*   [wandou911/ssr](https://github.com/wandou911/ssr) - ssr免费节点
-
-*   [Dreamer-Paul/Fantasy](https://github.com/Dreamer-Paul/Fantasy) - 🍨 一个优美梦幻的动漫风 Typecho 博客主题
-
-*   [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) - :book:  \[译] 利用 Python 进行数据分析 · 第 2 版
-
-*   [jeremyrchow/Harassment-Classifier-App](https://github.com/jeremyrchow/Harassment-Classifier-App) - Website that classifies comments for toxicity in real time
-
-*   [iaboaix/NetworkGraph](https://github.com/iaboaix/NetworkGraph) - 基于D3.js的Neo4j网络图可视化(Visualization of Neo4j Network Graph Based on D3.js
-
-*   [mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
-
-*   [glzjin/CISCN-2019-Northern-China-Web](https://github.com/glzjin/CISCN-2019-Northern-China-Web) - 国赛 2019 华北赛区 Web 题目备份
-
-*   [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
-
-*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site
-
-*   [DT27/EditorMD](https://github.com/DT27/EditorMD) - Markdown 编辑器 Editor.md for Typecho
-
-*   [nexmoe/wall-public](https://github.com/nexmoe/wall-public) - 一个基于 Vue.js 的匿名表白墙轻量级小程序
-
-*   [HSEFZ/bbq](https://github.com/HSEFZ/bbq) - 华师大二附中表白墙
-
-*   [SSShooter/Creepy.CSS](https://github.com/SSShooter/Creepy.CSS) - a creepy style UI
-
-*   [Bililive/www.danmuji.org](https://github.com/Bililive/www.danmuji.org) - 弹幕姬的网站 https://www.danmuji.org 弹幕姬 https://github.com/copyliu/bililive\_dm
-
-*   [jukanntenn/django-blog-tutorial](https://github.com/jukanntenn/django-blog-tutorial) - 基于 Python3.5 和 Django 1.10 的 Django Blog 项目。
-
-*   [eeg1412/Live2dRem](https://github.com/eeg1412/Live2dRem) -
-
-*   [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: \[译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
-
-*   [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
-
-*   [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - 旧 HelloGitHub.com 网站源码
-
-*   [YixuanFranco/yixuanfranco.github.io](https://github.com/YixuanFranco/yixuanfranco.github.io) - 极客绿呀极客绿. 模板是抄的, 但 theme + 配色, 还有很多细节是俺一个个调的. 如果遇到 bug, 欢迎来报. 么么哒.
-
-*   [old-jekyll-templates/Twenty-Jekyll-Theme](https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme) - Twenty Jekyll Theme - more themes available @ http://cloudcannon.com/jekyll\_themes
-
-*   [pandolia/pandolia.github.io](https://github.com/pandolia/pandolia.github.io) - https://pandolia.net/
-
-*   [iblh/hexo-theme-material](https://github.com/iblh/hexo-theme-material) - Material Design theme for hexo.
-
-*   [iTimeTraveler/hexo-theme-hiker](https://github.com/iTimeTraveler/hexo-theme-hiker) - An attractive theme for Hexo. called "Hiker", short for "HikerNews".
 
 ## Fluent
 
