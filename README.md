@@ -101,6 +101,8 @@
 
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
+*   [steven-jianhao-li/zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
+
 *   [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 
 *   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
@@ -931,7 +933,7 @@
 
 *   [ugvf2009/Miles](https://github.com/ugvf2009/Miles) - 二爷翻墙，专注免费翻墙30年，但没有掌握核心科技，一切已经开始！^\_^
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 
 *   [Tlaster/Josou](https://github.com/Tlaster/Josou) - 女装
 
@@ -2589,6 +2591,8 @@
 
 *   [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 
+*   [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
+
 *   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
 *   [fb1502/Mask\_RCNN\_3D](https://github.com/fb1502/Mask_RCNN_3D) - Utilizing Mask RCNN to generate 3D(look-like) images and videos. 裸眼3d,用Mask-RCNN自动生成视频与图像
@@ -3988,8 +3992,6 @@
 *   [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 
 *   [amehime/hexo-renderer-multi-markdown-it](https://github.com/amehime/hexo-renderer-multi-markdown-it) - A renderer plugin for Hexo based on Markdown-it and auto Minify HTML, CSS, JS.
-
-*   [steven-jianhao-li/zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 
 *   [ybq22/supervisor](https://github.com/ybq22/supervisor) -
 
@@ -5805,8 +5807,6 @@
 
 *   [czy36mengfei/tensorflow2\_tutorials\_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) - tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
 
-*   [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
-
 *   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 
 *   [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) - 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
@@ -5899,8 +5899,6 @@
 
 *   [Zisbusy/Akina-for-Typecho](https://github.com/Zisbusy/Akina-for-Typecho) - Akina for Typecho 主题模板
 
-*   [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
-
 *   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 
 *   [djzhao627/WaterWaveAnimation-CSS](https://github.com/djzhao627/WaterWaveAnimation-CSS) - 使用CSS让网页展示水波纹效果
@@ -5958,6 +5956,8 @@
 *   [iblh/hexo-theme-material](https://github.com/iblh/hexo-theme-material) - Material Design theme for hexo.
 
 *   [iTimeTraveler/hexo-theme-hiker](https://github.com/iTimeTraveler/hexo-theme-hiker) - An attractive theme for Hexo. called "Hiker", short for "HikerNews".
+
+*   [letiantian/huno](https://github.com/letiantian/huno) - A responsible theme for Hexo
 
 ## Kotlin
 
