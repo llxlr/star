@@ -265,7 +265,7 @@
 
 *   [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 
 *   [vgerbot-app/gtrend-cloudflare-worker](https://github.com/vgerbot-app/gtrend-cloudflare-worker) - A Cloudflare Worker that scrapes GitHub Trending pages to provide a JSON API for trending repositories. Built with TypeScript and Cheerio.
 
@@ -1411,7 +1411,7 @@
 
 *   [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 
-*   [dvolgyes/zenodo\_get](https://github.com/dvolgyes/zenodo_get) - Zenodo\_get: Downloader for Zenodo records
+*   [dvolgyes/zenodo\_get](https://github.com/dvolgyes/zenodo_get) - Zenodo\_get - a downloader for Zenodo records
 
 *   [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 
