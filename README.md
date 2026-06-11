@@ -93,6 +93,10 @@
 
 ## JavaScript
 
+*   [medfreeman/markdown-it-toc-and-anchor](https://github.com/medfreeman/markdown-it-toc-and-anchor) - markdown-it plugin to add a toc and anchor links in headings
+
+*   [arve0/markdown-it-attrs](https://github.com/arve0/markdown-it-attrs) - Add classes, identifiers and attributes to your markdown with {} curly brackets, similar to pandoc's header attributes
+
 *   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
 
 *   [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo.
@@ -2387,7 +2391,7 @@
 
 *   [lgc-NB2Dev/nonebot-plugin-picstatus](https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus) - 运行状态图片版 for NoneBot2 / A NoneBot2 plugin generates a picture which shows the status of current device
 
-*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 *   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 563 颗 ★
 
@@ -3774,8 +3778,6 @@
 *   [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 
 *   [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
-
-*   [luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions](https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions) - 2018中国高校计算机大赛--大数据挑战赛 Top 13-Solutions
 
 ## C\#
 
@@ -5856,8 +5858,6 @@
 *   [ymgd/codereader](https://github.com/ymgd/codereader) - 跟大咖一起读源码
 
 *   [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
-
-*   [luoda888/tianchi-diabetes-top12](https://github.com/luoda888/tianchi-diabetes-top12) -
 
 ## CSS
 
