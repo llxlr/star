@@ -113,8 +113,6 @@
 
 *   [ybq22/supervisor](https://github.com/ybq22/supervisor) -
 
-*   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
-
 *   [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 *   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了截图、贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
@@ -1038,6 +1036,8 @@
 *   [steven-jianhao-li/zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 
 *   [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
+
+*   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
 
 *   [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
@@ -3867,7 +3867,7 @@
 
 *   [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
-*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
+*   [kitsuned/PotatoNV](https://github.com/kitsuned/PotatoNV) - Unlock the bootloader on Huawei devices with Kirin 620/65x/95x/960
 
 *   [Crequency/KitX](https://github.com/Crequency/KitX) - An all-purpose toolbox app that connect everything.
 
@@ -3924,8 +3924,6 @@
 *   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
 
 *   [sovetskyfish/bingpic](https://github.com/sovetskyfish/bingpic) - A tiny tool which changes your desktop to Bing's image of the day.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 *   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 
@@ -5484,6 +5482,8 @@
 *   [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 
 *   [chenxuuu/USB-Screen](https://github.com/chenxuuu/USB-Screen) - 低成本PC资源监控小屏幕。$5 cheap PC monitor screen.
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 *   [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 
