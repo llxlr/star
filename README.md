@@ -4,18 +4,18 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
+*   [PHP](#php)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Vim Script](#vim-script)
 *   [Python](#python)
 *   [C#](#c)
-*   [HTML](#html)
 *   [MATLAB](#matlab)
 *   [Go](#go)
 *   [MDX](#mdx)
-*   [PHP](#php)
 *   [Astro](#astro)
 *   [Roff](#roff)
 *   [Shell](#shell)
@@ -91,7 +91,377 @@
 *   [VimL](#viml)
 *   [CoffeeScript](#coffeescript)
 
+## HTML
+
+*   [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle) - 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。
+
+*   [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work.
+
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
+
+*   [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
+
+*   [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
+
+*   [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
+
+*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+
+*   [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
+
+*   [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
+
+*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+
+*   [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+*   [pianosnake/uke-chord](https://github.com/pianosnake/uke-chord) - Web Component/HTML element for tab chord diagrams using SVG
+
+*   [wangzhiye-tiancai/mysupervisor\_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据
+
+*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
+
+*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+
+*   [MemeCrafters/nonebot-plugin-logo](https://github.com/MemeCrafters/nonebot-plugin-logo) - Nonebot2 插件，用于制作pornhub等风格logo
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [honglt1/Misstar-Tools](https://github.com/honglt1/Misstar-Tools) -
+
+*   [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
+
+*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [unclestrong/DeepLearning\_LHY21\_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes) - 深度学习 李宏毅 2021 学习笔记
+
+*   [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
+
+*   [wenfengSAT/wenfengSAT-UI](https://github.com/wenfengSAT/wenfengSAT-UI) - HTML开发模板，包含Bootstrap、EasyUI、LayUI、AmazeUI等主题模板，欢迎star...
+
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+
+*   [tcgriffith/thesisdown\_demo](https://github.com/tcgriffith/thesisdown_demo) -
+
+*   [Heroic-Studio/Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2024最新 新增各种镜像站
+
+*   [Beats0/www.mygalgame.com](https://github.com/Beats0/www.mygalgame.com) - mygalgame.com backup
+
+*   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
+
+*   [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template) - Modern HTML Starter Template
+
+*   [avinassh/pytorch-flask-api-heroku](https://github.com/avinassh/pytorch-flask-api-heroku) -
+
+*   [pytorch/cppdocs](https://github.com/pytorch/cppdocs) - PyTorch C++ API Documentation
+
+*   [cloudwu/lua53doc](https://github.com/cloudwu/lua53doc) - The Chinese Translation of Lua 5.3 document
+
+*   [spacewander/explore-flask-zh](https://github.com/spacewander/explore-flask-zh) - Explore Flask中文翻译。关于flask的一些最佳实践。
+
+*   [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
+
+*   [themefisher/vex-hugo](https://github.com/themefisher/vex-hugo) - Vex is a product landing page Hugo theme. It is fully responsive and beautifully crafted with Product Showcase, Testimonials, and Email Subscription sections.
+
+*   [DSW1609/DSWDF](https://github.com/DSW1609/DSWDF) - 地府管理系统 🈲Star
+
+*   [idealclover/Merger-Plus](https://github.com/idealclover/Merger-Plus) - 💸一键从电脑/手机跳转至支付宝/微信支付的能力，帮助个人开发者完成打赏功能实现。
+
+*   [iAJue/Alibaba\_pic](https://github.com/iAJue/Alibaba_pic) - 一款美到不行的极简阿里图床
+
+*   [jppope/GithubCMS](https://github.com/jppope/GithubCMS) - Using Cloudflare, Github Actions, Metalsmith (and Github) to Manage Content!
+
+*   [xiiiblue/flask-adminlte-scaffold](https://github.com/xiiiblue/flask-adminlte-scaffold) - flask-adminlte-scaffold是一个Python环境下的WEB后台管理系统脚手架，目标是用极少量的代码，快速构建小型WEB应用。
+
+*   [popcorn-official/popcorn-site](https://github.com/popcorn-official/popcorn-site) - Website EXPRESS.js + I18next
+
+*   [Fankbai/Science.md](https://github.com/Fankbai/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
+
+*   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
+
+*   [isee15/Lunar-Solar-Calendar-Converter](https://github.com/isee15/Lunar-Solar-Calendar-Converter) - 公历(阳历) 农历(阴历)转换，支持时间段从1900-2100 如果需要更长的时间段，利用generate.htm生成的数据即可。 支持各种编程语言 C#,java,Objective-C,php,Python,javascript(nodejs),C/C++,ruby,swift,golang等 支持Mac，Windows，Android，WP多种平台
+
+*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
+
+*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+
+*   [harryprince/R-Tutor](https://github.com/harryprince/R-Tutor) - R语言学习资料
+
+*   [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧
+
+*   [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）
+
+*   [LearnCpp-CN/learncpp-cn.github.io](https://github.com/LearnCpp-CN/learncpp-cn.github.io) - https://www.learncpp.com/ 系列教程中文翻译
+
+*   [MoeClub/OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
+
+*   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+
+*   [calibur-tv/Balus](https://github.com/calibur-tv/Balus) - 【已停止维护】calibur.tv docs system use docsify
+
+*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程 / Flask for Beginners
+
+*   [smilecc/blive-cookie](https://github.com/smilecc/blive-cookie) - 更为方便的获取Bilibili的Cookie
+
+*   [dkurt/cvpr2019](https://github.com/dkurt/cvpr2019) - Workshop materials for OpenCV day at CVPR 2019 conference
+
+*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+
+*   [Sneezry/cpu.tka](https://github.com/Sneezry/cpu.tka) -
+
+*   [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
+
+*   [Suxiaoqinx/acgimgurl](https://github.com/Suxiaoqinx/acgimgurl) -
+
+*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+
+*   [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
+
+*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
+
+*   [yyeexin/bilibili-html-demo](https://github.com/yyeexin/bilibili-html-demo) -
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [geeeeeeeek/videoproject](https://github.com/geeeeeeeek/videoproject) - python+Django视频播放系统，课程设计/毕业设计，用于在线播放mp4视频，视频管理，m3u8 player
+
+*   [sabrinaluo/hexo-theme-replica](https://github.com/sabrinaluo/hexo-theme-replica) - :octocat:Github style replication for hexo theme
+
+*   [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
+
+*   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
+
+*   [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
+
+*   [summerscar/live2dDemo](https://github.com/summerscar/live2dDemo) - live2dDemo http://summerscar.me/live2dDemo/
+
+*   [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
+
+*   [journey-ad/jianpu](https://github.com/journey-ad/jianpu) - 利用Web Audio API将数字简谱转为钢琴曲
+
+*   [EmbraceLife/shendusuipian](https://github.com/EmbraceLife/shendusuipian) - To know stats by heart
+
+*   [demopark/electron-api-demos-Zh\_CN](https://github.com/demopark/electron-api-demos-Zh_CN) - 这是 electron-api-demos 的中文版本, 更新至 v2.0.2
+
+*   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+
+*   [Jan1995/Sao\_Operation](https://github.com/Jan1995/Sao_Operation) -
+
+*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
+
+*   [MapleRecall/html5-particles](https://github.com/MapleRecall/html5-particles) - A particle generator on HTML 5 Canvas
+
+*   [han3420/01](https://github.com/han3420/01) -
+
+*   [coding/Coding-Android](https://github.com/coding/Coding-Android) - Coding Android 客户端源代码
+
+## PHP
+
+*   [injahow/bilibili-parse](https://github.com/injahow/bilibili-parse) - bilibili Video API
+
+*   [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+
+*   [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
+
+*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
+
+*   [greensea/rssindexer](https://github.com/greensea/rssindexer) - 索引 BT RSS 资源，提供搜索服务，实现 RSS 大法
+
+*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+
+*   [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
+
+*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+
+*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+
+*   [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
+
+*   [gogobody/onecircle](https://github.com/gogobody/onecircle) - 一款typecho 社交圈子 主题
+
+*   [yurafuca/5000choyen](https://github.com/yurafuca/5000choyen) - 5000choyen generator
+
+*   [wf-nb/Typecho](https://github.com/wf-nb/Typecho) -
+
+*   [xhboke/IP](https://github.com/xhboke/IP) - IP签名档显示IP、地址、日期······
+
+*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
+
+*   [w920686/typecho\_Oauth](https://github.com/w920686/typecho_Oauth) - typecho免申请第三方应用集成多种第三方登录插件 目前支持 小程序H5扫码即微信扫码 QQ 微博 百度 钉钉 GitHub Gitee 华为 Gitlab 阿里云 支付宝 小米 开源中国 领英 企业微信 飞书 微软 此为typcho插件 其他程序可参考 https://auth.gmit.vip/ 进行开发
+
+*   [jrotty/CatClaw](https://github.com/jrotty/CatClaw) - Typecho猫爪影视采集插件
+
+*   [SC-Networks/deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - Connector library for deepl.com rest translation api
+
+*   [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
+
+*   [newsn/typecho-plugin-github-oauth](https://github.com/newsn/typecho-plugin-github-oauth) - typecho插件，github登陆之oauth，演示地址：https://newsn.net/
+
+*   [ZeroDream-CN/SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) - 樱花内网穿透网站源代码，2020 重制版
+
+*   [meiu/meiupic](https://github.com/meiu/meiupic) - 简洁好用的多用户图片社区。
+
+*   [p0ise/Typecho-ColorfulTags-For-Handsome](https://github.com/p0ise/Typecho-ColorfulTags-For-Handsome) - Handsome专用彩色3D标签云插件，即装即用
+
+*   [ShadowySpirits/BangumiList](https://github.com/ShadowySpirits/BangumiList) - Bangumi 追番列表插件 Typecho 版
+
+*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
+
+*   [MoLeft/CommentToDingtalk](https://github.com/MoLeft/CommentToDingtalk) - typecho插件，可以将评论推送到钉钉
+
+*   [MoLeft/ArticlePoster](https://github.com/MoLeft/ArticlePoster) - 免费的Typecho文章海报插件，基于GD库
+
+*   [mhcyong/TeePay](https://github.com/mhcyong/TeePay) - Typecho 个人支付宝、微信收款插件
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
+
+*   [BigCoke233/adams](https://github.com/BigCoke233/adams) - 🍀 简洁而不失优雅的 Typecho 主题
+
+*   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
+
+*   [yumusb/autoPicCdn](https://github.com/yumusb/autoPicCdn) -
+
+*   [yumusb/alipay-f2fpay](https://github.com/yumusb/alipay-f2fpay) - 支付宝当面付DEMO
+
+*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。
+
+*   [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay) - WordPress & Typecho插件：「特殊节日使用」在国家公祭日、全国哀悼日时网站增加灰色滤镜。
+
+*   [AlanDecode/PandaBangumi-Typecho-Plugin](https://github.com/AlanDecode/PandaBangumi-Typecho-Plugin) - 给博客添加精美的追番展示页吧！
+
+*   [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
+
+*   [benzBrake/ShortLinks](https://github.com/benzBrake/ShortLinks) - Typecho外链转内链插件，支持正文和评论者链接
+
+*   [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) -
+
+*   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
+
+*   [ylqjgm/LoveKKComment](https://github.com/ylqjgm/LoveKKComment) - Typecho 评论邮件通知插件
+
+*   [visamz/CommentToMail](https://github.com/visamz/CommentToMail) - Typecho评论邮件提醒插件
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [ennnnny/typecho](https://github.com/ennnnny/typecho) - typecho plugins
+
+*   [typecho/plugins](https://github.com/typecho/plugins) - Typecho插件列表
+
+*   [Yves-X/Copyright-for-Typecho](https://github.com/Yves-X/Copyright-for-Typecho) - 一个灵活的版权小尾巴插件 for Typecho
+
+*   [droomo/AliOssForTypecho](https://github.com/droomo/AliOssForTypecho) - first upload
+
+*   [dishcheng/cosUploadV5](https://github.com/dishcheng/cosUploadV5) - 针对腾讯云cos v5更新   for Typecho
+
+*   [holmesian/Typecho-AMP](https://github.com/holmesian/Typecho-AMP) - A typecho plugin for Google AMP / Baidu MIP.
+
+*   [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
+
+*   [moegirlwiki/MW-Cloudflare](https://github.com/moegirlwiki/MW-Cloudflare) - mediawiki的clouflare管理插件
+
+*   [AyagawaSeirin/BilibiliFollowPage](https://github.com/AyagawaSeirin/BilibiliFollowPage) - 基于handsome主题的B站追番列表独立页面作品
+
+*   [mixcm/lovewall](https://github.com/mixcm/lovewall) - 趁青春
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget) - 会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily ranking widget, automatically updates, suitable for blog sidebar, etc.
+
+*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+
+*   [dsyph3r/github-api3-php](https://github.com/dsyph3r/github-api3-php) - PHP library for the GitHub API v3
+
+*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+
+*   [Tsuk1ko/Comment2IFTTT](https://github.com/Tsuk1ko/Comment2IFTTT) - A Typecho plugin to push new comments to IFTTT Webhooks
+
+*   [vfhky/PlayAtWill](https://github.com/vfhky/PlayAtWill) - 音乐播放器PlayAtWill for typecho插件
+
+*   [metowolf/NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) - 网易云音乐API，项目合并至 Meting
+
+*   [hakula139/UserAgent-for-Typecho](https://github.com/hakula139/UserAgent-for-Typecho) - Typecho 下显示评论 User Agent 的插件
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [luoshuijs/pixiv-homepage-drawing-API](https://github.com/luoshuijs/pixiv-homepage-drawing-API) - P站首页美图获取
+
+*   [spoonysonny/pi-dashboard-daq](https://github.com/spoonysonny/pi-dashboard-daq) -
+
+*   [ghboke/win10explore](https://github.com/ghboke/win10explore) - WordPress win10explore主题
+
+*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+
+*   [YianAndCode/Comment2Wechat](https://github.com/YianAndCode/Comment2Wechat) - Typecho 插件——新评论微信通知
+
+*   [jzwalk/TeStore](https://github.com/jzwalk/TeStore) - 插件仓库插件 for Typecho 1.1
+
+*   [kokororin/typecho-plugin-Access](https://github.com/kokororin/typecho-plugin-Access) - Access Log Plugin for Typecho
+
+*   [censujiang/Mokore](https://github.com/censujiang/Mokore) - 🎉Wordpress二次元简约个人博客主题by江程训
+
+*   [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
+
+*   [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
+
+*   [maocxcx/Forlover](https://github.com/maocxcx/Forlover) - SillyLi表白墙 sillyli.com
+
+*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
+
+*   [GinkgoTeam/YJTZB\_2019](https://github.com/GinkgoTeam/YJTZB_2019) - 2019年”应急挑战杯“大学生网络安全邀请赛题目源码及writeUP
+
+*   [journey-ad/cPlayer-Typecho-Plugin](https://github.com/journey-ad/cPlayer-Typecho-Plugin) - A typecho plugin for a beautiful html5 music player https://github.com/MoePlayer/cPlayer/tree/f9b593dcd89395f9d7dd08ccda428f7628ab9ab2
+
+*   [lkeme/BiliHelper](https://github.com/lkeme/BiliHelper) - （Bilibili）B 站自动领瓜子、直播助手、直播挂机脚本、主站助手 - PHP 版
+
+*   [ColmonBai/raspberrypi\_dht11](https://github.com/ColmonBai/raspberrypi_dht11) - 基于树莓派和DHT11的温湿度远程监控系统
+
+*   [dugulingping/music163API](https://github.com/dugulingping/music163API) - 高品质，快速度，简单易用的网易云音乐API
+
+*   [txperl/Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho) - Typecho Theme Moricolor - 森之色
+
+*   [journey-ad/Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin) - 简单的，有丰富自定义项的 typecho 页面下雪插件
+
+*   [PomeloOfficial/Weibo](https://github.com/PomeloOfficial/Weibo) - 微言大“艺” The Art of Sublime Words
+
+*   [galnetwen/Random-Image](https://github.com/galnetwen/Random-Image) - 随机图片服务
+
+*   [kokororin/pixiv-api-php](https://github.com/kokororin/pixiv-api-php) - Pixiv API for PHP
+
+*   [komeiji-satori/CRZ.im](https://github.com/komeiji-satori/CRZ.im) - 一个域名缩短服务的源代码
+
+*   [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
+
+*   [A123asdo11/code-release](https://github.com/A123asdo11/code-release) - 简单的代码发布系统 包括 用户权限控制/环境切换/发不同分支/发不同的机器/发送Log
+
+*   [fghrsh/live2d\_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 后端 API
+
 ## JavaScript
+
+*   [mikus-loli/Meting-API](https://github.com/mikus-loli/Meting-API) - 🐳 Meting API
+
+*   [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化
 
 *   [medfreeman/markdown-it-toc-and-anchor](https://github.com/medfreeman/markdown-it-toc-and-anchor) - markdown-it plugin to add a toc and anchor links in headings
 
@@ -869,161 +1239,9 @@
 
 *   [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 
-*   [ruanyf/loppo](https://github.com/ruanyf/loppo) - an extremely easy static site generator of markdown documents
-
-*   [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
-
-## Rust
-
-*   [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
-
-*   [BlueGlassBlock/cmdpal-translate](https://github.com/BlueGlassBlock/cmdpal-translate) -
-
-*   [BlueGlassBlock/cmdpal-rs](https://github.com/BlueGlassBlock/cmdpal-rs) - Idiomatic Rust SDK for PowerToys Command Palette extensions.
-
-*   [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
-
-*   [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
-
-*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-
-*   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-
-*   [zydou/arti](https://github.com/zydou/arti) - An implementation of Tor, in Rust. \[NOT Official, Mirrors Only, NO PR here]
-
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-
-*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-
-*   [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
-
-*   [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-
-*   [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
-
-*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-
-*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
-
-*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-
-*   [rzukic/zed-latex](https://github.com/rzukic/zed-latex) -
-
-*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
-
-*   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
-
-*   [microsoft/qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
-
-*   [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
-
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-
-*   [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
-
-*   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [longbridge/rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations.
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-
-*   [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
-
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-
-*   [onebot-walle/walle-q](https://github.com/onebot-walle/walle-q) - rs-onebot or rs-cqhttp?
-
-*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-
-*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot https://t.me/av1080profit
-
-*   [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
-
-*   [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
-
-*   [Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer) - An local audio player & m3u8 radio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地/m3u8网络电台播放器🎵.
-
-*   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
-
-*   [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
-
-*   [rust-ml/book](https://github.com/rust-ml/book) - The Rust Machine Learning Book
-
-*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
-
-*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-*   [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
-
-*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
-
-*   [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-
-*   [Asutorufa/hujiang\_dictionary](https://github.com/Asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
-
 ## TypeScript
+
+*   [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) -
 
 *   [legend80s/deepseek-balance-statusline](https://github.com/legend80s/deepseek-balance-statusline) - Real-time DeepSeek balance statusline for Claude Code.
 
@@ -1510,6 +1728,156 @@
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+
+## Rust
+
+*   [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
+
+*   [BlueGlassBlock/cmdpal-translate](https://github.com/BlueGlassBlock/cmdpal-translate) -
+
+*   [BlueGlassBlock/cmdpal-rs](https://github.com/BlueGlassBlock/cmdpal-rs) - Idiomatic Rust SDK for PowerToys Command Palette extensions.
+
+*   [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+
+*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
+
+*   [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
+
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
+
+*   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+
+*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
+
+*   [zydou/arti](https://github.com/zydou/arti) - An implementation of Tor, in Rust. \[NOT Official, Mirrors Only, NO PR here]
+
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+
+*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+
+*   [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
+
+*   [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
+
+*   [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
+
+*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+
+*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
+
+*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
+
+*   [rzukic/zed-latex](https://github.com/rzukic/zed-latex) -
+
+*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+
+*   [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
+
+*   [microsoft/qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
+
+*   [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
+
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+
+*   [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
+
+*   [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+*   [longbridge/rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations.
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+
+*   [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
+
+*   [onebot-walle/walle-q](https://github.com/onebot-walle/walle-q) - rs-onebot or rs-cqhttp?
+
+*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
+
+*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot https://t.me/av1080profit
+
+*   [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
+
+*   [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
+
+*   [Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer) - An local audio player & m3u8 radio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地/m3u8网络电台播放器🎵.
+
+*   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
+
+*   [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
+
+*   [rust-ml/book](https://github.com/rust-ml/book) - The Rust Machine Learning Book
+
+*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
+
+*   [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
+
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+*   [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
+
+*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
+
+*   [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+
+*   [Asutorufa/hujiang\_dictionary](https://github.com/Asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, AWS Lambda and Cloudflare Workers. Support LLM and search RAG.
 
 ## miscellaneous
 
@@ -3967,186 +4335,6 @@
 
 *   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
-## HTML
-
-*   [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work.
-
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
-
-*   [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
-
-*   [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
-
-*   [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
-
-*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
-
-*   [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
-
-*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
-
-*   [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-*   [pianosnake/uke-chord](https://github.com/pianosnake/uke-chord) - Web Component/HTML element for tab chord diagrams using SVG
-
-*   [wangzhiye-tiancai/mysupervisor\_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据
-
-*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
-
-*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [MemeCrafters/nonebot-plugin-logo](https://github.com/MemeCrafters/nonebot-plugin-logo) - Nonebot2 插件，用于制作pornhub等风格logo
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [honglt1/Misstar-Tools](https://github.com/honglt1/Misstar-Tools) -
-
-*   [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
-
-*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [unclestrong/DeepLearning\_LHY21\_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes) - 深度学习 李宏毅 2021 学习笔记
-
-*   [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
-
-*   [wenfengSAT/wenfengSAT-UI](https://github.com/wenfengSAT/wenfengSAT-UI) - HTML开发模板，包含Bootstrap、EasyUI、LayUI、AmazeUI等主题模板，欢迎star...
-
-*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-
-*   [tcgriffith/thesisdown\_demo](https://github.com/tcgriffith/thesisdown_demo) -
-
-*   [Heroic-Studio/Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2024最新 新增各种镜像站
-
-*   [Beats0/www.mygalgame.com](https://github.com/Beats0/www.mygalgame.com) - mygalgame.com backup
-
-*   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
-
-*   [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template) - Modern HTML Starter Template
-
-*   [avinassh/pytorch-flask-api-heroku](https://github.com/avinassh/pytorch-flask-api-heroku) -
-
-*   [pytorch/cppdocs](https://github.com/pytorch/cppdocs) - PyTorch C++ API Documentation
-
-*   [cloudwu/lua53doc](https://github.com/cloudwu/lua53doc) - The Chinese Translation of Lua 5.3 document
-
-*   [spacewander/explore-flask-zh](https://github.com/spacewander/explore-flask-zh) - Explore Flask中文翻译。关于flask的一些最佳实践。
-
-*   [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
-
-*   [themefisher/vex-hugo](https://github.com/themefisher/vex-hugo) - Vex is a product landing page Hugo theme. It is fully responsive and beautifully crafted with Product Showcase, Testimonials, and Email Subscription sections.
-
-*   [DSW1609/DSWDF](https://github.com/DSW1609/DSWDF) - 地府管理系统 🈲Star
-
-*   [idealclover/Merger-Plus](https://github.com/idealclover/Merger-Plus) - 💸一键从电脑/手机跳转至支付宝/微信支付的能力，帮助个人开发者完成打赏功能实现。
-
-*   [iAJue/Alibaba\_pic](https://github.com/iAJue/Alibaba_pic) - 一款美到不行的极简阿里图床
-
-*   [jppope/GithubCMS](https://github.com/jppope/GithubCMS) - Using Cloudflare, Github Actions, Metalsmith (and Github) to Manage Content!
-
-*   [xiiiblue/flask-adminlte-scaffold](https://github.com/xiiiblue/flask-adminlte-scaffold) - flask-adminlte-scaffold是一个Python环境下的WEB后台管理系统脚手架，目标是用极少量的代码，快速构建小型WEB应用。
-
-*   [popcorn-official/popcorn-site](https://github.com/popcorn-official/popcorn-site) - Website EXPRESS.js + I18next
-
-*   [Fankbai/Science.md](https://github.com/Fankbai/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
-
-*   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
-
-*   [isee15/Lunar-Solar-Calendar-Converter](https://github.com/isee15/Lunar-Solar-Calendar-Converter) - 公历(阳历) 农历(阴历)转换，支持时间段从1900-2100 如果需要更长的时间段，利用generate.htm生成的数据即可。 支持各种编程语言 C#,java,Objective-C,php,Python,javascript(nodejs),C/C++,ruby,swift,golang等 支持Mac，Windows，Android，WP多种平台
-
-*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-
-*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-
-*   [harryprince/R-Tutor](https://github.com/harryprince/R-Tutor) - R语言学习资料
-
-*   [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧
-
-*   [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）
-
-*   [LearnCpp-CN/learncpp-cn.github.io](https://github.com/LearnCpp-CN/learncpp-cn.github.io) - https://www.learncpp.com/ 系列教程中文翻译
-
-*   [MoeClub/OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
-
-*   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-
-*   [calibur-tv/Balus](https://github.com/calibur-tv/Balus) - 【已停止维护】calibur.tv docs system use docsify
-
-*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程 / Flask for Beginners
-
-*   [smilecc/blive-cookie](https://github.com/smilecc/blive-cookie) - 更为方便的获取Bilibili的Cookie
-
-*   [dkurt/cvpr2019](https://github.com/dkurt/cvpr2019) - Workshop materials for OpenCV day at CVPR 2019 conference
-
-*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-
-*   [Sneezry/cpu.tka](https://github.com/Sneezry/cpu.tka) -
-
-*   [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-
-*   [Suxiaoqinx/acgimgurl](https://github.com/Suxiaoqinx/acgimgurl) -
-
-*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
-
-*   [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
-
-*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
-
-*   [yyeexin/bilibili-html-demo](https://github.com/yyeexin/bilibili-html-demo) -
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [geeeeeeeek/videoproject](https://github.com/geeeeeeeek/videoproject) - python+Django视频播放系统，课程设计/毕业设计，用于在线播放mp4视频，视频管理，m3u8 player
-
-*   [sabrinaluo/hexo-theme-replica](https://github.com/sabrinaluo/hexo-theme-replica) - :octocat:Github style replication for hexo theme
-
-*   [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
-
-*   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
-
-*   [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
-
-*   [summerscar/live2dDemo](https://github.com/summerscar/live2dDemo) - live2dDemo http://summerscar.me/live2dDemo/
-
-*   [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
-
-*   [journey-ad/jianpu](https://github.com/journey-ad/jianpu) - 利用Web Audio API将数字简谱转为钢琴曲
-
-*   [EmbraceLife/shendusuipian](https://github.com/EmbraceLife/shendusuipian) - To know stats by heart
-
-*   [demopark/electron-api-demos-Zh\_CN](https://github.com/demopark/electron-api-demos-Zh_CN) - 这是 electron-api-demos 的中文版本, 更新至 v2.0.2
-
-*   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-
-*   [Jan1995/Sao\_Operation](https://github.com/Jan1995/Sao_Operation) -
-
-*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
-
-*   [MapleRecall/html5-particles](https://github.com/MapleRecall/html5-particles) - A particle generator on HTML 5 Canvas
-
-*   [han3420/01](https://github.com/han3420/01) -
-
-*   [coding/Coding-Android](https://github.com/coding/Coding-Android) - Coding Android 客户端源代码
-
 ## MATLAB
 
 *   [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) - The MATLAB Agentic Toolkit brings trusted MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.
@@ -4572,190 +4760,6 @@
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 *   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
-
-## PHP
-
-*   [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
-
-*   [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
-
-*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
-
-*   [greensea/rssindexer](https://github.com/greensea/rssindexer) - 索引 BT RSS 资源，提供搜索服务，实现 RSS 大法
-
-*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-
-*   [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
-
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-
-*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
-
-*   [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
-
-*   [gogobody/onecircle](https://github.com/gogobody/onecircle) - 一款typecho 社交圈子 主题
-
-*   [yurafuca/5000choyen](https://github.com/yurafuca/5000choyen) - 5000choyen generator
-
-*   [wf-nb/Typecho](https://github.com/wf-nb/Typecho) -
-
-*   [xhboke/IP](https://github.com/xhboke/IP) - IP签名档显示IP、地址、日期······
-
-*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
-
-*   [w920686/typecho\_Oauth](https://github.com/w920686/typecho_Oauth) - typecho免申请第三方应用集成多种第三方登录插件 目前支持 小程序H5扫码即微信扫码 QQ 微博 百度 钉钉 GitHub Gitee 华为 Gitlab 阿里云 支付宝 小米 开源中国 领英 企业微信 飞书 微软 此为typcho插件 其他程序可参考 https://auth.gmit.vip/ 进行开发
-
-*   [jrotty/CatClaw](https://github.com/jrotty/CatClaw) - Typecho猫爪影视采集插件
-
-*   [SC-Networks/deepl-api-connector](https://github.com/SC-Networks/deepl-api-connector) - Connector library for deepl.com rest translation api
-
-*   [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
-
-*   [newsn/typecho-plugin-github-oauth](https://github.com/newsn/typecho-plugin-github-oauth) - typecho插件，github登陆之oauth，演示地址：https://newsn.net/
-
-*   [ZeroDream-CN/SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) - 樱花内网穿透网站源代码，2020 重制版
-
-*   [meiu/meiupic](https://github.com/meiu/meiupic) - 简洁好用的多用户图片社区。
-
-*   [p0ise/Typecho-ColorfulTags-For-Handsome](https://github.com/p0ise/Typecho-ColorfulTags-For-Handsome) - Handsome专用彩色3D标签云插件，即装即用
-
-*   [ShadowySpirits/BangumiList](https://github.com/ShadowySpirits/BangumiList) - Bangumi 追番列表插件 Typecho 版
-
-*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
-
-*   [MoLeft/CommentToDingtalk](https://github.com/MoLeft/CommentToDingtalk) - typecho插件，可以将评论推送到钉钉
-
-*   [MoLeft/ArticlePoster](https://github.com/MoLeft/ArticlePoster) - 免费的Typecho文章海报插件，基于GD库
-
-*   [mhcyong/TeePay](https://github.com/mhcyong/TeePay) - Typecho 个人支付宝、微信收款插件
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-*   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
-
-*   [BigCoke233/adams](https://github.com/BigCoke233/adams) - 🍀 简洁而不失优雅的 Typecho 主题
-
-*   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
-
-*   [yumusb/autoPicCdn](https://github.com/yumusb/autoPicCdn) -
-
-*   [yumusb/alipay-f2fpay](https://github.com/yumusb/alipay-f2fpay) - 支付宝当面付DEMO
-
-*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。
-
-*   [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay) - WordPress & Typecho插件：「特殊节日使用」在国家公祭日、全国哀悼日时网站增加灰色滤镜。
-
-*   [AlanDecode/PandaBangumi-Typecho-Plugin](https://github.com/AlanDecode/PandaBangumi-Typecho-Plugin) - 给博客添加精美的追番展示页吧！
-
-*   [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
-
-*   [benzBrake/ShortLinks](https://github.com/benzBrake/ShortLinks) - Typecho外链转内链插件，支持正文和评论者链接
-
-*   [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) -
-
-*   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-
-*   [ylqjgm/LoveKKComment](https://github.com/ylqjgm/LoveKKComment) - Typecho 评论邮件通知插件
-
-*   [visamz/CommentToMail](https://github.com/visamz/CommentToMail) - Typecho评论邮件提醒插件
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [ennnnny/typecho](https://github.com/ennnnny/typecho) - typecho plugins
-
-*   [typecho/plugins](https://github.com/typecho/plugins) - Typecho插件列表
-
-*   [Yves-X/Copyright-for-Typecho](https://github.com/Yves-X/Copyright-for-Typecho) - 一个灵活的版权小尾巴插件 for Typecho
-
-*   [droomo/AliOssForTypecho](https://github.com/droomo/AliOssForTypecho) - first upload
-
-*   [dishcheng/cosUploadV5](https://github.com/dishcheng/cosUploadV5) - 针对腾讯云cos v5更新   for Typecho
-
-*   [holmesian/Typecho-AMP](https://github.com/holmesian/Typecho-AMP) - A typecho plugin for Google AMP / Baidu MIP.
-
-*   [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
-
-*   [moegirlwiki/MW-Cloudflare](https://github.com/moegirlwiki/MW-Cloudflare) - mediawiki的clouflare管理插件
-
-*   [AyagawaSeirin/BilibiliFollowPage](https://github.com/AyagawaSeirin/BilibiliFollowPage) - 基于handsome主题的B站追番列表独立页面作品
-
-*   [mixcm/lovewall](https://github.com/mixcm/lovewall) - 趁青春
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget) - 会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily ranking widget, automatically updates, suitable for blog sidebar, etc.
-
-*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
-
-*   [dsyph3r/github-api3-php](https://github.com/dsyph3r/github-api3-php) - PHP library for the GitHub API v3
-
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-
-*   [Tsuk1ko/Comment2IFTTT](https://github.com/Tsuk1ko/Comment2IFTTT) - A Typecho plugin to push new comments to IFTTT Webhooks
-
-*   [vfhky/PlayAtWill](https://github.com/vfhky/PlayAtWill) - 音乐播放器PlayAtWill for typecho插件
-
-*   [metowolf/NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) - 网易云音乐API，项目合并至 Meting
-
-*   [hakula139/UserAgent-for-Typecho](https://github.com/hakula139/UserAgent-for-Typecho) - Typecho 下显示评论 User Agent 的插件
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [luoshuijs/pixiv-homepage-drawing-API](https://github.com/luoshuijs/pixiv-homepage-drawing-API) - P站首页美图获取
-
-*   [spoonysonny/pi-dashboard-daq](https://github.com/spoonysonny/pi-dashboard-daq) -
-
-*   [ghboke/win10explore](https://github.com/ghboke/win10explore) - WordPress win10explore主题
-
-*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
-
-*   [YianAndCode/Comment2Wechat](https://github.com/YianAndCode/Comment2Wechat) - Typecho 插件——新评论微信通知
-
-*   [jzwalk/TeStore](https://github.com/jzwalk/TeStore) - 插件仓库插件 for Typecho 1.1
-
-*   [kokororin/typecho-plugin-Access](https://github.com/kokororin/typecho-plugin-Access) - Access Log Plugin for Typecho
-
-*   [censujiang/Mokore](https://github.com/censujiang/Mokore) - 🎉Wordpress二次元简约个人博客主题by江程训
-
-*   [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
-
-*   [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
-
-*   [maocxcx/Forlover](https://github.com/maocxcx/Forlover) - SillyLi表白墙 sillyli.com
-
-*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
-
-*   [GinkgoTeam/YJTZB\_2019](https://github.com/GinkgoTeam/YJTZB_2019) - 2019年”应急挑战杯“大学生网络安全邀请赛题目源码及writeUP
-
-*   [journey-ad/cPlayer-Typecho-Plugin](https://github.com/journey-ad/cPlayer-Typecho-Plugin) - A typecho plugin for a beautiful html5 music player https://github.com/MoePlayer/cPlayer/tree/f9b593dcd89395f9d7dd08ccda428f7628ab9ab2
-
-*   [lkeme/BiliHelper](https://github.com/lkeme/BiliHelper) - （Bilibili）B 站自动领瓜子、直播助手、直播挂机脚本、主站助手 - PHP 版
-
-*   [ColmonBai/raspberrypi\_dht11](https://github.com/ColmonBai/raspberrypi_dht11) - 基于树莓派和DHT11的温湿度远程监控系统
-
-*   [dugulingping/music163API](https://github.com/dugulingping/music163API) - 高品质，快速度，简单易用的网易云音乐API
-
-*   [txperl/Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho) - Typecho Theme Moricolor - 森之色
-
-*   [journey-ad/Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin) - 简单的，有丰富自定义项的 typecho 页面下雪插件
-
-*   [PomeloOfficial/Weibo](https://github.com/PomeloOfficial/Weibo) - 微言大“艺” The Art of Sublime Words
-
-*   [galnetwen/Random-Image](https://github.com/galnetwen/Random-Image) - 随机图片服务
-
-*   [kokororin/pixiv-api-php](https://github.com/kokororin/pixiv-api-php) - Pixiv API for PHP
-
-*   [komeiji-satori/CRZ.im](https://github.com/komeiji-satori/CRZ.im) - 一个域名缩短服务的源代码
-
-*   [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-
-*   [A123asdo11/code-release](https://github.com/A123asdo11/code-release) - 简单的代码发布系统 包括 用户权限控制/环境切换/发不同分支/发不同的机器/发送Log
-
-*   [fghrsh/live2d\_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 后端 API
-
-*   [flag111/phpstudy](https://github.com/flag111/phpstudy) - PHP学习
 
 ## Astro
 
@@ -5273,8 +5277,6 @@
 
 *   [chitao1234/aria2-2048-threads](https://github.com/chitao1234/aria2-2048-threads) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
-*   [DaidoujiChen/DaiLive2DPlayground](https://github.com/DaidoujiChen/DaiLive2DPlayground) - Get a girl friend in programming
-
 ## Vue
 
 *   [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力、iCal日程同步以及账单管理功能。同时支持Worker和Docker方式部署。
@@ -5538,8 +5540,6 @@
 *   [kriswebdev/android\_aircrack](https://github.com/kriswebdev/android_aircrack) - Aircrack-ng command-line for Android. Binaries & source. 🇺🇦 SUPPORT UKRAINE! 🇺🇦
 
 *   [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
-
-*   [sgreenlee/C-Primer-Plus-Exercises](https://github.com/sgreenlee/C-Primer-Plus-Exercises) - Solutions to exercises from the book C Primer Plus.
 
 ## TeX
 
