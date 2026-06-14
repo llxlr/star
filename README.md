@@ -2281,7 +2281,7 @@
 
 *   [gloveboxes/PyCon-Hands-on-Lab](https://github.com/gloveboxes/PyCon-Hands-on-Lab) -
 
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Trace back an anime scene with a screenshot
+*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Timestamp Retrieval for Anime Clips Everywhere
 
 *   [bilibili/join-us](https://github.com/bilibili/join-us) - 大B站需要更多的小伙伴~ ( ゜- ゜)つロ  乾杯~
 
