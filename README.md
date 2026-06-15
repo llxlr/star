@@ -3433,6 +3433,8 @@
 
 *   [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 
+*   [meta-pytorch/opacus](https://github.com/meta-pytorch/opacus) - Training PyTorch models with differential privacy
+
 *   [lochen88/MBPython](https://github.com/lochen88/MBPython) - MBPython is an open source project founded by lochen  to provide Python bindings for the miniblink. python miniblink
 
 *   [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
@@ -5697,8 +5699,6 @@
 
 *   [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing
 
-*   [meta-pytorch/opacus](https://github.com/meta-pytorch/opacus) - Training PyTorch models with differential privacy
-
 *   [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 
 *   [onnx/tutorials](https://github.com/onnx/tutorials) - Tutorials for creating and using ONNX models
@@ -6575,7 +6575,7 @@
 
 ## BibTeX Style
 
-*   [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - BibTeX styles for Chinese National Standard GB/T 7714
+*   [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - A BibTeX implementation of Chinese National Standard GB/T 7714
 
 ## CMake
 
