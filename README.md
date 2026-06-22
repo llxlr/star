@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [JavaScript](#javascript)
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [WebAssembly](#webassembly)
@@ -90,193 +90,16 @@
 *   [PureBasic](#purebasic)
 *   [Processing](#processing)
 *   [VimL](#viml)
-*   [CoffeeScript](#coffeescript)
-
-## HTML
-
-*   [ytliu0/ChineseCalendar](https://github.com/ytliu0/ChineseCalendar) - Conversion between the Western calendar and Chinese calendar
-
-*   [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle) - 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。
-
-*   [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work.
-
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
-
-*   [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
-
-*   [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
-
-*   [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
-
-*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
-
-*   [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
-
-*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
-
-*   [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-*   [pianosnake/uke-chord](https://github.com/pianosnake/uke-chord) - Web Component/HTML element for tab chord diagrams using SVG
-
-*   [wangzhiye-tiancai/mysupervisor\_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据
-
-*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
-
-*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [MemeCrafters/nonebot-plugin-logo](https://github.com/MemeCrafters/nonebot-plugin-logo) - Nonebot2 插件，用于制作pornhub等风格logo
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [honglt1/Misstar-Tools](https://github.com/honglt1/Misstar-Tools) -
-
-*   [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
-
-*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [unclestrong/DeepLearning\_LHY21\_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes) - 深度学习 李宏毅 2021 学习笔记
-
-*   [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
-
-*   [wenfengSAT/wenfengSAT-UI](https://github.com/wenfengSAT/wenfengSAT-UI) - HTML开发模板，包含Bootstrap、EasyUI、LayUI、AmazeUI等主题模板，欢迎star...
-
-*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-
-*   [tcgriffith/thesisdown\_demo](https://github.com/tcgriffith/thesisdown_demo) -
-
-*   [Heroic-Studio/Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2024最新 新增各种镜像站
-
-*   [Beats0/www.mygalgame.com](https://github.com/Beats0/www.mygalgame.com) - mygalgame.com backup
-
-*   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
-
-*   [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template) - Modern HTML Starter Template
-
-*   [avinassh/pytorch-flask-api-heroku](https://github.com/avinassh/pytorch-flask-api-heroku) -
-
-*   [pytorch/cppdocs](https://github.com/pytorch/cppdocs) - PyTorch C++ API Documentation
-
-*   [cloudwu/lua53doc](https://github.com/cloudwu/lua53doc) - The Chinese Translation of Lua 5.3 document
-
-*   [spacewander/explore-flask-zh](https://github.com/spacewander/explore-flask-zh) - Explore Flask中文翻译。关于flask的一些最佳实践。
-
-*   [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
-
-*   [themefisher/vex-hugo](https://github.com/themefisher/vex-hugo) - Vex is a product landing page Hugo theme. It is fully responsive and beautifully crafted with Product Showcase, Testimonials, and Email Subscription sections.
-
-*   [DSW1609/DSWDF](https://github.com/DSW1609/DSWDF) - 地府管理系统 🈲Star
-
-*   [idealclover/Merger-Plus](https://github.com/idealclover/Merger-Plus) - 💸一键从电脑/手机跳转至支付宝/微信支付的能力，帮助个人开发者完成打赏功能实现。
-
-*   [iAJue/Alibaba\_pic](https://github.com/iAJue/Alibaba_pic) - 一款美到不行的极简阿里图床
-
-*   [jppope/GithubCMS](https://github.com/jppope/GithubCMS) - Using Cloudflare, Github Actions, Metalsmith (and Github) to Manage Content!
-
-*   [xiiiblue/flask-adminlte-scaffold](https://github.com/xiiiblue/flask-adminlte-scaffold) - flask-adminlte-scaffold是一个Python环境下的WEB后台管理系统脚手架，目标是用极少量的代码，快速构建小型WEB应用。
-
-*   [popcorn-official/popcorn-site](https://github.com/popcorn-official/popcorn-site) - Website EXPRESS.js + I18next
-
-*   [Fankbai/Science.md](https://github.com/Fankbai/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
-
-*   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
-
-*   [isee15/Lunar-Solar-Calendar-Converter](https://github.com/isee15/Lunar-Solar-Calendar-Converter) - 公历(阳历) 农历(阴历)转换，支持时间段从1900-2100 如果需要更长的时间段，利用generate.htm生成的数据即可。 支持各种编程语言 C#,java,Objective-C,php,Python,javascript(nodejs),C/C++,ruby,swift,golang等 支持Mac，Windows，Android，WP多种平台
-
-*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-
-*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-
-*   [harryprince/R-Tutor](https://github.com/harryprince/R-Tutor) - R语言学习资料
-
-*   [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧
-
-*   [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）
-
-*   [LearnCpp-CN/learncpp-cn.github.io](https://github.com/LearnCpp-CN/learncpp-cn.github.io) - https://www.learncpp.com/ 系列教程中文翻译
-
-*   [MoeClub/OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
-
-*   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-
-*   [calibur-tv/Balus](https://github.com/calibur-tv/Balus) - 【已停止维护】calibur.tv docs system use docsify
-
-*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程 / Flask for Beginners
-
-*   [smilecc/blive-cookie](https://github.com/smilecc/blive-cookie) - 更为方便的获取Bilibili的Cookie
-
-*   [dkurt/cvpr2019](https://github.com/dkurt/cvpr2019) - Workshop materials for OpenCV day at CVPR 2019 conference
-
-*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-
-*   [Sneezry/cpu.tka](https://github.com/Sneezry/cpu.tka) -
-
-*   [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-
-*   [Suxiaoqinx/acgimgurl](https://github.com/Suxiaoqinx/acgimgurl) -
-
-*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
-
-*   [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
-
-*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
-
-*   [yyeexin/bilibili-html-demo](https://github.com/yyeexin/bilibili-html-demo) -
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [geeeeeeeek/videoproject](https://github.com/geeeeeeeek/videoproject) - python+Django视频播放系统，课程设计/毕业设计，用于在线播放mp4视频，视频管理，m3u8 player
-
-*   [sabrinaluo/hexo-theme-replica](https://github.com/sabrinaluo/hexo-theme-replica) - :octocat:Github style replication for hexo theme
-
-*   [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
-
-*   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
-
-*   [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
-
-*   [summerscar/live2dDemo](https://github.com/summerscar/live2dDemo) - live2dDemo http://summerscar.me/live2dDemo/
-
-*   [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
-
-*   [journey-ad/jianpu](https://github.com/journey-ad/jianpu) - 利用Web Audio API将数字简谱转为钢琴曲
-
-*   [EmbraceLife/shendusuipian](https://github.com/EmbraceLife/shendusuipian) - To know stats by heart
-
-*   [demopark/electron-api-demos-Zh\_CN](https://github.com/demopark/electron-api-demos-Zh_CN) - 这是 electron-api-demos 的中文版本, 更新至 v2.0.2
-
-*   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-
-*   [Jan1995/Sao\_Operation](https://github.com/Jan1995/Sao_Operation) -
-
-*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
-
-*   [MapleRecall/html5-particles](https://github.com/MapleRecall/html5-particles) - A particle generator on HTML 5 Canvas
-
-*   [han3420/01](https://github.com/han3420/01) -
-
-*   [coding/Coding-Android](https://github.com/coding/Coding-Android) - Coding Android 客户端源代码
 
 ## JavaScript
+
+*   [adamreisnz/seki](https://github.com/adamreisnz/seki) - The Seki Go Player – Simple, Elegant, Compact and Intuitive
+
+*   [aprescott/tenuki](https://github.com/aprescott/tenuki) - Tenuki is a web-based go board and JavaScript library
+
+*   [cjlarose/weiqi.js](https://github.com/cjlarose/weiqi.js) - An implementation of the ancient Chinese board game Go (Chinese: 围棋 wéiqí, Korean: 바둑 baduk, Japanese: 囲碁 igo) using immutable data structures
+
+*   [waltheri/wgo.js](https://github.com/waltheri/wgo.js) - JavaScript library for game of Go.
 
 *   [alphasp/pixiv-api-client](https://github.com/alphasp/pixiv-api-client) - Promise based Pixiv API client for node.js and react native
 
@@ -1056,6 +879,192 @@
 
 *   [superalsrk/hexo-pdf](https://github.com/superalsrk/hexo-pdf) - Hexo tag for embeded pdf
 
+## HTML
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
+
+*   [ytliu0/ChineseCalendar](https://github.com/ytliu0/ChineseCalendar) - Conversion between the Western calendar and Chinese calendar
+
+*   [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle) - 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。
+
+*   [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work.
+
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
+
+*   [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
+
+*   [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
+
+*   [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
+
+*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+
+*   [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
+
+*   [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
+
+*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+
+*   [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+*   [pianosnake/uke-chord](https://github.com/pianosnake/uke-chord) - Web Component/HTML element for tab chord diagrams using SVG
+
+*   [wangzhiye-tiancai/mysupervisor\_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据
+
+*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
+
+*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+
+*   [MemeCrafters/nonebot-plugin-logo](https://github.com/MemeCrafters/nonebot-plugin-logo) - Nonebot2 插件，用于制作pornhub等风格logo
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [honglt1/Misstar-Tools](https://github.com/honglt1/Misstar-Tools) -
+
+*   [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
+
+*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [unclestrong/DeepLearning\_LHY21\_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes) - 深度学习 李宏毅 2021 学习笔记
+
+*   [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
+
+*   [wenfengSAT/wenfengSAT-UI](https://github.com/wenfengSAT/wenfengSAT-UI) - HTML开发模板，包含Bootstrap、EasyUI、LayUI、AmazeUI等主题模板，欢迎star...
+
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+
+*   [tcgriffith/thesisdown\_demo](https://github.com/tcgriffith/thesisdown_demo) -
+
+*   [Heroic-Studio/Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2024最新 新增各种镜像站
+
+*   [Beats0/www.mygalgame.com](https://github.com/Beats0/www.mygalgame.com) - mygalgame.com backup
+
+*   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
+
+*   [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template) - Modern HTML Starter Template
+
+*   [avinassh/pytorch-flask-api-heroku](https://github.com/avinassh/pytorch-flask-api-heroku) -
+
+*   [pytorch/cppdocs](https://github.com/pytorch/cppdocs) - PyTorch C++ API Documentation
+
+*   [cloudwu/lua53doc](https://github.com/cloudwu/lua53doc) - The Chinese Translation of Lua 5.3 document
+
+*   [spacewander/explore-flask-zh](https://github.com/spacewander/explore-flask-zh) - Explore Flask中文翻译。关于flask的一些最佳实践。
+
+*   [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
+
+*   [themefisher/vex-hugo](https://github.com/themefisher/vex-hugo) - Vex is a product landing page Hugo theme. It is fully responsive and beautifully crafted with Product Showcase, Testimonials, and Email Subscription sections.
+
+*   [DSW1609/DSWDF](https://github.com/DSW1609/DSWDF) - 地府管理系统 🈲Star
+
+*   [idealclover/Merger-Plus](https://github.com/idealclover/Merger-Plus) - 💸一键从电脑/手机跳转至支付宝/微信支付的能力，帮助个人开发者完成打赏功能实现。
+
+*   [iAJue/Alibaba\_pic](https://github.com/iAJue/Alibaba_pic) - 一款美到不行的极简阿里图床
+
+*   [jppope/GithubCMS](https://github.com/jppope/GithubCMS) - Using Cloudflare, Github Actions, Metalsmith (and Github) to Manage Content!
+
+*   [xiiiblue/flask-adminlte-scaffold](https://github.com/xiiiblue/flask-adminlte-scaffold) - flask-adminlte-scaffold是一个Python环境下的WEB后台管理系统脚手架，目标是用极少量的代码，快速构建小型WEB应用。
+
+*   [popcorn-official/popcorn-site](https://github.com/popcorn-official/popcorn-site) - Website EXPRESS.js + I18next
+
+*   [Fankbai/Science.md](https://github.com/Fankbai/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
+
+*   [xiongbao/we.dog](https://github.com/xiongbao/we.dog) - 我们是狗，舔狗。心酸的舔狗日记。
+
+*   [isee15/Lunar-Solar-Calendar-Converter](https://github.com/isee15/Lunar-Solar-Calendar-Converter) - 公历(阳历) 农历(阴历)转换，支持时间段从1900-2100 如果需要更长的时间段，利用generate.htm生成的数据即可。 支持各种编程语言 C#,java,Objective-C,php,Python,javascript(nodejs),C/C++,ruby,swift,golang等 支持Mac，Windows，Android，WP多种平台
+
+*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
+
+*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+
+*   [harryprince/R-Tutor](https://github.com/harryprince/R-Tutor) - R语言学习资料
+
+*   [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧
+
+*   [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）
+
+*   [LearnCpp-CN/learncpp-cn.github.io](https://github.com/LearnCpp-CN/learncpp-cn.github.io) - https://www.learncpp.com/ 系列教程中文翻译
+
+*   [MoeClub/OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
+
+*   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+
+*   [calibur-tv/Balus](https://github.com/calibur-tv/Balus) - 【已停止维护】calibur.tv docs system use docsify
+
+*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程 / Flask for Beginners
+
+*   [smilecc/blive-cookie](https://github.com/smilecc/blive-cookie) - 更为方便的获取Bilibili的Cookie
+
+*   [dkurt/cvpr2019](https://github.com/dkurt/cvpr2019) - Workshop materials for OpenCV day at CVPR 2019 conference
+
+*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+
+*   [Sneezry/cpu.tka](https://github.com/Sneezry/cpu.tka) -
+
+*   [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
+
+*   [Suxiaoqinx/acgimgurl](https://github.com/Suxiaoqinx/acgimgurl) -
+
+*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+
+*   [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
+
+*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
+
+*   [yyeexin/bilibili-html-demo](https://github.com/yyeexin/bilibili-html-demo) -
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [geeeeeeeek/videoproject](https://github.com/geeeeeeeek/videoproject) - python+Django视频播放系统，课程设计/毕业设计，用于在线播放mp4视频，视频管理，m3u8 player
+
+*   [sabrinaluo/hexo-theme-replica](https://github.com/sabrinaluo/hexo-theme-replica) - :octocat:Github style replication for hexo theme
+
+*   [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
+
+*   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
+
+*   [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
+
+*   [summerscar/live2dDemo](https://github.com/summerscar/live2dDemo) - live2dDemo http://summerscar.me/live2dDemo/
+
+*   [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
+
+*   [journey-ad/jianpu](https://github.com/journey-ad/jianpu) - 利用Web Audio API将数字简谱转为钢琴曲
+
+*   [EmbraceLife/shendusuipian](https://github.com/EmbraceLife/shendusuipian) - To know stats by heart
+
+*   [demopark/electron-api-demos-Zh\_CN](https://github.com/demopark/electron-api-demos-Zh_CN) - 这是 electron-api-demos 的中文版本, 更新至 v2.0.2
+
+*   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+
+*   [Jan1995/Sao\_Operation](https://github.com/Jan1995/Sao_Operation) -
+
+*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
+
+*   [MapleRecall/html5-particles](https://github.com/MapleRecall/html5-particles) - A particle generator on HTML 5 Canvas
+
+*   [han3420/01](https://github.com/han3420/01) -
+
+*   [coding/Coding-Android](https://github.com/coding/Coding-Android) - Coding Android 客户端源代码
+
 ## TypeScript
 
 *   [renmu123/biliAPI](https://github.com/renmu123/biliAPI) - bilibili 接口的 node 包装库
@@ -1187,6 +1196,8 @@
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
 *   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
 *   [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) - Exquisite GitHub style Gitea themes
 
@@ -1860,7 +1871,7 @@
 
 *   [lgc-NB2Dev/nonebot-plugin-picstatus](https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus) - 运行状态图片版 for NoneBot2 / A NoneBot2 plugin generates a picture which shows the status of current device
 
-*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 563 颗 ★
+*   [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 565 颗 ★
 
 *   [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 
@@ -3246,8 +3257,6 @@
 
 *   [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 
-*   [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
-
 ## WebAssembly
 
 *   [Relph1119/wasm-python-book](https://github.com/Relph1119/wasm-python-book) - 《WebAssembly原理与核心技术》WebAssembly解释器的Python实现
@@ -3970,7 +3979,7 @@
 
 *   [avsaj/python-midi](https://github.com/avsaj/python-midi) - Python MIDI library
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 
 *   [36huo/wechat\_anti\_revoke](https://github.com/36huo/wechat_anti_revoke) - patch wechat(for pc) to anti revoke message
 
@@ -4021,8 +4030,6 @@
 *   [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - Model library for live2d-widget.js
 
 *   [shadowsocksr-backup/shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR update rss, SSR organization
-
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
 ## PHP
 
@@ -5286,8 +5293,6 @@
 
 *   [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 
-*   [chitao1234/aria2-2048-threads](https://github.com/chitao1234/aria2-2048-threads) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
 ## Vue
 
 *   [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力、iCal日程同步以及账单管理功能。同时支持Worker和Docker方式部署。
@@ -5309,8 +5314,6 @@
 *   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
 
 *   [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
-
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
 *   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 
@@ -6072,8 +6075,6 @@
 
 *   [BijoySingh/Scarlet-Notes](https://github.com/BijoySingh/Scarlet-Notes) - \[Discontinued and Unsupported Project] Simple yet powerful rich note taking android application, with a lot of flexibilty of usage
 
-*   [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
-
 ## Dockerfile
 
 *   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -6661,7 +6662,3 @@
 ## VimL
 
 *   [yangyangwithgnu/use\_vim\_as\_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
-
-## CoffeeScript
-
-*   [chinakids/atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
