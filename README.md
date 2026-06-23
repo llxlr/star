@@ -93,6 +93,8 @@
 
 ## JavaScript
 
+*   [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed) - 🌼 Flow Icons ported to Zed
+
 *   [adamreisnz/seki](https://github.com/adamreisnz/seki) - The Seki Go Player – Simple, Elegant, Compact and Intuitive
 
 *   [aprescott/tenuki](https://github.com/aprescott/tenuki) - Tenuki is a web-based go board and JavaScript library
@@ -6338,8 +6340,6 @@
 *   [xx13295/sina-picbed](https://github.com/xx13295/sina-picbed) - 新浪图床
 
 *   [saltpi/game](https://github.com/saltpi/game) - 骑士飞行棋、坦克大战--Java语言的课后作业
-
-*   [naosense/markdown-preview-sync](https://github.com/naosense/markdown-preview-sync) - A quasi real-time vim markdown preview plugin | 第一款基于Java的Vim Markdown预览插件
 
 ## Makefile
 
