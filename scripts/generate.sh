@@ -67,10 +67,10 @@ while [[ "$TEMPLATE" == *'<%# LANGUAGES %>'* ]]; do
   if [ -n "$repo_tpl" ]; then
     # Block with nested repos loop
     rendered=$(LANG_TPL="$lang_tpl" REPO_TPL="$repo_tpl" jq -r '
-      group_by(.language // "Miscellaneous")
+      group_by(if .language then .language else "Miscellaneous" end)
       | map({
-          language: .[0].language // "Miscellaneous",
-          anchor:  (.[0].language // "Miscellaneous"
+          language: (if .[0].language then .[0].language else "Miscellaneous" end),
+          anchor:  (if .[0].language then .[0].language else "Miscellaneous" end
                     | ascii_downcase
                     | gsub("[^a-z0-9 ]"; "")
                     | gsub(" "; "-")),
@@ -90,7 +90,7 @@ while [[ "$TEMPLATE" == *'<%# LANGUAGES %>'* ]]; do
                 | env.REPO_TPL
                 | gsub("<%= repo.full_name %>";    $fn)
                 | gsub("<%= repo.html_url %>";     $url)
-                | gsub("<%= repo.description %>";  ($desc // "No description"))
+                | gsub("<%= repo.description %>";  (if $desc then $desc else "No description" end))
               ] | join("\n"))
             )
           | gsub("<%= lang.language %>"; $lang)
@@ -101,10 +101,10 @@ while [[ "$TEMPLATE" == *'<%# LANGUAGES %>'* ]]; do
   else
     # Block without repos (e.g. Table of Contents)
     rendered=$(LANG_TPL="$lang_tpl" jq -r '
-      group_by(.language // "Miscellaneous")
+      group_by(if .language then .language else "Miscellaneous" end)
       | map({
-          language: .[0].language // "Miscellaneous",
-          anchor:  (.[0].language // "Miscellaneous"
+          language: (if .[0].language then .[0].language else "Miscellaneous" end),
+          anchor:  (if .[0].language then .[0].language else "Miscellaneous" end
                     | ascii_downcase
                     | gsub("[^a-z0-9 ]"; "")
                     | gsub(" "; "-"))
@@ -131,9 +131,9 @@ echo "$TEMPLATE" > README.md
 # ── Save grouped data (cache / diff) ─────────────────────────────────
 echo "💾 Saving organized data to data.json..." >&2
 jq '
-  group_by(.language // "Miscellaneous")
+  group_by(if .language then .language else "Miscellaneous" end)
   | map({
-      key:   (.[0].language // "Miscellaneous"),
+      key:   (if .[0].language then .[0].language else "Miscellaneous" end),
       value: .
     })
   | from_entries
