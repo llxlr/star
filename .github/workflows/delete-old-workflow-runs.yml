@@ -1,0 +1,15 @@
+name: Delete Old
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: MajorScruffy/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.API_TOKEN }}
+          repository: ${{ github.repository }}
+          older-than-seconds: 7200
