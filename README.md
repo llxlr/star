@@ -2136,6 +2136,7 @@
 
 ## Python
 
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [Lattyware/unrpa](https://github.com/Lattyware/unrpa) - A program to extract files from the RPA archive format.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [quantum-visualizations/qmsolve](https://github.com/quantum-visualizations/qmsolve) - ⚛️ A module for solving and visualizing the Schrödinger equation.
@@ -3056,6 +3057,9 @@
 
 ## Rust
 
+- [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [BlueGlassBlock/cmdpal-translate](https://github.com/BlueGlassBlock/cmdpal-translate) - No description
 - [BlueGlassBlock/cmdpal-rs](https://github.com/BlueGlassBlock/cmdpal-rs) - Idiomatic Rust SDK for PowerToys Command Palette extensions.
@@ -3351,6 +3355,7 @@
 
 ## TypeScript
 
+- [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) - No description
 - [kongxiangyiren/hexo-oh-my-live2d](https://github.com/kongxiangyiren/hexo-oh-my-live2d) - 一个用于 hexo 的 live2d 看板娘插件，支持所有版本的模型。
 - [ceifa/wasmoon](https://github.com/ceifa/wasmoon) - A real lua 5.4 VM with JS bindings made with webassembly
 - [renmu123/biliAPI](https://github.com/renmu123/biliAPI) - bilibili 接口的 node 包装库
