@@ -149,6 +149,7 @@
 
 ## C
 
+- [ge-ne/bibtool](https://github.com/ge-ne/bibtool) - BibTool is a tool for manipulating BibTeX data bases. BibTeX provides a mean to integrate citations into LaTeX documents. BibTool allows the manipulation of BibTeX files which goes beyond the possibilities -- and intentions -- of BibTeX.
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 - [hamiltron/py-simple-audio](https://github.com/hamiltron/py-simple-audio) - A simple audio playback Python extension - cross-platform, asynchronous, dependency-free 
 - [Majjcom/ncmpp](https://github.com/Majjcom/ncmpp) - 一个用C++编写的极速ncm解密工具
@@ -708,7 +709,7 @@
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-- [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 现代化、开源的K8s 面板，1Panel 官方出品。
+- [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 现代化、开源的 K8s 面板，1Panel 官方出品。
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
 - [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
@@ -1129,7 +1130,6 @@
 - [018/zotcard](https://github.com/018/zotcard) - ZotCard is a plug-in for Zotero, which is a card note-taking enhancement tool. It provides card templates (such as concept card, character card, golden sentence card, etc., by default, you can customize other card templates), so you can write cards quickly. In addition, it helps you sort cards and standardize card formats.
 - [MoOx/pjax](https://github.com/MoOx/pjax) - Easily enable fast Ajax navigation on any website (using pushState +  xhr)
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-- [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [kristianfreeman/workers-unsplash-api](https://github.com/kristianfreeman/workers-unsplash-api) - Serverless API for requesting images from Unsplash's API, designed for use with a React frontend
@@ -1365,7 +1365,7 @@
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [LIU9293/musicAPI](https://github.com/LIU9293/musicAPI) - Centralized package to get data from qq, xiami, netease music
 - [MoeFE/Lyric](https://github.com/MoeFE/Lyric) - ✨ 一款非常实用的在线LRC歌词编辑器 (〃ﾉωﾉ)
-- [wangpengfei15975/skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
+- [feilongcheng/skPlayer](https://github.com/feilongcheng/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
 - [kyya/Moricolor-for-Hexo](https://github.com/kyya/Moricolor-for-Hexo) - Hexo Theme Moricolor. demo https://blog.kiko.space
 - [deepred5/daily-anime](https://github.com/deepred5/daily-anime) - A vscode extension for daily anime
 - [teadocs/teadocs](https://github.com/teadocs/teadocs) - Teadocs is a quick and easy WEB document setup tool
@@ -2296,7 +2296,7 @@
 - [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) - Open source Python library for converting PDF to DOCX.
 - [kogekiplay/ClashMetaForWindows_Mini](https://github.com/kogekiplay/ClashMetaForWindows_Mini) - No description
 - [lgc-NB2Dev/nonebot-plugin-picstatus](https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus) - 运行状态图片版 for NoneBot2 / A NoneBot2 plugin generates a picture which shows the status of current device
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 566 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 565 颗 ★
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [yakami129/VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
 - [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
@@ -3488,6 +3488,7 @@
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [heroku/cli](https://github.com/heroku/cli) - Heroku CLI
 - [microsoft/quantum-viz.js](https://github.com/microsoft/quantum-viz.js) - quantum-viz.js is a configurable tool for rendering quantum circuits using pure HTML.
+- [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
 - [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items and notes into Notion
