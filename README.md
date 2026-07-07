@@ -753,6 +753,7 @@
 - [teler-sh/teler](https://github.com/teler-sh/teler) - Real-time HTTP Intrusion Detection
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。
 - [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~ 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
@@ -878,7 +879,6 @@
 - [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
 - [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template) - Modern HTML Starter Template
 - [avinassh/pytorch-flask-api-heroku](https://github.com/avinassh/pytorch-flask-api-heroku) - No description
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [pytorch/cppdocs](https://github.com/pytorch/cppdocs) - PyTorch C++ API Documentation
 - [cloudwu/lua53doc](https://github.com/cloudwu/lua53doc) - The Chinese Translation of Lua 5.3 document
 - [spacewander/explore-flask-zh](https://github.com/spacewander/explore-flask-zh) - Explore Flask中文翻译。关于flask的一些最佳实践。
@@ -2136,6 +2136,7 @@
 
 ## Python
 
+- [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [Lattyware/unrpa](https://github.com/Lattyware/unrpa) - A program to extract files from the RPA archive format.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
