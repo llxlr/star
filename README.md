@@ -1010,6 +1010,7 @@
 
 ## JavaScript
 
+- [liuzhihang/hexo-generator-ai-summary](https://github.com/liuzhihang/hexo-generator-ai-summary) - No description
 - [imuncle/live2d](https://github.com/imuncle/live2d) - live2d模型收集+展示，可直接用于静态网站
 - [SwordfishLabs/simonecorsi-mawesome](https://github.com/SwordfishLabs/simonecorsi-mawesome) -  A drop-in replacement for simonecorsi/mawesome post compromise 
 - [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed) - 🌼 Flow Icons ported to Zed
