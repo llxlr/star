@@ -134,7 +134,6 @@
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with an executable or batch script.
 - [Tnze/CoolQ-Golang-Plugin](https://github.com/Tnze/CoolQ-Golang-Plugin) - Golang 酷Q CoolQ 插件 plugin 模板 template
 - [TechOtakupoi233/TwitterHub](https://github.com/TechOtakupoi233/TwitterHub) - Twitter 项目资源库
-- [vokins/yhosts](https://github.com/vokins/yhosts) - AD hosts爱好群，群号:201973909；无限期暂停更新。劝君更尽一杯酒，西出阳关无故人。莫愁前路无知己，天下谁人不识君。
 
 
 ## BibTeX Style
@@ -676,7 +675,7 @@
 - [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
 - [go-python/cpy3](https://github.com/go-python/cpy3) - Go bindings to the CPython-3 API
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+- [OwO-Network/DLX](https://github.com/OwO-Network/DLX) - DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [rdkr/oniongen-go](https://github.com/rdkr/oniongen-go) - 🔑 v3 .onion vanity URL generator written in Go
 - [DedSecInside/gotor](https://github.com/DedSecInside/gotor) - This program provides efficient web scraping services for Tor and non-Tor sites. The program has both a CLI and  REST API. 
@@ -1941,6 +1940,7 @@
 - [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site) - A feature-rich, efficient text editor - Web Site
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [YixuanFranco/yourGirlFriend](https://github.com/YixuanFranco/yourGirlFriend) - No description
+- [vokins/yhosts](https://github.com/vokins/yhosts) - yhosts
 - [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - Model library for live2d-widget.js
 - [shadowsocksr-backup/shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR update rss, SSR organization 
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
@@ -2264,7 +2264,7 @@
 - [SamuNatsu/nonebot-plugin-deer-pipe](https://github.com/SamuNatsu/nonebot-plugin-deer-pipe) - 一个🦌管签到插件
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [nonebot/plugin-apscheduler](https://github.com/nonebot/plugin-apscheduler) - APScheduler Support for NoneBot2
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 - [noneplugin/nonebot-plugin-shindan](https://github.com/noneplugin/nonebot-plugin-shindan) - Nonebot2 趣味占卜插件
 - [kitUIN/nonebot-plugin-ncm](https://github.com/kitUIN/nonebot-plugin-ncm) - ✨ 基于go-cqhttp与nonebot2的 网易云 无损音乐 点歌/下载 ✨
 - [pytorch/torcharrow](https://github.com/pytorch/torcharrow) - High performance model preprocessing library on PyTorch
@@ -3357,6 +3357,7 @@
 
 ## TypeScript
 
+- [cosZone/astro-koharu](https://github.com/cosZone/astro-koharu) - astro-koharu 是一个萌系/二次元/粉蓝配色的 astro 主题博客，灵感来自 Hexo 的 Shoka 主题，加了很多自己的小巧思，性能优越。
 - [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) - No description
 - [kongxiangyiren/hexo-oh-my-live2d](https://github.com/kongxiangyiren/hexo-oh-my-live2d) - 一个用于 hexo 的 live2d 看板娘插件，支持所有版本的模型。
 - [ceifa/wasmoon](https://github.com/ceifa/wasmoon) - A real lua 5.4 VM with JS bindings made with webassembly
