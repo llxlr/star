@@ -1110,6 +1110,7 @@
 - [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
 - [zotero/make-it-red](https://github.com/zotero/make-it-red) - Sample plugin for Zotero 7
 - [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
+- [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 - [lxl80/hexo-admonition](https://github.com/lxl80/hexo-admonition) - Add block-styled admonition to hexo, e.g. note, warning or error. | Hexo内容辅助插件，支持向文档中添加如提示、警告、错误等块式内容。
 - [qierkang/yang-game](https://github.com/qierkang/yang-game) - 羊了个羊游戏源代码\代码\完全开源 H5在线体验（兼容微信打开）：http://qekang.com/yang 服务端源码：https://github.com/qierkang/yang-server
 - [jerryc127/butterfly-plugins](https://github.com/jerryc127/butterfly-plugins) - No description
@@ -2137,6 +2138,7 @@
 
 ## Python
 
+- [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [Lattyware/unrpa](https://github.com/Lattyware/unrpa) - A program to extract files from the RPA archive format.
