@@ -1009,6 +1009,7 @@
 
 ## JavaScript
 
+- [wenonly/hexo-dynamic-config](https://github.com/wenonly/hexo-dynamic-config) - A hexo plugin for using variable in configuration. for example, you can use environment variable in your _config.yml
 - [liuzhihang/hexo-generator-ai-summary](https://github.com/liuzhihang/hexo-generator-ai-summary) - No description
 - [imuncle/live2d](https://github.com/imuncle/live2d) - live2d模型收集+展示，可直接用于静态网站
 - [SwordfishLabs/simonecorsi-mawesome](https://github.com/SwordfishLabs/simonecorsi-mawesome) -  A drop-in replacement for simonecorsi/mawesome post compromise 
@@ -2218,7 +2219,6 @@
 - [Burmylov/code](https://github.com/Burmylov/code) - No description
 - [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本
@@ -3410,6 +3410,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
 - [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
