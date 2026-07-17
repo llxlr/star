@@ -534,6 +534,7 @@
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - 旧 HelloGitHub.com 网站源码
+- [0x1428571429/time-friend.com](https://github.com/0x1428571429/time-friend.com) - WEB BANG! BANG!! BANG!!! 
 - [YixuanFranco/yixuanfranco.github.io](https://github.com/YixuanFranco/yixuanfranco.github.io) - 极客绿呀极客绿. 模板是抄的, 但 theme + 配色, 还有很多细节是俺一个个调的. 如果遇到 bug, 欢迎来报. 么么哒.
 - [old-jekyll-templates/Twenty-Jekyll-Theme](https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme) - Twenty Jekyll Theme - more themes available @ http://cloudcannon.com/jekyll_themes
 - [pandolia/pandolia.github.io](https://github.com/pandolia/pandolia.github.io) - https://pandolia.net/
@@ -1399,7 +1400,6 @@
 - [shakenetwork/weChatApp-Run](https://github.com/shakenetwork/weChatApp-Run) - 跑步微信小程序
 - [shakenetwork/lovestory](https://github.com/shakenetwork/lovestory) - H5表白
 - [iphysresearch/DataSciComp](https://github.com/iphysresearch/DataSciComp) - A collection of popular Data Science Challenges/Competitions || Countdown timers to keep track of the entry deadlines.
-- [0x1428571429/alili.tech](https://github.com/0x1428571429/alili.tech) - WEB BANG! BANG!! BANG!!! 
 - [nilbuild/pennywise](https://github.com/nilbuild/pennywise) - Cross-platform application to open any website or media in a floating window
 - [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 - [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
@@ -3086,7 +3086,7 @@
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [rzukic/zed-latex](https://github.com/rzukic/zed-latex) - No description
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [nthnd/tuime](https://github.com/nthnd/tuime) - tui clock written in rust
 - [microsoft/qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
@@ -3098,7 +3098,7 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
-- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
+- [MutsumiUniverse/tsukimi](https://github.com/MutsumiUniverse/tsukimi) - A simple third-party Jellyfin client for Linux
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
@@ -3110,7 +3110,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
