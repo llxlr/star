@@ -654,7 +654,7 @@
 - [LagrangeDev/go-cqhttp](https://github.com/LagrangeDev/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions) - Go SDK for GitHub Actions - easily author GitHub Actions in Go
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -841,6 +841,7 @@
 
 ## HTML
 
+- [swrited/inni-pet](https://github.com/swrited/inni-pet) - No description
 - [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 - [ytliu0/ChineseCalendar](https://github.com/ytliu0/ChineseCalendar) - Conversion between the Western calendar and Chinese calendar
 - [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle) - 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。
@@ -1010,6 +1011,9 @@
 
 ## JavaScript
 
+- [x380kkm/Live2DPet](https://github.com/x380kkm/Live2DPet) - AI-powered Live2D desktop pet companion with VOICEVOX TTS
+- [llxlr/api](https://github.com/llxlr/api) - Cloudflare Workers API
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
 - [wenonly/hexo-dynamic-config](https://github.com/wenonly/hexo-dynamic-config) - A hexo plugin for using variable in configuration. for example, you can use environment variable in your _config.yml
 - [liuzhihang/hexo-generator-ai-summary](https://github.com/liuzhihang/hexo-generator-ai-summary) - No description
@@ -1112,7 +1116,7 @@
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - No description
 - [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
 - [zotero/make-it-red](https://github.com/zotero/make-it-red) - Sample plugin for Zotero 7
-- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code.
+- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code
 - [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 - [lxl80/hexo-admonition](https://github.com/lxl80/hexo-admonition) - Add block-styled admonition to hexo, e.g. note, warning or error. | Hexo内容辅助插件，支持向文档中添加如提示、警告、错误等块式内容。
 - [qierkang/yang-game](https://github.com/qierkang/yang-game) - 羊了个羊游戏源代码\代码\完全开源 H5在线体验（兼容微信打开）：http://qekang.com/yang 服务端源码：https://github.com/qierkang/yang-server
@@ -3098,7 +3102,7 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
-- [MutsumiUniverse/tsukimi](https://github.com/MutsumiUniverse/tsukimi) - A simple third-party Jellyfin client for Linux
+- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
@@ -3653,6 +3657,7 @@
 
 ## Vue
 
+- [swrited/Sino-Imgbed](https://github.com/swrited/Sino-Imgbed) - No description
 - [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力、iCal日程同步以及账单管理功能。同时支持Worker和Docker方式部署。
 - [ryanuo/whatToEat](https://github.com/ryanuo/whatToEat) - 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
