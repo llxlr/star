@@ -239,7 +239,6 @@
 - [rodrigost23/ScoopCmdPaletteExtension](https://github.com/rodrigost23/ScoopCmdPaletteExtension) - No description
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
-- [PowerShell/AIShell](https://github.com/PowerShell/AIShell) - An interactive shell to work with AI-powered assistance providers
 - [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - No description
 - [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
@@ -1096,7 +1095,6 @@
 - [yhl452493373/DownloadManager](https://github.com/yhl452493373/DownloadManager) - 适用于google内核的下载管理器
 - [kooriookami/yugioh-card](https://github.com/kooriookami/yugioh-card) - 一个使用 Canvas 渲染游戏王卡片的工具
 - [nostarsnow/typeMonkey.js](https://github.com/nostarsnow/typeMonkey.js) - typeMonkey.js。抖音字说很火的文字动画。
-- [MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure) - 一个基于 PDFFigure2 的 PDF 图表解析插件
 - [redleafnew/zotero-javascripts](https://github.com/redleafnew/zotero-javascripts) - Some JavaScripts used in Zotero to batch process
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
@@ -2152,7 +2150,7 @@
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [quantum-visualizations/qmsolve](https://github.com/quantum-visualizations/qmsolve) - ⚛️ A module for solving and visualizing the Schrödinger equation.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
@@ -3459,6 +3457,7 @@
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 - [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
+- [MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure) - PDF图、表、公式一网打尽——Zotero插件。
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 - [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit) - Toolkit for Zotero Plugin Developers.
 - [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
@@ -3476,7 +3475,7 @@
 - [mnixry/nonebot-plugin-gocqhttp](https://github.com/mnixry/nonebot-plugin-gocqhttp) - 一款在NoneBot2中直接运行go-cqhttp的插件, 无需额外下载安装 / A plugin to run go-cqhttp directly in NoneBot2, without additional download and installation.
 - [l0o0/tara](https://github.com/l0o0/tara) - A Zotero add-on for backup and restore preferences, add-ons, translators, styles, and locate between two machines
 - [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template) - A plugin template for Zotero.
-- [aidenlx/zotlit](https://github.com/aidenlx/zotlit) - Integrate Zotero with Obsidian: literature notes, citations, annotations.
+- [aidenlx/zotlit](https://github.com/aidenlx/zotlit) - ZotLit brings your Zotero library into Obsidian. Create liter ature notes, insert citations, and annotate PDFs without leaving your vault.
 - [obsidian-community/obsidian-zotero-integration](https://github.com/obsidian-community/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
