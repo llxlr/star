@@ -335,6 +335,7 @@
 
 ## C++
 
+- [lfortran/lfortran](https://github.com/lfortran/lfortran) - Official main repository for LFortran
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [koadman/mauveAligner](https://github.com/koadman/mauveAligner) - command-line interface software for genome alignment
@@ -376,7 +377,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
-- [SlopeCraft/SlopeCraft](https://github.com/SlopeCraft/SlopeCraft) - Map Pixel Art Generator for Minecraft
+- [SlopeCraft/SlopeCraft](https://github.com/SlopeCraft/SlopeCraft) - Map pixel art generator for Minecraft.
 - [Maplespe/explorerTool](https://github.com/Maplespe/explorerTool) - Custom Windows Explorer background image
 - [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 - [wx1183618058/ZET-Optical-Network-Terminal-Decoder](https://github.com/wx1183618058/ZET-Optical-Network-Terminal-Decoder) - No description
@@ -1640,7 +1641,7 @@
 
 ## MDX
 
-- [EvanNotFound/how-to-deal-with-my-crush](https://github.com/EvanNotFound/how-to-deal-with-my-crush) - 一个自以为是的情感指南
+- [evannotfound/how-to-deal-with-my-crush](https://github.com/evannotfound/how-to-deal-with-my-crush) - 一个自以为是的情感指南
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course. 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
@@ -3364,6 +3365,7 @@
 
 ## TypeScript
 
+- [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
 - [cosZone/astro-koharu](https://github.com/cosZone/astro-koharu) - astro-koharu 是一个萌系/二次元/粉蓝配色的 astro 主题博客，灵感来自 Hexo 的 Shoka 主题，加了很多自己的小巧思，性能优越。
 - [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) - No description
 - [kongxiangyiren/hexo-oh-my-live2d](https://github.com/kongxiangyiren/hexo-oh-my-live2d) - 一个用于 hexo 的 live2d 看板娘插件，支持所有版本的模型。
@@ -3371,7 +3373,7 @@
 - [renmu123/biliAPI](https://github.com/renmu123/biliAPI) - bilibili 接口的 node 包装库
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [legend80s/deepseek-balance-statusline](https://github.com/legend80s/deepseek-balance-statusline) - Real-time DeepSeek balance statusline for Claude Code.
-- [EvanNotFound/vercount](https://github.com/EvanNotFound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
+- [evannotfound/vercount](https://github.com/evannotfound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
 - [squirrelchat/smol-toml](https://github.com/squirrelchat/smol-toml) - A small, fast, and correct TOML (1.1.0) parser and serializer
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [steven-jianhao-li/zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
