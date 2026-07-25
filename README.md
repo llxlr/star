@@ -402,7 +402,6 @@
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
-- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [akof1314/CoolFormat](https://github.com/akof1314/CoolFormat) - CoolFormat Source Code Formatter
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device 
@@ -1011,6 +1010,7 @@
 
 ## JavaScript
 
+- [PicGo/skills](https://github.com/PicGo/skills) - Agent skills for PicGo. Empower AI agents and LLMs with seamless image and file uploading capabilities.
 - [x380kkm/Live2DPet](https://github.com/x380kkm/Live2DPet) - AI-powered Live2D desktop pet companion with VOICEVOX TTS
 - [llxlr/api](https://github.com/llxlr/api) - Cloudflare Workers API
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -2578,6 +2578,7 @@
 - [bethgelab/foolbox](https://github.com/bethgelab/foolbox) - A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
 - [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
 - [Talmaj/onnx2pytorch](https://github.com/Talmaj/onnx2pytorch) - Transform ONNX model to PyTorch representation
+- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [vangie/poetry](https://github.com/vangie/poetry) - 一个部署于阿里云函数计算的自动生成五言绝句机器学习程序示例
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [Lycreal/MiraiBot](https://github.com/Lycreal/MiraiBot) - Bot for Mirai
@@ -3065,6 +3066,7 @@
 
 ## Rust
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
@@ -3365,6 +3367,7 @@
 
 ## TypeScript
 
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
 - [cosZone/astro-koharu](https://github.com/cosZone/astro-koharu) - astro-koharu 是一个萌系/二次元/粉蓝配色的 astro 主题博客，灵感来自 Hexo 的 Shoka 主题，加了很多自己的小巧思，性能优越。
 - [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) - No description
