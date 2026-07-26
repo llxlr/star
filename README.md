@@ -533,7 +533,6 @@
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
 - [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com) - 旧 HelloGitHub.com 网站源码
-- [0x1428571429/time-friend.com](https://github.com/0x1428571429/time-friend.com) - WEB BANG! BANG!! BANG!!! 
 - [YixuanFranco/yixuanfranco.github.io](https://github.com/YixuanFranco/yixuanfranco.github.io) - 极客绿呀极客绿. 模板是抄的, 但 theme + 配色, 还有很多细节是俺一个个调的. 如果遇到 bug, 欢迎来报. 么么哒.
 - [old-jekyll-templates/Twenty-Jekyll-Theme](https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme) - Twenty Jekyll Theme - more themes available @ http://cloudcannon.com/jekyll_themes
 - [pandolia/pandolia.github.io](https://github.com/pandolia/pandolia.github.io) - https://pandolia.net/
