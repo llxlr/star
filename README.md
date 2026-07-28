@@ -1701,7 +1701,6 @@
 - [LanceMcCarthy/Action-MsixBundler](https://github.com/LanceMcCarthy/Action-MsixBundler) - A GitHub Action that accepts multiple MSIX files and bundles them together into a single msixbundle file.
 - [michidk/winget-updater](https://github.com/michidk/winget-updater) - A GitHub action which automatically updates winget packages, based on Komac.
 - [ZJH365/MediaPlayerPlus](https://github.com/ZJH365/MediaPlayerPlus) - 与Win11媒体播放器界面一致却更加强大支持网易云/酷狗/酷我的媒体播放器+（也支持WindowsRT10/Win10Mobile）
-- [zhuiyunjiasu/zhuiyun](https://github.com/zhuiyunjiasu/zhuiyun) - No description
 - [sollyu/AndroidStudioChineseLanguagePack](https://github.com/sollyu/AndroidStudioChineseLanguagePack) - AndroidStudio中文插件(官方修改版本）
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [IQAQI233/611Study.ICU](https://github.com/IQAQI233/611Study.ICU) - Nowadays, most of Chinese high school students are forced to study 611, from 6AM to 11PM 6 days a week. Sadly, lots of students suicided or got serious mental health problem. Inspired by project 996.icu, we decided to start 611study.icu project to call to stop this child abusing studying model and save students' lives and health.
@@ -2110,6 +2109,7 @@
 
 ## PowerShell
 
+- [Nanako0129/coralline](https://github.com/Nanako0129/coralline) - 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [xrgzs/scoop](https://github.com/xrgzs/scoop) - Scoop 修改优化特供版 🎏
 - [frg2089/PowerShell_Profile](https://github.com/frg2089/PowerShell_Profile) - No description
@@ -3179,7 +3179,6 @@
 
 ## Shell
 
-- [Nanako0129/coralline](https://github.com/Nanako0129/coralline) - 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it
 - [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) - Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [kejilion/sh](https://github.com/kejilion/sh) - KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!
