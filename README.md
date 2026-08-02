@@ -841,6 +841,7 @@
 
 ## HTML
 
+- [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - No description
 - [swrited/inni-pet](https://github.com/swrited/inni-pet) - No description
 - [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 - [ytliu0/ChineseCalendar](https://github.com/ytliu0/ChineseCalendar) - Conversion between the Western calendar and Chinese calendar
@@ -850,7 +851,6 @@
 - [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
 - [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 - [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
-- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
@@ -2148,6 +2148,7 @@
 
 ## Python
 
+- [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - No description
 - [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
@@ -3095,6 +3096,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [rzukic/zed-latex](https://github.com/rzukic/zed-latex) - No description
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
@@ -3103,6 +3105,7 @@
 - [microsoft/qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+- [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ 
 - [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -3416,7 +3419,6 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [AnswerZhao/CookingAgent](https://github.com/AnswerZhao/CookingAgent) - 一个基于大型语言模型（LLM）的智能做菜推荐系统，利用 HowToCook 开源菜谱库，为用户提供个性化的菜单推荐、购物清单生成和做菜流程规划、做菜步骤，达到小白都知道“吃什么、怎么做”的目标。
-- [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ 
 - [silq-lang/vscode-silq](https://github.com/silq-lang/vscode-silq) - No description
 - [JohnsonRan/CRules](https://github.com/JohnsonRan/CRules) - 自用 Mihomo 配置
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
