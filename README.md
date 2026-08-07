@@ -107,7 +107,7 @@
 
 ## Astro
 
-- [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) - 下一代Material Design 3 博客主题(Astro驱动)
+- [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) - Next-Gen Material Design 3 Blog Theme (Astro Powered)
 
 
 ## AutoHotkey
@@ -854,7 +854,6 @@
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
-- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
 - [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
@@ -1698,7 +1697,7 @@
 - [MrXnneHang/explore-uv](https://github.com/MrXnneHang/explore-uv) - 整理探索和使用 uv 时写下的笔记.
 - [mansucache/awesome-typora](https://github.com/mansucache/awesome-typora) - awesome typora
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集、tg导航，附全网最有趣好用的机器人BOT🤖【tg10000.com】
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集、tg导航、电报导航、telegram导航，附全网最有趣好用的机器人BOT🤖【tg10000.com】
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [QQBackup/QQDecrypt](https://github.com/QQBackup/QQDecrypt) - 解密并导出 PCQQ / QQ NT 等软件的聊天记录数据库的教程网站
 - [yhArcadia/Yunzai-Bot-plugins-index](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) - Yunzai-Bot云崽QQ机器人插件索引
@@ -2148,6 +2147,7 @@
 
 ## Python
 
+- [oil-oil/see-skill](https://github.com/oil-oil/see-skill) - Multimodal vision bridge with multi-image analysis and local OCR fallback for image-blind AI models.
 - [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - No description
 - [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
@@ -2232,7 +2232,6 @@
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
-- [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本
 - [zimolab/chaquopy-project-maker](https://github.com/zimolab/chaquopy-project-maker) - A Chaquopy project maker with GUI
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - Chaquopy: the Python SDK for Android
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
@@ -2269,6 +2268,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - No description
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit) - A full-featured Petkit experience, natively in Home Assistant
 - [hanasa2023/nonebot-plugin-updater](https://github.com/hanasa2023/nonebot-plugin-updater) - 一款全新的检测已安装插件更新情况的插件
 - [Onimaimai/nonebot-plugin-voicemusic](https://github.com/Onimaimai/nonebot-plugin-voicemusic) - ✨ NoneBot 语音点歌插件 ✨
@@ -3110,6 +3110,7 @@
 - [posit-dev/ark](https://github.com/posit-dev/ark) - Ark, an R kernel
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+- [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
