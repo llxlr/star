@@ -617,7 +617,6 @@
 ## Fluent
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 
 ## GDScript
@@ -870,6 +869,7 @@
 - [honglt1/Misstar-Tools](https://github.com/honglt1/Misstar-Tools) - No description
 - [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes) - 深度学习 李宏毅 2021 学习笔记
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
@@ -1012,6 +1012,8 @@
 
 ## JavaScript
 
+- [ArtitalkJS/Artitalk](https://github.com/ArtitalkJS/Artitalk) - 通过leancloud实现的可实时发布说说的js
+- [zotero/epub.js](https://github.com/zotero/epub.js) - No description
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [PicGo/skills](https://github.com/PicGo/skills) - Agent skills for PicGo. Empower AI agents and LLMs with seamless image and file uploading capabilities.
@@ -1683,6 +1685,7 @@
 
 ## Miscellaneous
 
+- [ever-works/awesome-time-tracking](https://github.com/ever-works/awesome-time-tracking) - Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works
 - [Backtthefuture/qq2007theme](https://github.com/Backtthefuture/qq2007theme) - No description
 - [hacker-frok/qq-farm-bot-ai](https://github.com/hacker-frok/qq-farm-bot-ai) - QQ经典农场视觉自动化，沉浸式偷菜
 - [eth-sri/silq-webpage](https://github.com/eth-sri/silq-webpage) - Source for https://www.silq.ethz.ch
@@ -3521,7 +3524,7 @@
 - [mongodb-developer/cloudflare-worker-rest-api-atlas](https://github.com/mongodb-developer/cloudflare-worker-rest-api-atlas) - This project explains how to build a REST API in a Cloudflare worker using MongoDB Realm Web JS and a MongoDB Atlas cluster to store the data.
 - [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
 - [jianggaocheng/mihoyo-signin](https://github.com/jianggaocheng/mihoyo-signin) - 米游社app 自动签到
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
