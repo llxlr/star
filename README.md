@@ -854,6 +854,7 @@
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
+- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
 - [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
@@ -1046,7 +1047,7 @@
 - [ybq22/supervisor](https://github.com/ybq22/supervisor) - No description
 - [llxlr/blog](https://github.com/llxlr/blog) - 博客源码
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了截图、贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
+- [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
 - [TeamMoeAI/MoeSR](https://github.com/TeamMoeAI/MoeSR) - An application specialized in image super-resolution for ACGN illustrations and Visual Novel CG. 专注于插画/Galgame CG等ACGN领域的图像超分辨率的应用
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - A command-line tool to generate GitHub and GitLab activity graph.
 - [illusionlie/burn-links](https://github.com/illusionlie/burn-links) - 简单的基于Cloudflare Worker的阅后即焚短链接服务
@@ -1354,7 +1355,6 @@
 - [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
 - [xibang/github-rank-china](https://github.com/xibang/github-rank-china) - :octocat: Github Rank 中国排名每日变化信息记录
 - [Firenzia/sakura-ui](https://github.com/Firenzia/sakura-ui) - :cherry_blossom: 梦回樱花飘落的坡道~~
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！） 下载安装包，手动安装到Chrome本地扩展中（注意打开开发者模式）
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -1857,7 +1857,7 @@
 - [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
-- [ugvf2009/Miles](https://github.com/ugvf2009/Miles) - 二爷翻墙，专注免费翻墙30年，但没有掌握核心科技，一切已经开始！^_^
+- [ai4deep/Miles](https://github.com/ai4deep/Miles) - 二爷翻墙，专注免费翻墙30年，但没有掌握核心科技，一切已经开始！^_^
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [Tlaster/Josou](https://github.com/Tlaster/Josou) - 女装
 - [Machine-Learning-Tokyo/AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
@@ -2271,7 +2271,6 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - No description
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit) - A full-featured Petkit experience, natively in Home Assistant
 - [hanasa2023/nonebot-plugin-updater](https://github.com/hanasa2023/nonebot-plugin-updater) - 一款全新的检测已安装插件更新情况的插件
 - [Onimaimai/nonebot-plugin-voicemusic](https://github.com/Onimaimai/nonebot-plugin-voicemusic) - ✨ NoneBot 语音点歌插件 ✨
@@ -3622,6 +3621,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭 
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
 - [surmon-china/simple-netease-cloud-music](https://github.com/surmon-china/simple-netease-cloud-music) - 🎵 A simple netease music api lib. 简单、统一、轻巧的 Node.js 版网易云音乐 API
