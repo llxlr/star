@@ -1120,7 +1120,6 @@
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [no13bus/chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension) - ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - No description
 - [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
 - [zotero/make-it-red](https://github.com/zotero/make-it-red) - Sample plugin for Zotero 7
 - [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code
@@ -2156,6 +2155,7 @@
 
 ## Python
 
+- [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) - A nice way to display CLI Github user / repo / organization info inspired in neofetch
 - [oil-oil/see-skill](https://github.com/oil-oil/see-skill) - Multimodal vision bridge with multi-image analysis and local OCR fallback for image-blind AI models.
 - [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - No description
@@ -2286,7 +2286,7 @@
 - [northword/zotero-android-nightly-build](https://github.com/northword/zotero-android-nightly-build) - Zotero Android Nightly Build
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [nonebot/plugin-apscheduler](https://github.com/nonebot/plugin-apscheduler) - APScheduler Support for NoneBot2
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 - [noneplugin/nonebot-plugin-shindan](https://github.com/noneplugin/nonebot-plugin-shindan) - Nonebot2 趣味占卜插件
 - [kitUIN/nonebot-plugin-ncm](https://github.com/kitUIN/nonebot-plugin-ncm) - ✨ 基于go-cqhttp与nonebot2的 网易云 无损音乐 点歌/下载 ✨
 - [pytorch/torcharrow](https://github.com/pytorch/torcharrow) - High performance model preprocessing library on PyTorch
@@ -3120,7 +3120,7 @@
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -3599,7 +3599,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [unpkg/unpkg](https://github.com/unpkg/unpkg) - The CDN for everything on npm
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
@@ -3697,6 +3697,7 @@
 - [A-kirami/matcha](https://github.com/A-kirami/matcha) - 💬 Matcha is mock chat. 模拟聊天交互的辅助开发工具
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - No description
 - [volatile-static/Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
 - [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
