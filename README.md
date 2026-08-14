@@ -135,6 +135,7 @@
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with an executable or batch script.
 - [Tnze/CoolQ-Golang-Plugin](https://github.com/Tnze/CoolQ-Golang-Plugin) - Golang 酷Q CoolQ 插件 plugin 模板 template
 - [TechOtakupoi233/TwitterHub](https://github.com/TechOtakupoi233/TwitterHub) - Twitter 项目资源库
+- [vokins/yhosts](https://github.com/vokins/yhosts) - yhosts
 
 
 ## BibTeX Style
@@ -1685,6 +1686,7 @@
 
 ## Miscellaneous
 
+- [1Password/1password-codex-plugin](https://github.com/1Password/1password-codex-plugin) - A Codex plugin for the 1Password Developer Environments MCP server
 - [ever-works/awesome-time-tracking](https://github.com/ever-works/awesome-time-tracking) - Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works
 - [Backtthefuture/qq2007theme](https://github.com/Backtthefuture/qq2007theme) - No description
 - [hacker-frok/qq-farm-bot-ai](https://github.com/hacker-frok/qq-farm-bot-ai) - QQ经典农场视觉自动化，沉浸式偷菜
@@ -1952,7 +1954,6 @@
 - [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site) - A feature-rich, efficient text editor - Web Site
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [YixuanFranco/yourGirlFriend](https://github.com/YixuanFranco/yourGirlFriend) - No description
-- [vokins/yhosts](https://github.com/vokins/yhosts) - yhosts
 - [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - Model library for live2d-widget.js
 - [shadowsocksr-backup/shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR update rss, SSR organization 
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
@@ -2252,7 +2253,7 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) - DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding
 - [FishConsole/RandomPhotoProject](https://github.com/FishConsole/RandomPhotoProject) - RandomPhoto 后端主机
-- [MemeMeow-Studio/MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow) - 智能检索张维为表情包
+- [MemeMeow-Studio/MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow) - 智能管理表情包
 - [journey-ad/CosyVoice2-Ex](https://github.com/journey-ad/CosyVoice2-Ex) - CosyVoice2 功能扩充（预训练音色推理/3s极速复刻/自然语言控制/自动识别/音色模型保存/API）
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump) - 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
@@ -3380,6 +3381,8 @@
 
 ## TypeScript
 
+- [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) - 是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [portons/codex-pet-share](https://github.com/portons/codex-pet-share) - No description
 - [legeling/awesome-codex-pet](https://github.com/legeling/awesome-codex-pet) - A curated gallery of community-made Codex pets, with generated action previews and one-command installation. codex宠物，codex 小宠物，像素宠物，桌宠，桌面宠物
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
