@@ -239,6 +239,7 @@
 
 ## C#
 
+- [Ruler4396/dsh-launcher](https://github.com/Ruler4396/dsh-launcher) - Lightweight Windows launcher for DeepSeek Harness: silent autostart at logon + a minimal WebView2 window instead of a full browser
 - [rodrigost23/ScoopCmdPaletteExtension](https://github.com/rodrigost23/ScoopCmdPaletteExtension) - No description
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
@@ -1015,6 +1016,9 @@
 
 ## JavaScript
 
+- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。
+- [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) - Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their contents to prompts.
+- [vlln/whale-girl](https://github.com/vlln/whale-girl) - DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 repository-plugin（.dsh-plugin 格式），config.yaml 安装：github:dsh-external/whale-girl#<ref>&path:/.dsh-plugin
 - [ArtitalkJS/Artitalk](https://github.com/ArtitalkJS/Artitalk) - 通过leancloud实现的可实时发布说说的js
 - [zotero/epub.js](https://github.com/zotero/epub.js) - No description
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
@@ -2156,6 +2160,9 @@
 
 ## Python
 
+- [cloudflare/workers-py](https://github.com/cloudflare/workers-py) - Write Cloudflare Workers in 100% Python via Pyodide.
+- [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) - DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）
+- [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
 - [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) - A nice way to display CLI Github user / repo / organization info inspired in neofetch
 - [oil-oil/see-skill](https://github.com/oil-oil/see-skill) - Multimodal vision bridge with multi-image analysis and local OCR fallback for image-blind AI models.
 - [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
@@ -2285,7 +2292,7 @@
 - [ultrasev/llmproxy](https://github.com/ultrasev/llmproxy) - 一个基于 cloudflare worker 的 LLM API 反向代理，支持 OpenAI, Gemini, Groq 等平台。接口兼容 OpenAI API 规范，可以直接使用 OpenAI SDK 调用。
 - [SamuNatsu/nonebot-plugin-deer-pipe](https://github.com/SamuNatsu/nonebot-plugin-deer-pipe) - 一个🦌管签到插件
 - [northword/zotero-android-nightly-build](https://github.com/northword/zotero-android-nightly-build) - Zotero Android Nightly Build
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [nonebot/plugin-apscheduler](https://github.com/nonebot/plugin-apscheduler) - APScheduler Support for NoneBot2
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 - [noneplugin/nonebot-plugin-shindan](https://github.com/noneplugin/nonebot-plugin-shindan) - Nonebot2 趣味占卜插件
@@ -3381,7 +3388,18 @@
 
 ## TypeScript
 
-- [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) - 是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [dancingmemory/dskin](https://github.com/dancingmemory/dskin) - DSKIN · DeepSeek Harness（DSH）卡通像素皮肤插件 / Cartoon pixel skin plugin for DSH Web GUI — 原始界面不动，像素宠物会散步、眨眼、跳跃 / living pixel pets that stroll, blink and hop
+- [lhh010/dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) - 【求⭐】🐋DSH Web UI 全手绘像素鲸鱼伙伴插件：会话标题栏常驻，平时眨眼/偶尔摆尾/动胸鳍，思考运行时持续动起来，回合完成头顶喷水，点击还会冒爱心，不工作时还会偷懒睡觉，零核心改动。 【喜欢的话就点点star⭐吧~】
+- [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) - DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent.
+- [LaplaceYoung/oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) - oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架
+- [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations
+- [liustack/modsearch](https://github.com/liustack/modsearch) - The web plugin for DeepSeek Harness, and the search bridge for every model without native web access. Ask the web or X, get structured JSON evidence. | DeepSeek Harness 的 web 插件，为不能联网的模型补上搜索。问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- [hust-open-atom-club/oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) - 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分层安装、一步到位，免去手工整合打包。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) - DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+- [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理
+- [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。
+- [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) - 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [portons/codex-pet-share](https://github.com/portons/codex-pet-share) - No description
 - [legeling/awesome-codex-pet](https://github.com/legeling/awesome-codex-pet) - A curated gallery of community-made Codex pets, with generated action previews and one-command installation. codex宠物，codex 小宠物，像素宠物，桌宠，桌面宠物
