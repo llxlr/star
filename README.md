@@ -844,6 +844,7 @@
 
 ## HTML
 
+- [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) - DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）
 - [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - No description
 - [swrited/inni-pet](https://github.com/swrited/inni-pet) - No description
 - [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
@@ -1016,9 +1017,9 @@
 
 ## JavaScript
 
-- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。
+- [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 用 30 秒为你的 DeepSeek Harness（DSH）找到合适的插件。 这不是又一个仓库清单：GitHub 上所有打着 dsh-plugin 标签的仓库由脚本每天自动抓取，再经人工逐个核实——真插件进目录，蹭热度的进黑名单，每条剔除理由公开可查。并告诉你每个插件适合谁、从哪里开始。
 - [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) - Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their contents to prompts.
-- [vlln/whale-girl](https://github.com/vlln/whale-girl) - DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 repository-plugin（.dsh-plugin 格式），config.yaml 安装：github:dsh-external/whale-girl#<ref>&path:/.dsh-plugin
+- [vlln/whale-girl](https://github.com/vlln/whale-girl) - DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。
 - [ArtitalkJS/Artitalk](https://github.com/ArtitalkJS/Artitalk) - 通过leancloud实现的可实时发布说说的js
 - [zotero/epub.js](https://github.com/zotero/epub.js) - No description
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
@@ -1690,6 +1691,7 @@
 
 ## Miscellaneous
 
+- [fornarwhal/deepseek-whale-girl-icon](https://github.com/fornarwhal/deepseek-whale-girl-icon) - No description
 - [1Password/1password-codex-plugin](https://github.com/1Password/1password-codex-plugin) - A Codex plugin for the 1Password Developer Environments MCP server
 - [ever-works/awesome-time-tracking](https://github.com/ever-works/awesome-time-tracking) - Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works
 - [Backtthefuture/qq2007theme](https://github.com/Backtthefuture/qq2007theme) - No description
@@ -2161,7 +2163,6 @@
 ## Python
 
 - [cloudflare/workers-py](https://github.com/cloudflare/workers-py) - Write Cloudflare Workers in 100% Python via Pyodide.
-- [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) - DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
 - [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) - A nice way to display CLI Github user / repo / organization info inspired in neofetch
 - [oil-oil/see-skill](https://github.com/oil-oil/see-skill) - Multimodal vision bridge with multi-image analysis and local OCR fallback for image-blind AI models.
@@ -3307,7 +3308,7 @@
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [miuiadmin/SSR-Panel-Shell](https://github.com/miuiadmin/SSR-Panel-Shell) - SSR Management Panel Installation Script
 - [jjhelmus/berryconda](https://github.com/jjhelmus/berryconda) - Conda based Python distribution for the Raspberry Pi
-- [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+- [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 - [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
@@ -3395,10 +3396,10 @@
 - [LaplaceYoung/oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) - oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations
 - [liustack/modsearch](https://github.com/liustack/modsearch) - The web plugin for DeepSeek Harness, and the search bridge for every model without native web access. Ask the web or X, get structured JSON evidence. | DeepSeek Harness 的 web 插件，为不能联网的模型补上搜索。问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- [hust-open-atom-club/oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) - 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分层安装、一步到位，免去手工整合打包。
+- [hust-open-atom-club/oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) -  一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) - DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理
-- [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。
+- [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
 - [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) - 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [portons/codex-pet-share](https://github.com/portons/codex-pet-share) - No description
