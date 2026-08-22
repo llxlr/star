@@ -1056,6 +1056,7 @@
 - [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
 - [TeamMoeAI/MoeSR](https://github.com/TeamMoeAI/MoeSR) - An application specialized in image super-resolution for ACGN illustrations and Visual Novel CG. 专注于插画/Galgame CG等ACGN领域的图像超分辨率的应用
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - A command-line tool to generate GitHub and GitLab activity graph.
+- [anoni-net/docs](https://github.com/anoni-net/docs) - 在臺灣，我們希望藉由推廣「匿名網路」與「網路自由」的概念，喚起社會大眾對這些重要議題的重視。  我們計劃使用 Tor、Tails 和 OONI 等開源匿名工具，來增強在網路上的匿名性和安全性。並希望如新聞媒體、獨立記者、公民團體與開源科技社群能夠有更多機會協作與交流，共同探討並開發出相對應的解決方案。
 - [illusionlie/burn-links](https://github.com/illusionlie/burn-links) - 简单的基于Cloudflare Worker的阅后即焚短链接服务
 - [SunXin121/bing_wallpaper](https://github.com/SunXin121/bing_wallpaper) - 自建 bing 随机壁纸 API
 - [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
@@ -2199,7 +2200,6 @@
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [akutayural/APIException](https://github.com/akutayural/APIException) - Standardize FastAPI error/exception handling with APIException. Custom error codes, fallback logging, and beautiful Swagger UI integration.
 - [pasonk/ai-chatkit](https://github.com/pasonk/ai-chatkit) - A full-stack ai agent chat project, built with langgraph+fastapi+nextjs, supporting tool invocation and RAG knowledge base
-- [anoni-net/docs](https://github.com/anoni-net/docs) - 在臺灣，我們希望藉由推廣「匿名網路」與「網路自由」的概念，喚起社會大眾對這些重要議題的重視。  我們計劃使用 Tor、Tails 和 OONI 等開源匿名工具，來增強在網路上的匿名性和安全性。並希望如新聞媒體、獨立記者、公民團體與開源科技社群能夠有更多機會協作與交流，共同探討並開發出相對應的解決方案。
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
@@ -3390,10 +3390,10 @@
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) - DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent.
 - [LaplaceYoung/oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) - oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations
-- [liustack/modsearch](https://github.com/liustack/modsearch) - The web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 联网搜索插件🥇。为不能联网的模型补上搜索。问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- [liustack/modsearch](https://github.com/liustack/modsearch) - 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
 - [hust-open-atom-club/oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) -  一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) - Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, Git, and sub-agent pages.
+- [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
 - [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) - 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
