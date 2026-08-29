@@ -1016,6 +1016,7 @@
 
 ## JavaScript
 
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。
 - [FSMargoo/dsh-at-file](https://github.com/FSMargoo/dsh-at-file) - Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) - DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。
@@ -2153,6 +2154,8 @@
 
 ## Python
 
+- [dragonbreaker233/ncm-converter](https://github.com/dragonbreaker233/ncm-converter) - 网易云音乐 NCM 加密文件解密转换工具，纯解密还原不重新编码，音质无损。支持拖拽 GUI / 命令行。
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [cloudflare/workers-py](https://github.com/cloudflare/workers-py) - Write Cloudflare Workers in 100% Python via Pyodide.
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
@@ -2914,7 +2917,7 @@
 - [JxiaoC/animeMusic](https://github.com/JxiaoC/animeMusic) - 一个用于播放动漫音乐（OP, ED, 角色曲等）的二次元轮子
 - [xjr7670/QQzone_crawler](https://github.com/xjr7670/QQzone_crawler) - QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
 - [Maicius/QQZoneMood](https://github.com/Maicius/QQZoneMood) - QQZone mood spider and analysis. QQ空间多线程爬虫和数据挖掘。提供线上服务，扫码登陆即可自动爬取和分析数据，还有网易云年度报告风格的数据展示；使用docker-compose打包程序，方便部署；额外提供QQ空间抽奖小程序。
-- [ttm/music](https://github.com/ttm/music) - music is a python package for making sounds and music
+- [ttm/music](https://github.com/ttm/music) - Extreme-fidelity synthesis of musical elements, based on the MASS framework
 - [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - :bouncing_ball_person: Pytorch ReID: A tiny, friendly, strong pytorch implement of person re-id / vehicle re-id baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial
 - [fantasysea/jaychou](https://github.com/fantasysea/jaychou) - python爬取QQ音乐某个歌手的全部专辑歌词并生成文字云图片
 - [bspaans/python-mingus](https://github.com/bspaans/python-mingus) - Mingus is a music package for Python
