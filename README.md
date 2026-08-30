@@ -31,6 +31,7 @@
 * [Go](#go)
 * [Go Template](#go-template)
 * [HTML](#html)
+* [Inno Setup](#inno-setup)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Julia](#julia)
@@ -794,7 +795,6 @@
 - [Tnze/CoolQ-Golang-SDK](https://github.com/Tnze/CoolQ-Golang-SDK) - 酷Q插件Go语言SDK
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 - [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
 - [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [go-kiss/redis](https://github.com/go-kiss/redis) - 轻量级 go redis sdk
@@ -942,6 +942,11 @@
 - [QuantumLiu/PornSpider](https://github.com/QuantumLiu/PornSpider) - A parallel web spider of PornHub.成人网站Pornhub的并行网络爬虫。
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [EIREXE/TeachingFeelingLinux](https://github.com/EIREXE/TeachingFeelingLinux) - Linux helpers to run the teachingfeeling erotic game
+
+
+## Inno Setup
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 
 ## Java
@@ -1278,7 +1283,7 @@
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [egoist/docute-evanyou](https://github.com/egoist/docute-evanyou) - A docute plugin inspired by evan you.
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
-- [onblog/JustWrite](https://github.com/onblog/JustWrite) - 一款支持同步滑动预览的跨平台Markdown编辑器（欢迎Star，🚫禁止Fork）
+- [onblog/JustWrite](https://github.com/onblog/JustWrite) - 一款支持同步滑动预览的跨平台Markdown编辑器
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [xyuanbuilds/vue-blog-server](https://github.com/xyuanbuilds/vue-blog-server) - 数据api，nodejs后台，mongoose，第一版完成
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -2154,8 +2159,10 @@
 
 ## Python
 
+- [1190fasheqi/dafeiyu-pet](https://github.com/1190fasheqi/dafeiyu-pet) - DeepSeek V4 Pro二创鲸鱼娘·大肥鱼 透明桌面宠物 | 三视图行走/拖拽/喂食/互动/思维链心声
+- [QCYTSN/ds-local-pet](https://github.com/QCYTSN/ds-local-pet) - Lightweight, offline-first DeepSeek 大肥鱼 desktop pet for Windows, built with PySide6.
 - [dragonbreaker233/ncm-converter](https://github.com/dragonbreaker233/ncm-converter) - 网易云音乐 NCM 加密文件解密转换工具，纯解密还原不重新编码，音质无损。支持拖拽 GUI / 命令行。
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [cloudflare/workers-py](https://github.com/cloudflare/workers-py) - Write Cloudflare Workers in 100% Python via Pyodide.
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
@@ -3200,7 +3207,7 @@
 
 ## Shell
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) - Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [kejilion/sh](https://github.com/kejilion/sh) - KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!
