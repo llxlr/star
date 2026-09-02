@@ -3104,7 +3104,7 @@
 - [BlueGlassBlock/cmdpal-rs](https://github.com/BlueGlassBlock/cmdpal-rs) - Idiomatic Rust SDK for PowerToys Command Palette extensions.
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -3735,7 +3735,7 @@
 - [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
 - [Bingjian-Zhu/gin-vue-admin](https://github.com/Bingjian-Zhu/gin-vue-admin) - gin+gorm+jwt+vue, implemented as dependency injection
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [liuzi6612/boomb](https://github.com/liuzi6612/boomb) - 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
 - [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
