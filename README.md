@@ -1131,6 +1131,7 @@
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [no13bus/chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension) - ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - No description
 - [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
 - [zotero/make-it-red](https://github.com/zotero/make-it-red) - Sample plugin for Zotero 7
 - [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code
@@ -1533,7 +1534,7 @@
 - [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) - 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
 - [yjweny1/pictureRecDemo](https://github.com/yjweny1/pictureRecDemo) - A demo for picture recognition based in Pytorch and Fastai about pets
 - [xxbb1234021/deep-learning](https://github.com/xxbb1234021/deep-learning) - 深度学习实战
-- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch 实现
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 《神经网络与深度学习：案例与实践》第二版：10 章 PyTorch 实践、Notebook、测试与电子书。
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
 - [d2l-ai/berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
@@ -1916,7 +1917,7 @@
 - [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
 - [zhpmatrix/nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！
-- [nndl/nndl](https://github.com/nndl/nndl) - 邱锡鹏《神经网络与深度学习》（蒲公英书）理论书 v2 与通识版
+- [nndl/nndl](https://github.com/nndl/nndl) - 邱锡鹏《神经网络与深度学习》第二版与通识版：电子书、章节目录、学习资源与勘误。
 - [ccyyycy/ycy](https://github.com/ccyyycy/ycy) - "Hello YCY" Programming Competition
 - [ShusenTang/LeetCode](https://github.com/ShusenTang/LeetCode) - LeetCode solutions with Chinese explanation & Summary of classic algorithms.
 - [airalcorn2/Michael-s-Data-Science-Curriculum](https://github.com/airalcorn2/Michael-s-Data-Science-Curriculum) - This is the companion curriculum to my guide to becoming a data scientist.
@@ -2945,7 +2946,7 @@
 - [buhuipao/Raspberry-pie-monitoring](https://github.com/buhuipao/Raspberry-pie-monitoring) - 自己的毕业设计，基于树莓派的寝室小监控系统
 - [hirohe/facerec-python](https://github.com/hirohe/facerec-python) - 个人毕业设计 - 基于树莓派、OpenCV及Python语言的人脸识别
 - [yaphone/RasWxNeteaseMusic](https://github.com/yaphone/RasWxNeteaseMusic) - 微信-树莓派-网易云音乐
-- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡、英国等地的原版教材与教学大纲；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。
 - [Neod0Matrix/PixivCrawlerIII](https://github.com/Neod0Matrix/PixivCrawlerIII) - A python3 crawler for crawling Pixiv ranking top and any illustrator all artworks
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [Huangtuzhi/reality-of-Dream-of-Red-Mansions](https://github.com/Huangtuzhi/reality-of-Dream-of-Red-Mansions) - Comparision analysis of words use between 1 to 80 chapters and 80 to 120 chapters of 《A Dream of Red Mansions》.
@@ -3146,7 +3147,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -3728,7 +3729,6 @@
 - [A-kirami/matcha](https://github.com/A-kirami/matcha) - 💬 Matcha is mock chat. 模拟聊天交互的辅助开发工具
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - No description
 - [volatile-static/Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
 - [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
