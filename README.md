@@ -3431,7 +3431,7 @@
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [vgerbot-app/gtrend-cloudflare-worker](https://github.com/vgerbot-app/gtrend-cloudflare-worker) - A Cloudflare Worker that scrapes GitHub Trending pages to provide a JSON API for trending repositories. Built with TypeScript and Cheerio.
 - [moayuisuda/two-moons](https://github.com/moayuisuda/two-moons) - 🌙 Powerful and Interactive Music Learning Platform.
 - [LottieFiles/lottie-player](https://github.com/LottieFiles/lottie-player) - Lottie viewer/player as an easy to use web component! https://lottiefiles.com/web-player
