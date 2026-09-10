@@ -1172,7 +1172,7 @@
 - [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
 - [apachecn/baguwen-wiki](https://github.com/apachecn/baguwen-wiki) - :books: 面试八股文
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
-- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 【免费社区版】【企业版】Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
+- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 【免费社区版】【企业版】Webfunny是一款集全链路监控和用户行为分析（埋点）系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 - [ttphan/Quantum-Bloch-Sphere-Simulator](https://github.com/ttphan/Quantum-Bloch-Sphere-Simulator) - A quantum Bloch-sphere simulator.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [itorr/homo](https://github.com/itorr/homo) - 💩「恶臭数字论证器」数字恶臭化工具
@@ -1234,7 +1234,6 @@
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [dickrnn/dickrnn.github.io](https://github.com/dickrnn/dickrnn.github.io) - a recurrent network trained to draw dicks
 - [easingthemes/ssh-deploy](https://github.com/easingthemes/ssh-deploy) - GitHub Action for deploying code via rsync over ssh. (with NodeJS)
-- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [project-mirai/awesome-mirai](https://github.com/project-mirai/awesome-mirai) - mirai相关项目和插件收集
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [giggio/node-chromedriver](https://github.com/giggio/node-chromedriver) - An installer and wrapper for Chromedriver.
@@ -1376,7 +1375,7 @@
 - [yurtaev/idea-one-dark-theme](https://github.com/yurtaev/idea-one-dark-theme) - One Dark theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [nofacer/Python_GUI_with_Electron](https://github.com/nofacer/Python_GUI_with_Electron) - No description
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
@@ -2170,7 +2169,7 @@
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
 - [1Password/1password-codex-plugin](https://github.com/1Password/1password-codex-plugin) - A Codex plugin for the 1Password Developer Environments MCP server
 - [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) - A nice way to display CLI Github user / repo / organization info inspired in neofetch
-- [oil-oil/see-skill](https://github.com/oil-oil/see-skill) - Multimodal vision bridge with multi-image analysis and local OCR fallback for image-blind AI models.
+- [oil-oil/see-skill](https://github.com/oil-oil/see-skill) - 分析图片、截图和视频，输出可阅读的媒体报告，并在适用时使用本地文字识别。
 - [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - No description
 - [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
@@ -2665,6 +2664,7 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy) - A minimalistic API framework built on top of Flask, Marshmallow and friends.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [creimers/cloudflare-ddns](https://github.com/creimers/cloudflare-ddns) - A tiny python script that updates a cloudflare dns record with your current ip.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -3140,6 +3140,7 @@
 - [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
@@ -3490,7 +3491,6 @@
 - [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
 - [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT. 
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 - [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata) - Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
