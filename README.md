@@ -1949,7 +1949,7 @@
 - [formulahendry/awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn) - 中文版 Awesome VS Code
 - [JoshuaKGoldberg/Old-Deleted-FullScreenMario](https://github.com/JoshuaKGoldberg/Old-Deleted-FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
 - [WhiteHouse/budgetdata](https://github.com/WhiteHouse/budgetdata) - The data behind the President's 2016 Budget
-- [EBazarov/nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
+- [EBazarov/nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Historical URL collection for training NSFW classifiers in content moderation. No longer maintained.
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
@@ -3095,6 +3095,7 @@
 
 ## Rust
 
+- [TomLebeda/chroma_code](https://github.com/TomLebeda/chroma_code) - Make beautiful colored code listings in LaTeX with the power of TreeSitter.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
@@ -3552,7 +3553,7 @@
 - [microsoft/quantum-viz.js](https://github.com/microsoft/quantum-viz.js) - quantum-viz.js is a configurable tool for rendering quantum circuits using pure HTML.
 - [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
+- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment
 - [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items and notes into Notion
 - [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in Mainland China using Disqus API
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
