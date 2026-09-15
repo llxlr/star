@@ -658,7 +658,7 @@
 - [LagrangeDev/go-cqhttp](https://github.com/LagrangeDev/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions) - Go SDK for GitHub Actions - easily author GitHub Actions in Go
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -797,7 +797,7 @@
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 - [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
 - [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
-- [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+- [nearthink/b0pass](https://github.com/nearthink/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [go-kiss/redis](https://github.com/go-kiss/redis) - 轻量级 go redis sdk
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [gourouting/singo](https://github.com/gourouting/singo) - A simple Go web service starter for building RESTful APIs with Gin, GORM, Redis, sessions, i18n, and API tests.
@@ -1712,7 +1712,7 @@
 - [MrXnneHang/explore-uv](https://github.com/MrXnneHang/explore-uv) - 整理探索和使用 uv 时写下的笔记.
 - [mansucache/awesome-typora](https://github.com/mansucache/awesome-typora) - awesome typora
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2026年全网精选的 Telegram 资源导航开源仓库，收录海量优质 Telegram 群组、Telegram 频道、TG 搜索机器人、TG 工具与教程资源，是目前最全的 Telegram 资源合集项目，帮助用户快速查找 Telegram 社群、工具、教程资源
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群和频道合集，附全网最有趣好用的机器人BOT🤖，聚合电报导航、电报推荐各种高质量站点。
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [QQBackup/QQDecrypt](https://github.com/QQBackup/QQDecrypt) - 解密并导出 PCQQ / QQ NT 等软件的聊天记录数据库的教程网站
 - [yhArcadia/Yunzai-Bot-plugins-index](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) - Yunzai-Bot云崽QQ机器人插件索引
@@ -1829,7 +1829,6 @@
 - [worproject/RPi-Windows-Drivers](https://github.com/worproject/RPi-Windows-Drivers) - Windows on ARM device drivers for the Raspberry Pi single-board computer.
 - [terryyz/PyArmadillo](https://github.com/terryyz/PyArmadillo) - PyArmadillo: an alternative approach to linear algebra in Python
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - No description
@@ -3090,6 +3089,7 @@
 ## Ruby
 
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [xcatliu/jekyllcn](https://github.com/xcatliu/jekyllcn) - Jekyll 的中文翻译网站
 
 
@@ -3288,7 +3288,7 @@
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [RokasUrbelis/docker-wine-linux](https://github.com/RokasUrbelis/docker-wine-linux) - :boom::whale::fire:Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，适用于所有发行版------- Best wine-QQ/TIM/Wechat for all Linux distros
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - No description
 - [gloveboxes/PyLab-0-Raspberry-Pi-Set-Up](https://github.com/gloveboxes/PyLab-0-Raspberry-Pi-Set-Up) - No description
