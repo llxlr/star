@@ -1538,6 +1538,7 @@
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
 - [d2l-ai/berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
 - [TommyZihao/zihaopython](https://github.com/TommyZihao/zihaopython) - follow me and learn python easily
+- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡从小学到高中以及大学学科教科书；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。
 - [Paperspace/DinoRunTutorial](https://github.com/Paperspace/DinoRunTutorial) - Accompanying code for Paperspace tutorial "Build an AI to play Dino Run"
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [amueller/COMS4995-s19](https://github.com/amueller/COMS4995-s19) - COMS W4995 Applied Machine Learning - Spring 19
@@ -2945,7 +2946,6 @@
 - [buhuipao/Raspberry-pie-monitoring](https://github.com/buhuipao/Raspberry-pie-monitoring) - 自己的毕业设计，基于树莓派的寝室小监控系统
 - [hirohe/facerec-python](https://github.com/hirohe/facerec-python) - 个人毕业设计 - 基于树莓派、OpenCV及Python语言的人脸识别
 - [yaphone/RasWxNeteaseMusic](https://github.com/yaphone/RasWxNeteaseMusic) - 微信-树莓派-网易云音乐
-- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡、英国等地的原版教材与教学大纲；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。
 - [Neod0Matrix/PixivCrawlerIII](https://github.com/Neod0Matrix/PixivCrawlerIII) - A python3 crawler for crawling Pixiv ranking top and any illustrator all artworks
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [Huangtuzhi/reality-of-Dream-of-Red-Mansions](https://github.com/Huangtuzhi/reality-of-Dream-of-Red-Mansions) - Comparision analysis of words use between 1 to 80 chapters and 80 to 120 chapters of 《A Dream of Red Mansions》.
