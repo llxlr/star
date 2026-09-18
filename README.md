@@ -2324,7 +2324,7 @@
 - [Cvandia/nonebot-plugin-fakemsg](https://github.com/Cvandia/nonebot-plugin-fakemsg) - 适用于onebotv11的`合并转发`伪造消息
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [openai/grok](https://github.com/openai/grok) - No description
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
 - [trzsz/trzsz](https://github.com/trzsz/trzsz) - trzsz ( trz / tsz ) is a simple file transfer tool, similar to lrzsz ( rz / sz ), but compatible with tmux.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [monsterxcn/nonebot-plugin-gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel) - 🤖 NoneBot2 原神游戏内角色展柜数据展示插件，参考 @yoimiya-kokomi/miao-plugin
@@ -2332,7 +2332,7 @@
 - [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) - Open source Python library for converting PDF to DOCX.
 - [kogekiplay/ClashMetaForWindows_Mini](https://github.com/kogekiplay/ClashMetaForWindows_Mini) - No description
 - [lgc-NB2Dev/nonebot-plugin-picstatus](https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus) - 运行状态图片版 for NoneBot2 / A NoneBot2 plugin generates a picture which shows the status of current device
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 572 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 571 颗 ★
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [yakami129/VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
 - [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
