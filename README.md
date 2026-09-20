@@ -727,7 +727,7 @@
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 - [wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot) - 一个基于onebot协议的机器人Go开发框架
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -911,7 +911,6 @@
 - [calibur-tv/Balus](https://github.com/calibur-tv/Balus) - 【已停止维护】calibur.tv docs system use docsify
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-- [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程 / Flask for Beginners
 - [smilecc/blive-cookie](https://github.com/smilecc/blive-cookie) - 更为方便的获取Bilibili的Cookie
 - [dkurt/cvpr2019](https://github.com/dkurt/cvpr2019) - Workshop materials for OpenCV day at CVPR 2019 conference
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -1968,7 +1967,6 @@
 - [spasserby/PyCharm-monokai](https://github.com/spasserby/PyCharm-monokai) - Dark color theme for Pycharm by Sublime Text's Monokai Theme.
 - [betterfap/addons](https://github.com/betterfap/addons) - BetterFap Addons
 - [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-- [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 - [guoyunsky/Markdown-Chinese-Demo](https://github.com/guoyunsky/Markdown-Chinese-Demo) - 针对中文,演示Markdown的各种语法
 - [dxcweb/high-speed-downloader](https://github.com/dxcweb/high-speed-downloader) - 已不再维护
 - [allenking1028/ss](https://github.com/allenking1028/ss) - No description
@@ -2723,7 +2721,7 @@
 - [xiao9616/yolo4_tensorflow2](https://github.com/xiao9616/yolo4_tensorflow2) - yolo 4th edition  implemented by tensorflow2.0
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [coolboygym/wechatdemo](https://github.com/coolboygym/wechatdemo) - WeChat public platform demo （微信公众号开发示例）
-- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
+- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）
 - [senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 - [chatopera/efaqa-corpus-zh](https://github.com/chatopera/efaqa-corpus-zh) - ❤️Emotional First Aid Dataset, 心理咨询问答、聊天机器人语料库
@@ -2842,6 +2840,7 @@
 - [RoyceMao/3D-Lung-nodules-detection](https://github.com/RoyceMao/3D-Lung-nodules-detection) - 【医学影像分析】3D-CT影像的肺结节检测（LUNA16数据集）
 - [us/english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
 - [nofacer/Flask_Pytorch_Server](https://github.com/nofacer/Flask_Pytorch_Server) - Building Pytorch Server with Flask
+- [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask for Beginners / Flask 入门教程
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [chenxuuu/24h-raspberry-live-on-bilibili](https://github.com/chenxuuu/24h-raspberry-live-on-bilibili) - 🎦树莓派/VPS驱动的b站直播弹幕点播台，代码写得很烂，看之前请吃点降压药。已计划重写
 - [smilecc/blive-raspberry](https://github.com/smilecc/blive-raspberry) - B站VPS直播弹幕点歌台，2.0版已全新回归
@@ -3035,6 +3034,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [sixs/anyew](https://github.com/sixs/anyew) - 暗夜小说网python爬虫 —— http://m.anyew.cn
+- [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 - [wuub/SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
 
 
