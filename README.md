@@ -1532,7 +1532,7 @@
 - [yjweny1/pictureRecDemo](https://github.com/yjweny1/pictureRecDemo) - A demo for picture recognition based in Pytorch and Fastai about pets
 - [xxbb1234021/deep-learning](https://github.com/xxbb1234021/deep-learning) - 深度学习实战
 - [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 《神经网络与深度学习：案例与实践》第二版：10 章 PyTorch 实践、Notebook、测试与电子书。
-- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
+- [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
 - [d2l-ai/berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
 - [TommyZihao/zihaopython](https://github.com/TommyZihao/zihaopython) - follow me and learn python easily
@@ -1563,6 +1563,8 @@
 
 ## Kotlin
 
+- [lTwTlol/Auto_Vtb_beta](https://github.com/lTwTlol/Auto_Vtb_beta) - No description
+- [tsunehimatoi/psd2live](https://github.com/tsunehimatoi/psd2live) - Turn layered PSDs into editable Live2D models — automatic rigging, mesh/deformer generation, physics, animation, and .cmo3/ .moc3 export.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [Moriafly/spw-workshop-api](https://github.com/Moriafly/spw-workshop-api) - SPW 创意工坊（Mod）API
 - [Ekenstein/sgf2gif](https://github.com/Ekenstein/sgf2gif) - A program that converts an SGF-file to an animated GIF a la Hayauchi Super Igo style.
@@ -2158,6 +2160,7 @@
 
 ## Python
 
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [1190fasheqi/dafeiyu-pet](https://github.com/1190fasheqi/dafeiyu-pet) - DeepSeek V4 Pro二创鲸鱼娘·大肥鱼 透明桌面宠物 | 三视图行走/拖拽/喂食/互动/思维链心声
 - [QCYTSN/ds-local-pet](https://github.com/QCYTSN/ds-local-pet) - Lightweight, offline-first DeepSeek 大肥鱼 desktop pet for Windows, built with PySide6.
 - [dragonbreaker233/ncm-converter](https://github.com/dragonbreaker233/ncm-converter) - 网易云音乐 NCM 加密文件解密转换工具，纯解密还原不重新编码，音质无损。支持拖拽 GUI / 命令行。
@@ -3098,7 +3101,7 @@
 - [TomLebeda/chroma_code](https://github.com/TomLebeda/chroma_code) - Make beautiful colored code listings in LaTeX with the power of TreeSitter.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
+- [Watfaq-legacy/PowerSession-rs](https://github.com/Watfaq-legacy/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
@@ -3398,6 +3401,7 @@
 
 ## TypeScript
 
+- [cyanfish-x/dsh-live2d-pets](https://github.com/cyanfish-x/dsh-live2d-pets) - Live2D 桌宠插件 for DeepSeek Harness：Agent 状态镜像 + 互动陪伴，内置宽松许可预设模型 / Live2D pet plugin: agent state mirror + interactive companion with curated permissive-license presets
 - [KeqingMoe/dsh-feng-gu](https://github.com/KeqingMoe/dsh-feng-gu) - No description
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [dancingmemory/dskin](https://github.com/dancingmemory/dskin) - DSKIN · DeepSeek Harness（DSH）卡通像素皮肤插件 / Cartoon pixel skin plugin for DSH Web GUI — 原始界面不动，像素宠物会散步、眨眼、跳跃 / living pixel pets that stroll, blink and hop
@@ -3457,6 +3461,7 @@
 - [funnyzak/pushoo-cli](https://github.com/funnyzak/pushoo-cli) - A command line tool with Pushoo.js pushes multiple platform messages.
 - [funnyzak/pushoo-action](https://github.com/funnyzak/pushoo-action) - A GitHub Action with Pushoo.js pushes multiple platform messages.
 - [imaegoo/pushoo](https://github.com/imaegoo/pushoo) - 💬 即时消息推送 Node SDK
+- [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [AnswerZhao/CookingAgent](https://github.com/AnswerZhao/CookingAgent) - 一个基于大型语言模型（LLM）的智能做菜推荐系统，利用 HowToCook 开源菜谱库，为用户提供个性化的菜单推荐、购物清单生成和做菜流程规划、做菜步骤，达到小白都知道“吃什么、怎么做”的目标。
@@ -3717,7 +3722,6 @@
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
 - [JLinMr/Uptime-Status](https://github.com/JLinMr/Uptime-Status) - 优雅的站点状态监控面板
 - [Alessandro-Pang/reader-font](https://github.com/Alessandro-Pang/reader-font) - 读取并展示字体文件中的内容，可用于字体图标的单个字体导出、浏览等
-- [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 - [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
