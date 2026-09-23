@@ -173,7 +173,6 @@
 - [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [vectorgraphics/asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
@@ -273,6 +272,7 @@
 - [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 - [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
 - [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
@@ -857,7 +857,6 @@
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
-- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
 - [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
@@ -2289,6 +2288,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - No description
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit) - A full-featured Petkit experience, natively in Home Assistant
 - [hanasa2023/nonebot-plugin-updater](https://github.com/hanasa2023/nonebot-plugin-updater) - 一款全新的检测已安装插件更新情况的插件
 - [Onimaimai/nonebot-plugin-voicemusic](https://github.com/Onimaimai/nonebot-plugin-voicemusic) - ✨ NoneBot 语音点歌插件 ✨
