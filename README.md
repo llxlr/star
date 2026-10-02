@@ -1644,6 +1644,7 @@
 
 ## MATLAB
 
+- [alin07023060/Three-dimensional-Kakeya-conjecture-demonstration-animation-by-Wang-Hong](https://github.com/alin07023060/Three-dimensional-Kakeya-conjecture-demonstration-animation-by-Wang-Hong) - 免责声明，本人只是个心理学专业毕业的学生，失业没事干就看论文写代码消磨时光，一时心血来潮想着用MATLAB演示王虹教授的三维挂谷猜想（无聊透顶的时候就会灵机一动）。水平有限，难免有错误遗漏之处，所以本链接中的程序代码随时欢迎大家指教，万分感谢！
 - [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) - The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.
 - [BIMK/PlatEMO](https://github.com/BIMK/PlatEMO) - Evolutionary multi-objective optimization platform
 - [Hinamoooon/MENP](https://github.com/Hinamoooon/MENP) - Multipole Expansion for NanoPhotoncis
@@ -2162,7 +2163,7 @@
 - [1190fasheqi/dafeiyu-pet](https://github.com/1190fasheqi/dafeiyu-pet) - DeepSeek V4 Pro二创鲸鱼娘·大肥鱼 透明桌面宠物 | 三视图行走/拖拽/喂食/互动/思维链心声
 - [QCYTSN/ds-local-pet](https://github.com/QCYTSN/ds-local-pet) - Lightweight, offline-first DeepSeek 大肥鱼 desktop pet for Windows, built with PySide6.
 - [dragonbreaker233/ncm-converter](https://github.com/dragonbreaker233/ncm-converter) - 网易云音乐 NCM 加密文件解密转换工具，纯解密还原不重新编码，音质无损。支持拖拽 GUI / 命令行。
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [cloudflare/workers-py](https://github.com/cloudflare/workers-py) - Write Cloudflare Workers in 100% Python via Pyodide.
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
