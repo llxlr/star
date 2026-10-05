@@ -1578,7 +1578,6 @@
 - [zotero/zotero-android](https://github.com/zotero/zotero-android) - Zotero for Android
 - [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-- [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [fei-ke/HMSPush](https://github.com/fei-ke/HMSPush) - 让非华为设备支持 HMS 推送，同时避免唤醒目标应用
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
@@ -1738,7 +1737,7 @@
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - A modern, lightweight QuickPic Gallery with a fast, offline-first experience.
 - [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - No description
 - [PatrickAlex2019/PhotoEditor](https://github.com/PatrickAlex2019/PhotoEditor) - PhotoEditor Mod - A powerful and beautiful Android mobile phone image editing software
-- [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 906 KB
+- [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 907 KB
 - [trzsz/lrzsz-win32](https://github.com/trzsz/lrzsz-win32) - The lrzsz suite of x/y/z-modem tools on Windows.
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - No description
 - [catppuccin/zathura](https://github.com/catppuccin/zathura) - 🧚‍♂️ Soothing pastel theme for Zathura
@@ -3111,7 +3110,7 @@
 - [BlueGlassBlock/cmdpal-rs](https://github.com/BlueGlassBlock/cmdpal-rs) - Idiomatic Rust SDK for PowerToys Command Palette extensions.
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
