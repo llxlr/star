@@ -1059,7 +1059,7 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [TeamMoeAI/MoeSR](https://github.com/TeamMoeAI/MoeSR) - An application specialized in image super-resolution for ACGN illustrations and Visual Novel CG. 专注于插画/Galgame CG等ACGN领域的图像超分辨率的应用
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - A command-line tool to generate GitHub and GitLab activity graph.
-- [anoni-net/docs](https://github.com/anoni-net/docs) - 在臺灣，我們希望藉由推廣「匿名網路」與「網路自由」的概念，喚起社會大眾對這些重要議題的重視。  我們計劃使用 Tor、Tails 和 OONI 等開源匿名工具，來增強在網路上的匿名性和安全性。並希望如新聞媒體、獨立記者、公民團體與開源科技社群能夠有更多機會協作與交流，共同探討並開發出相對應的解決方案。
+- [anoni-net/docs](https://github.com/anoni-net/docs) - anoni.net/docs 的文件原始碼。從概念、工具到各種處境的準備，整理匿名網路與隱私的知識，也追蹤台灣的網路觀測與相關法規。 Source for anoni.net/docs: guides to anonymity and privacy, from concepts and tools to preparing for different situations, plus network measurement and related laws in Taiwan.
 - [illusionlie/burn-links](https://github.com/illusionlie/burn-links) - 简单的基于Cloudflare Worker的阅后即焚短链接服务
 - [SunXin121/bing_wallpaper](https://github.com/SunXin121/bing_wallpaper) - 自建 bing 随机壁纸 API
 - [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
@@ -1334,7 +1334,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [kokororin/pixiv-cookie](https://github.com/kokororin/pixiv-cookie) - Promise-based pixiv cookie getter
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [fex-team/kityminder](https://github.com/fex-team/kityminder) - 百度脑图
@@ -3176,7 +3176,6 @@
 - [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
 - [rust-ml/book](https://github.com/rust-ml/book) - The Rust Machine Learning Book
-- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
 - [iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer) - MCL一键安装工具
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -3538,7 +3537,7 @@
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
-- [Yuelioi/snippet-cat](https://github.com/Yuelioi/snippet-cat) - Snippet Cat 是一款 VSCODE 拓展,用于管理代码片段,笔记
+- [yueli-devtools/snippet-cat](https://github.com/yueli-devtools/snippet-cat) - Snippet Cat 是一款 VSCODE 拓展,用于管理代码片段,笔记
 - [Quorafind/Obsidian-Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator) - A plugin for generate markdown table quickly like Typora.
 - [Stardusten/ob-table-enhancer](https://github.com/Stardusten/ob-table-enhancer) - Manipulate markdown tables without touching the source code in Obsidian.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
@@ -3581,6 +3580,7 @@
 - [gilmarsquinelato/i18n-manager](https://github.com/gilmarsquinelato/i18n-manager) - Translation management app
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [LingDong-/legumes](https://github.com/LingDong-/legumes) - 🎼 A sheet music to polylines renderer
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
 - [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) - vscode qq extension based on android qq protocol
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
