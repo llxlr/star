@@ -242,6 +242,7 @@
 - [rodrigost23/ScoopCmdPaletteExtension](https://github.com/rodrigost23/ScoopCmdPaletteExtension) - No description
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
 - [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 - [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - No description
 - [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
@@ -2127,7 +2128,6 @@
 ## PowerShell
 
 - [Nanako0129/coralline](https://github.com/Nanako0129/coralline) - 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [xrgzs/scoop](https://github.com/xrgzs/scoop) - Scoop 修改优化特供版 🎏
 - [oschwartz10612/poppler-windows](https://github.com/oschwartz10612/poppler-windows) - Download Poppler binaries packaged for Windows with dependencies
 - [frg2089/PowerShell_Profile](https://github.com/frg2089/PowerShell_Profile) - No description
@@ -2335,7 +2335,7 @@
 - [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) - Open source Python library for converting PDF to DOCX.
 - [kogekiplay/ClashMetaForWindows_Mini](https://github.com/kogekiplay/ClashMetaForWindows_Mini) - No description
 - [lgc-NB2Dev/nonebot-plugin-picstatus](https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus) - 运行状态图片版 for NoneBot2 / A NoneBot2 plugin generates a picture which shows the status of current device
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 572 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 571 颗 ★
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [yakami129/VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
 - [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
