@@ -1110,7 +1110,7 @@
 - [D-Sketon/hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu) - 一款博丽灵梦风格的Hexo主题 | A Hakurei Reimu style Hexo theme. 💘Touhou💘
 - [drsrel/drsrel.github.io](https://github.com/drsrel/drsrel.github.io) - No description
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 - [Benature/obsidian-sample-vault](https://github.com/Benature/obsidian-sample-vault) - No description
 - [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习 
 - [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
@@ -2350,7 +2350,6 @@
 - [phac-nml/staramr](https://github.com/phac-nml/staramr) - Scans genome contigs against the ResFinder, PlasmidFinder, and PointFinder databases.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
-- [Special-Week/nonebot_plugin_impact](https://github.com/Special-Week/nonebot_plugin_impact) - 让群友们眼前一黑的nonebot2小游戏插件
 - [noneplugin/nonebot-plugin-userinfo](https://github.com/noneplugin/nonebot-plugin-userinfo) - Nonebot2 用户信息获取插件
 - [nek0us/nonebot-plugin-twitter](https://github.com/nek0us/nonebot-plugin-twitter) - 订阅推文推送
 - [lgc-NB2Dev/nonebot-plugin-autoreply](https://github.com/lgc-NB2Dev/nonebot-plugin-autoreply) - 配置文件高度可自定义的自动回复插件
@@ -2675,7 +2674,6 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy) - A minimalistic API framework built on top of Flask, Marshmallow and friends.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [creimers/cloudflare-ddns](https://github.com/creimers/cloudflare-ddns) - A tiny python script that updates a cloudflare dns record with your current ip.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -3158,7 +3156,7 @@
 - [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [onebot-walle/walle-q](https://github.com/onebot-walle/walle-q) - rs-onebot or rs-cqhttp?
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -3619,6 +3617,7 @@
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [propelml/tfjs-npy](https://github.com/propelml/tfjs-npy) - NumPy file parsing and serialization for TensorFlow.js
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
+- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 二十年》中文版
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
