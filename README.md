@@ -910,6 +910,7 @@
 - [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧
 - [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）
 - [LearnCpp-CN/learncpp-cn.github.io](https://github.com/LearnCpp-CN/learncpp-cn.github.io) - https://www.learncpp.com/ 系列教程中文翻译
+- [onblog/miaomiao-notes](https://github.com/onblog/miaomiao-notes) - Local-first Markdown workspace with AI writing assistance. 本地优先的 Markdown 文档工作台，带 AI 写作助手
 - [MoeClub/OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -1291,7 +1292,6 @@
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [egoist/docute-evanyou](https://github.com/egoist/docute-evanyou) - A docute plugin inspired by evan you.
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
-- [onblog/JustWrite](https://github.com/onblog/JustWrite) - 一款支持同步滑动预览的跨平台Markdown编辑器
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [xyuanbuilds/vue-blog-server](https://github.com/xyuanbuilds/vue-blog-server) - 数据api，nodejs后台，mongoose，第一版完成
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -1674,7 +1674,7 @@
 
 ## Makefile
 
-- [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
+- [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 非严肃开发的从入门到精通的工具箱
 - [douglarek/mihomo-openwrt](https://github.com/douglarek/mihomo-openwrt) - 一个专为 OpenWrt 及其衍生产品设计的 Mihomo（以前叫 Clash Meta ）原生构建版本，不包含灵车脚本。A native build of Mihomo(Previously known as Clash Meta) designed specifically for OpenWrt and its derivatives without hearse scripts.
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [yaya131/RedMi-AX6-NSS](https://github.com/yaya131/RedMi-AX6-NSS) - 仅测试ipq807x带有NSS编译涵盖：ipq807X的AX6和AX3600,两者配置通用，默认AX3600，一次只能编译一个
@@ -3594,7 +3594,6 @@
 - [6tail/lunar-typescript](https://github.com/6tail/lunar-typescript) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [dromara/issues-translate-action](https://github.com/dromara/issues-translate-action) - The action for translating Non-English issues content to English.
 - [satouriko/cqhttp-twitter-bot](https://github.com/satouriko/cqhttp-twitter-bot) - Twitter -> QQ Bot
 - [CL-Jeremy/mirai-twitter-bot](https://github.com/CL-Jeremy/mirai-twitter-bot) - Twitter -> QQ Bot
@@ -3745,6 +3744,7 @@
 - [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
 - [Bingjian-Zhu/gin-vue-admin](https://github.com/Bingjian-Zhu/gin-vue-admin) - gin+gorm+jwt+vue, implemented as dependency injection
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [liuzi6612/boomb](https://github.com/liuzi6612/boomb) - 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
 - [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
