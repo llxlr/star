@@ -1837,7 +1837,7 @@
 - [terryyz/PyArmadillo](https://github.com/terryyz/PyArmadillo) - PyArmadillo: an alternative approach to linear algebra in Python
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
+- [i365dev/awesome-seo](https://github.com/i365dev/awesome-seo) - Curated SEO, GEO & AI Search resources — technical SEO, agent discoverability, analytics, and traffic monetization.
 - [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - No description
 - [ML4Comm-Netw/Paper-with-Code-of-Wireless-communication-Based-on-DL](https://github.com/ML4Comm-Netw/Paper-with-Code-of-Wireless-communication-Based-on-DL) - 无线与深度学习结合的论文代码整理/Paper-with-Code-of-Wireless-communication-Based-on-DL
@@ -2543,7 +2543,6 @@
 - [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) - No description
 - [SAGIRI-kawaii/saya_plugins_collection](https://github.com/SAGIRI-kawaii/saya_plugins_collection) - 一个Graia-Saya的插件仓库
 - [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
-- [wslutilities/wslpy](https://github.com/wslutilities/wslpy) - A python3 Library for WSL specific tasks 
 - [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) - 基于 nonebot2 的多平台机器人
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [A-kirami/whattoeat](https://github.com/A-kirami/whattoeat) - 今天吃点啥
@@ -3261,7 +3260,6 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [10up/actions-wordpress](https://github.com/10up/actions-wordpress) - GitHub Actions for WordPress!
 - [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
-- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) - Fish shell tool for managing Python virtual environments
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
@@ -3593,6 +3591,7 @@
 - [6tail/lunar-typescript](https://github.com/6tail/lunar-typescript) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [dromara/issues-translate-action](https://github.com/dromara/issues-translate-action) - The action for translating Non-English issues content to English.
 - [satouriko/cqhttp-twitter-bot](https://github.com/satouriko/cqhttp-twitter-bot) - Twitter -> QQ Bot
 - [CL-Jeremy/mirai-twitter-bot](https://github.com/CL-Jeremy/mirai-twitter-bot) - Twitter -> QQ Bot
@@ -3744,7 +3743,6 @@
 - [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
 - [Bingjian-Zhu/gin-vue-admin](https://github.com/Bingjian-Zhu/gin-vue-admin) - gin+gorm+jwt+vue, implemented as dependency injection
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [liuzi6612/boomb](https://github.com/liuzi6612/boomb) - 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
 - [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
