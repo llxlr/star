@@ -579,7 +579,7 @@
 - [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
 - [aa2013/ClipShare](https://github.com/aa2013/ClipShare) - A cross-platform (currently Android, Windows, Linux, MacOS) clipboard history and synchronization software that supports background sync on Android 10 and above, and can copy and sync text, images, files, and text messages. / 一个支持跨平台（目前为Android、Windows、Linux、MacOS）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步。
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
-- [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
+- [lollipopkit/llmbox](https://github.com/lollipopkit/llmbox) - GPTBox - a third-party client for OpenAI API.
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
@@ -874,6 +874,7 @@
 - [wangzhiye-tiancai/mysupervisor_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据 
 - [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌
 - [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [MemeCrafters/nonebot-plugin-logo](https://github.com/MemeCrafters/nonebot-plugin-logo) - Nonebot2 插件，用于制作pornhub等风格logo
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -1382,7 +1383,7 @@
 - [yurtaev/idea-one-dark-theme](https://github.com/yurtaev/idea-one-dark-theme) - One Dark theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [nofacer/Python_GUI_with_Electron](https://github.com/nofacer/Python_GUI_with_Electron) - No description
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
@@ -1793,7 +1794,6 @@
 - [A-kirami/nonebot-plugin-template](https://github.com/A-kirami/nonebot-plugin-template) - nonebot2 插件模板库
 - [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 - [PacktPublishing/Quantum-Computing-with-Silq-Programming](https://github.com/PacktPublishing/Quantum-Computing-with-Silq-Programming) - Quantum Computing with Silq Programming, published by Packt
 - [ldqk/kichiku.icu](https://github.com/ldqk/kichiku.icu) - 哔哩哔哩鬼畜哲♂学好声音离线缓存+弹幕
@@ -1863,6 +1863,7 @@
 - [caowanlu/prml_note](https://github.com/caowanlu/prml_note) - 机器学习与模式识别相关笔记
 - [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet) - Python数据科学速查表
 - [YuriMiller/CompleteSuicideManual-Zh_CN](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN) - 简体中文版本的《完全自杀手册》，自己完成了一部分翻译和校对、注释工作，不久之后就要与这个世界告别，这一本书算是最后的礼物。
+- [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
 - [Sophia-11/DeepLearningNotes](https://github.com/Sophia-11/DeepLearningNotes) - 《深度学习》花书手推笔记
 - [skyhee/gin-doc-cn](https://github.com/skyhee/gin-doc-cn) - go 语言框架 gin 的中文文档
@@ -2045,7 +2046,6 @@
 - [MoLeft/CommentToDingtalk](https://github.com/MoLeft/CommentToDingtalk) - typecho插件，可以将评论推送到钉钉
 - [MoLeft/ArticlePoster](https://github.com/MoLeft/ArticlePoster) - 免费的Typecho文章海报插件，基于GD库
 - [mhcyong/TeePay](https://github.com/mhcyong/TeePay) - Typecho 个人支付宝、微信收款插件
-- [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
 - [BigCoke233/adams](https://github.com/BigCoke233/adams) - 🍀 简洁而不失优雅的 Typecho 主题
 - [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
@@ -3109,7 +3109,7 @@
 - [BlueGlassBlock/cmdpal-rs](https://github.com/BlueGlassBlock/cmdpal-rs) - Idiomatic Rust SDK for PowerToys Command Palette extensions.
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -3764,7 +3764,7 @@
 - [gourouting/giligili-vue](https://github.com/gourouting/giligili-vue) - G站前端项目
 - [betterde/ects](https://github.com/betterde/ects) - Elastic Crontab System
 - [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
-- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
 - [SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer) - :cake: Easy-to-use music player for Vue 2.x
