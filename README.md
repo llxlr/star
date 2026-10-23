@@ -822,7 +822,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
-- [yuhaiin/yuhaiin](https://github.com/yuhaiin/yuhaiin) - proxy kit for Linux/Windows/MacOS/Android
+- [yuhaiin/yuhaiin](https://github.com/yuhaiin/yuhaiin) - Yuhaiin is an open-source, cross-platform networking toolkit that brings enterprise VPN connectivity, encrypted overlay networks, policy-based routing, traffic control, and HTTP application gateways into one extensible engine.
 - [gourouting/giligili](https://github.com/gourouting/giligili) - gin+gorm开发的视频网站示例
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1383,7 +1383,7 @@
 - [yurtaev/idea-one-dark-theme](https://github.com/yurtaev/idea-one-dark-theme) - One Dark theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [nofacer/Python_GUI_with_Electron](https://github.com/nofacer/Python_GUI_with_Electron) - No description
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
@@ -2166,6 +2166,7 @@
 
 ## Python
 
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [1190fasheqi/dafeiyu-pet](https://github.com/1190fasheqi/dafeiyu-pet) - DeepSeek V4 Pro二创鲸鱼娘·大肥鱼 透明桌面宠物 | 三视图行走/拖拽/喂食/互动/思维链心声
 - [QCYTSN/ds-local-pet](https://github.com/QCYTSN/ds-local-pet) - Lightweight, offline-first DeepSeek 大肥鱼 desktop pet for Windows, built with PySide6.
@@ -3343,7 +3344,7 @@
 - [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai) - A SwiftUI-based Chat App for LLMs on iOS
 - [Linus0080/TongJi65472](https://github.com/Linus0080/TongJi65472) - 整活专用（bushi
 - [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀 
-- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Shadowsocks GUI client for mac OS
 
 
 ## TeX
