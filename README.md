@@ -2164,6 +2164,7 @@
 
 ## Python
 
+- [leima-max/origin-pro-mcp-skill](https://github.com/leima-max/origin-pro-mcp-skill) - Sanitized Origin Pro MCP skill package with bilingual documentation
 - [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [1190fasheqi/dafeiyu-pet](https://github.com/1190fasheqi/dafeiyu-pet) - DeepSeek V4 Pro二创鲸鱼娘·大肥鱼 透明桌面宠物 | 三视图行走/拖拽/喂食/互动/思维链心声
@@ -2214,6 +2215,7 @@
 - [akutayural/APIException](https://github.com/akutayural/APIException) - Standardize FastAPI error/exception handling with APIException. Custom error codes, fallback logging, and beautiful Swagger UI integration.
 - [pasonk/ai-chatkit](https://github.com/pasonk/ai-chatkit) - A full-stack ai agent chat project, built with langgraph+fastapi+nextjs, supporting tool invocation and RAG knowledge base
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [mansucache/awesome-typora](https://github.com/mansucache/awesome-typora) - Typora themes, plugins, templates and tools, with previews. / Typora 主题、插件、模板与工具，附预览图。
@@ -3211,7 +3213,6 @@
 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [northsea4/mdcx-docker](https://github.com/northsea4/mdcx-docker) - Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [kejilion/sh](https://github.com/kejilion/sh) - KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!
 - [UnblockNeteaseMusic/luci-app-unblockneteasemusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) - [OpenWrt] 解除网易云音乐播放限制
 - [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser) - Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad
