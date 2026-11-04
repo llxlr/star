@@ -1821,6 +1821,7 @@
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
+- [merenlab/anvio](https://github.com/merenlab/anvio) - An analysis and visualization platform for 'omics data
 - [arvinxx/zotero-engine-list](https://github.com/arvinxx/zotero-engine-list) - 一份实用的 Zotero 检索引擎
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [elder-frog/OpenCourseCatalog](https://github.com/elder-frog/OpenCourseCatalog) - Bilibili 公开课目录
@@ -1861,6 +1862,7 @@
 - [Vamei/Protocol-Forest-Vamei](https://github.com/Vamei/Protocol-Forest-Vamei) - 《协议森林》公共写作计划
 - [breakwa11/GoAIRatings](https://github.com/breakwa11/GoAIRatings) - Estimate Go AI ratings by real games
 - [caowanlu/prml_note](https://github.com/caowanlu/prml_note) - 机器学习与模式识别相关笔记
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet) - Python数据科学速查表
 - [YuriMiller/CompleteSuicideManual-Zh_CN](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN) - 简体中文版本的《完全自杀手册》，自己完成了一部分翻译和校对、注释工作，不久之后就要与这个世界告别，这一本书算是最后的礼物。
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
@@ -2177,7 +2179,6 @@
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
 - [1Password/1password-codex-plugin](https://github.com/1Password/1password-codex-plugin) - A Codex plugin for the 1Password Developer Environments MCP server
 - [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) - A nice way to display CLI Github user / repo / organization info inspired in neofetch
-- [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - No description
 - [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
@@ -2555,7 +2556,6 @@
 - [moyy996/AVDC](https://github.com/moyy996/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [RimoChan/cotrace](https://github.com/RimoChan/cotrace) - 【cotrace】同事追踪器！
-- [merenlab/anvio](https://github.com/merenlab/anvio) - An analysis and visualization platform for 'omics data
 - [HibiKier/nonebot_plugin_gamedraw](https://github.com/HibiKier/nonebot_plugin_gamedraw) - nonebot2 实现自动更新的 原神/明日方舟/赛马娘/坎公骑冠剑/公主连结/碧蓝航线/FGO/阴阳师 抽卡插件
 - [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [tiangolo/poetry-version-plugin](https://github.com/tiangolo/poetry-version-plugin) - Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.
@@ -2708,7 +2708,6 @@
 - [StanfordVL/mujoco-py](https://github.com/StanfordVL/mujoco-py) - MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - [验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.
 - [sicara/tf2-yolov4](https://github.com/sicara/tf2-yolov4) - A TensorFlow 2.0 implementation of YOLOv4: Optimal Speed and Accuracy of Object Detection
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. 
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
