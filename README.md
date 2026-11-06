@@ -583,7 +583,7 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper) - Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux. 
@@ -873,7 +873,6 @@
 - [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌
 - [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
-- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [MemeCrafters/nonebot-plugin-logo](https://github.com/MemeCrafters/nonebot-plugin-logo) - Nonebot2 插件，用于制作pornhub等风格logo
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -1605,7 +1604,6 @@
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [StageGuard/SuperCourseTimetableBot](https://github.com/StageGuard/SuperCourseTimetableBot) - 基于 mirai-console 的 超级课表上课提醒QQ机器人 插件
 - [iTXTech/mirai-native](https://github.com/iTXTech/mirai-native) - 强大的 mirai 原生插件加载器
-- [Samarium150/mirai-console-lolicon](https://github.com/Samarium150/mirai-console-lolicon) - 基于LoliconAPI的mirai-console插件
 - [simple-robot/simpler-robot](https://github.com/simple-robot/simpler-robot) - Simple Robot，一个bot风格的Kotlin多平台事件调度框架，异步高效、Java友好！/ A Bot-style Kotlin Multiplatform event scheduling framework, asynchronous and high-performance, java-friendly! 🐱😼😻😸
 - [yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin) - OneBot标准的Kotlin实现及mirai插件 - 原cqhttp-mirai
 - [iTXTech/mirai-js](https://github.com/iTXTech/mirai-js) - 强大的 Mirai JavaScript 插件运行时
@@ -1820,7 +1818,6 @@
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
-- [merenlab/anvio](https://github.com/merenlab/anvio) - An analysis and visualization platform for 'omics data
 - [arvinxx/zotero-engine-list](https://github.com/arvinxx/zotero-engine-list) - 一份实用的 Zotero 检索引擎
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [elder-frog/OpenCourseCatalog](https://github.com/elder-frog/OpenCourseCatalog) - Bilibili 公开课目录
@@ -2179,6 +2176,7 @@
 - [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) - 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode
 - [1Password/1password-codex-plugin](https://github.com/1Password/1password-codex-plugin) - A Codex plugin for the 1Password Developer Environments MCP server
 - [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) - A nice way to display CLI Github user / repo / organization info inspired in neofetch
+- [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) - No description
 - [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
@@ -2452,6 +2450,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [ZhiyuanLck/excel2tex](https://github.com/ZhiyuanLck/excel2tex) - A tool convert excel table to latex table in human-readable format.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) -  Noto fonts, except for CJK and emoji
 - [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
@@ -2556,6 +2555,7 @@
 - [moyy996/AVDC](https://github.com/moyy996/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [RimoChan/cotrace](https://github.com/RimoChan/cotrace) - 【cotrace】同事追踪器！
+- [merenlab/anvio](https://github.com/merenlab/anvio) - An analysis and visualization platform for 'omics data
 - [HibiKier/nonebot_plugin_gamedraw](https://github.com/HibiKier/nonebot_plugin_gamedraw) - nonebot2 实现自动更新的 原神/明日方舟/赛马娘/坎公骑冠剑/公主连结/碧蓝航线/FGO/阴阳师 抽卡插件
 - [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [tiangolo/poetry-version-plugin](https://github.com/tiangolo/poetry-version-plugin) - Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.
