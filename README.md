@@ -1341,7 +1341,6 @@
 - [teadocs/pandas-cn](https://github.com/teadocs/pandas-cn) - Pandas中文文档，欢迎贡献！
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
-- [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [kokororin/pixiv-cookie](https://github.com/kokororin/pixiv-cookie) - Promise-based pixiv cookie getter
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
@@ -1767,7 +1766,6 @@
 - [Z-Siqi/Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule) - Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 - [Br3uxi/Purple-Night-Theme](https://github.com/Br3uxi/Purple-Night-Theme) - Purple Night Firefox Theme with Twinkling Stars
 - [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [1024th/MathJax_Tutorial_CN](https://github.com/1024th/MathJax_Tutorial_CN) - 完备的LaTeX公式中文手册（MathJax环境下）
 - [Sitoi/SystemdClash](https://github.com/Sitoi/SystemdClash) - Clash 以 systemd 服务的方式开机自启 
 - [Z-Siqi/Clash-for-Windows_Chinese-Attached](https://github.com/Z-Siqi/Clash-for-Windows_Chinese-Attached) - Web site navigation
@@ -2074,7 +2072,6 @@
 - [dsyph3r/github-api3-php](https://github.com/dsyph3r/github-api3-php) - PHP library for the GitHub API v3
 - [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
 - [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-- [Tsuk1ko/Comment2IFTTT](https://github.com/Tsuk1ko/Comment2IFTTT) - A Typecho plugin to push new comments to IFTTT Webhooks
 - [vfhky/PlayAtWill](https://github.com/vfhky/PlayAtWill) - 音乐播放器PlayAtWill for typecho插件
 - [metowolf/NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) - 网易云音乐API，项目合并至 Meting
 - [hakula139/UserAgent-for-Typecho](https://github.com/hakula139/UserAgent-for-Typecho) - Typecho 下显示评论 User Agent 的插件
@@ -2542,7 +2539,6 @@
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI) - A project for ATRI, use go-cqhttp and Nonebot2.
 - [zhenxun-org/zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
 - [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) - No description
-- [SAGIRI-kawaii/saya_plugins_collection](https://github.com/SAGIRI-kawaii/saya_plugins_collection) - 一个Graia-Saya的插件仓库
 - [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 - [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) - 基于 nonebot2 的多平台机器人
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
@@ -2586,7 +2582,6 @@
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
-- [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) - 基于Graia Ariadne和Mirai的QQ机器人 SAGIRI-BOT
 - [aiqm/torchani](https://github.com/aiqm/torchani) - TorchANI 2.0 is an open-source library that supports training, development, and research of ANI-style neural network interatomic potentials. It was originally developed and is currently maintained by the Roitberg group. 
 - [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
@@ -3178,7 +3173,7 @@
 - [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [Asutorufa/hujiang_dictionary](https://github.com/Asutorufa/hujiang_dictionary) - 日本語辞書 by Rust, support Telegram bot, Cloudflare Workers. Support LLM and search RAG.
+- [Asutorufa/dictdeck](https://github.com/Asutorufa/dictdeck) - 日本語辞書 by Rust, support Telegram bot, Cloudflare Workers. Support LLM and search RAG.
 
 
 ## SCSS
@@ -3733,7 +3728,6 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [volatile-static/Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
-- [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
@@ -3750,7 +3744,6 @@
 - [bay1/vue-admin-flask-example](https://github.com/bay1/vue-admin-flask-example) - vue-admin和后端(flask)分离结合的超简单模板Demo
 - [wangy8961/flask-vuejs-madblog](https://github.com/wangy8961/flask-vuejs-madblog) - 基于 Flask 和 Vue.js 前后端分离的微型博客项目，支持多用户、Markdown文章（喜欢/收藏文章）、粉丝关注、用户评论（点赞）、动态通知、站内私信、黑名单、邮件支持、管理后台、权限管理、RQ任务队列、Elasticsearch全文搜索、Linux VPS部署、Docker容器部署等
 - [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
-- [Tsuk1ko/bww-generator](https://github.com/Tsuk1ko/bww-generator) - 🖼️ 黑白生草图制作器
 - [L-HeliantHuS/simple-control](https://github.com/L-HeliantHuS/simple-control) - 一个使用Vue+Zeit-ui制作的后台管理页面模板
 - [aleversn/VFluent](https://github.com/aleversn/VFluent) - Vue Components inspired by Microsoft's Fluent Design System
 - [geist-org/vue](https://github.com/geist-org/vue) - Vue implementation of Geist
