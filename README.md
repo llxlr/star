@@ -353,7 +353,7 @@
 - [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
 - [XiaoMi/StableDiffusionOnDevice](https://github.com/XiaoMi/StableDiffusionOnDevice) - 本项目是一个通过文字生成图片的项目，基于开源模型Stable Diffusion V1.5生成可以在手机的CPU和NPU上运行的模型，包括其配套的模型运行框架。
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [deepmodeling/deepflame-dev](https://github.com/deepmodeling/deepflame-dev) - A deep learning empowered open-source platform for reacting flow simulations
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
 - [microsoft/MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
@@ -2437,7 +2437,7 @@
 - [mathworks/matlab-engine-for-python](https://github.com/mathworks/matlab-engine-for-python) - No description
 - [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑  an enterprise-grade public opinion news crawler project: supports one-click operation of any number of crawlers, scheduled crawler tasks, batch deletion of crawlers; one-click deployment of crawlers 
 - [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [Rainbow-Dreamer/ascii-converter](https://github.com/Rainbow-Dreamer/ascii-converter) - This is an easy-to-use Ascii converter that could convert any images and videos to ASCII art (text, images and videos), and you can easily customize the conversion parameters
 - [MinatoAquaCrews/nonebot_plugin_morning](https://github.com/MinatoAquaCrews/nonebot_plugin_morning) - Good morning & good night plugin for nonebot2
 - [kexue-z/nonebot-plugin-htmlrender](https://github.com/kexue-z/nonebot-plugin-htmlrender) - 好康! 又好用!(可能)
