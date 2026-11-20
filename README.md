@@ -855,7 +855,7 @@
 - [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 - [ytliu0/ChineseCalendar](https://github.com/ytliu0/ChineseCalendar) - Conversion between the Western calendar and Chinese calendar
 - [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle) - 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。
-- [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work. 
+- [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A playground for prototyping and demonstrating Agent Skills for MATLAB and Simulink work. 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
 - [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
@@ -2426,6 +2426,7 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [AquamarineCyan/nonebot-plugin-today-in-history](https://github.com/AquamarineCyan/nonebot-plugin-today-in-history) - nonebot2历史上的今天
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [zkeq/Busuanzi_backend_self](https://github.com/zkeq/Busuanzi_backend_self) - Backend Substitutes For Busuanzi.
 - [mathworks/matlab-engine-for-python](https://github.com/mathworks/matlab-engine-for-python) - No description
@@ -3134,7 +3135,6 @@
 - [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
@@ -3223,7 +3223,6 @@
 - [jaspeen/oracle-11g](https://github.com/jaspeen/oracle-11g) - Docker image for Oracle 11g database
 - [mpeteuil/poetry-dotenv-plugin](https://github.com/mpeteuil/poetry-dotenv-plugin) - A Poetry plugin to automatically load environment variables from .env files
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 - [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 - [steveharsant/cloudflare_ddns_updater](https://github.com/steveharsant/cloudflare_ddns_updater) - A shell script to manage cloudflare DNS via their rest API
 - [BioArchLinux/wsl](https://github.com/BioArchLinux/wsl) -  BioArchLinux on WSL
@@ -3280,7 +3279,7 @@
 - [vizee/typecho-docker](https://github.com/vizee/typecho-docker) - typecho docker files
 - [newtorn/newgo](https://github.com/newtorn/newgo) - Easily using golang in your different projects with newgo
 - [studygolang/GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [PINTO0309/Bazel_bin](https://github.com/PINTO0309/Bazel_bin) - Bazel's pre-built binaries for armv7l / aarch64 / x86_64.
 - [PINTO0309/Tensorflow-bin](https://github.com/PINTO0309/Tensorflow-bin) - Prebuilt binary with Tensorflow Lite enabled. For RaspberryPi / Jetson Nano. Support for custom operations in MediaPipe. XNNPACK, XNNPACK Multi-Threads, FlexDelegate.
 - [lhelontra/tensorflow-on-arm](https://github.com/lhelontra/tensorflow-on-arm) - TensorFlow for Arm
@@ -3487,6 +3486,7 @@
 - [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
 - [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT. 
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 - [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata) - Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
