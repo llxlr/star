@@ -1116,7 +1116,6 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
 - [yhl452493373/DownloadManager](https://github.com/yhl452493373/DownloadManager) - 适用于google内核的下载管理器
-- [kooriookami/yugioh-card](https://github.com/kooriookami/yugioh-card) - 一个使用 Canvas 渲染游戏王卡片的工具
 - [nostarsnow/typeMonkey.js](https://github.com/nostarsnow/typeMonkey.js) - typeMonkey.js。抖音字说很火的文字动画。
 - [redleafnew/zotero-javascripts](https://github.com/redleafnew/zotero-javascripts) - Some JavaScripts used in Zotero to batch process
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
@@ -3495,6 +3494,7 @@
 - [Hiram-Wong/zyfun](https://github.com/Hiram-Wong/zyfun) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Zotero Add-on Market  | Zotero插件市场 | Browsing and installing plugins within Zotero
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [kooriookami/yugioh-card](https://github.com/kooriookami/yugioh-card) - 一个使用 Canvas 渲染游戏王卡片的工具
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 - [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 - [MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure) - PDF图、表、公式一网打尽——Zotero插件。
