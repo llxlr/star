@@ -1116,6 +1116,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
 - [yhl452493373/DownloadManager](https://github.com/yhl452493373/DownloadManager) - 适用于google内核的下载管理器
+- [kooriookami/yugioh-card](https://github.com/kooriookami/yugioh-card) - 一个使用 Canvas 渲染游戏王卡片的工具
 - [nostarsnow/typeMonkey.js](https://github.com/nostarsnow/typeMonkey.js) - typeMonkey.js。抖音字说很火的文字动画。
 - [redleafnew/zotero-javascripts](https://github.com/redleafnew/zotero-javascripts) - Some JavaScripts used in Zotero to batch process
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
@@ -1208,7 +1209,7 @@
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [RedBeanN/node-mirai](https://github.com/RedBeanN/node-mirai) - mirai node sdk
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖 
-- [liyupi/daxigua](https://github.com/liyupi/daxigua) - 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
+- [liyupi/daxigua](https://github.com/liyupi/daxigua) - 合成大西瓜（daxigua）开源魔改与快速发布项目由程序员鱼皮整理制作，基于 Cocos2d-js 物理引擎与 Canvas 刚体碰撞实现经典的合成大西瓜 H5 休闲网页小游戏，并提供开箱即用的零代码魔改配置方案。开发者与普通玩家无需修改复杂源码，只需调整 extraSettings.js 配置文件并配合专属在线改图工具替换图片音频素材，即可轻松实现自定义水果图案、替换背景与音乐、修改分数倍率、开启无敌模式、大水果合成小水果、调节弹性与下落速度、选分弹窗以及去除广告等十五种玩法。仓库附带中文注释的 project.js 源码、Serve 与 Docker 本地运行脚本以及 Vercel 与腾讯云 Webify 一键部署教程，适合快速上线专属网页游戏。
 - [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
@@ -1378,7 +1379,7 @@
 - [yurtaev/idea-one-dark-theme](https://github.com/yurtaev/idea-one-dark-theme) - One Dark theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 AI时代中英双语终身学习指南：学习 、创业、财富、爱情、人生与AI
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [nofacer/Python_GUI_with_Electron](https://github.com/nofacer/Python_GUI_with_Electron) - No description
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
@@ -1598,6 +1599,7 @@
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 - [alexbakker/webdav-provider](https://github.com/alexbakker/webdav-provider) - An Android app that can expose WebDAV storage to other apps through Android's Storage Access Framework (SAF)
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [StageGuard/SuperCourseTimetableBot](https://github.com/StageGuard/SuperCourseTimetableBot) - 基于 mirai-console 的 超级课表上课提醒QQ机器人 插件
 - [iTXTech/mirai-native](https://github.com/iTXTech/mirai-native) - 强大的 mirai 原生插件加载器
@@ -3325,7 +3327,6 @@
 
 - [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai) - A SwiftUI-based Chat App for LLMs on iOS
 - [Linus0080/TongJi65472](https://github.com/Linus0080/TongJi65472) - 整活专用（bushi
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀 
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Shadowsocks GUI client for mac OS
 
@@ -3494,7 +3495,6 @@
 - [Hiram-Wong/zyfun](https://github.com/Hiram-Wong/zyfun) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Zotero Add-on Market  | Zotero插件市场 | Browsing and installing plugins within Zotero
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
-- [kooriookami/yugioh-card](https://github.com/kooriookami/yugioh-card) - 一个使用 Canvas 渲染游戏王卡片的工具
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 - [l0o0/jasminum](https://github.com/l0o0/jasminum) - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 - [MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure) - PDF图、表、公式一网打尽——Zotero插件。
