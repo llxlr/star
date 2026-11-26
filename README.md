@@ -412,7 +412,7 @@
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device 
 - [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C++ DataFrame for statistical, financial, and ML analysis in modern C++
-- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [mindspore-ai/mindspore-bk](https://github.com/mindspore-ai/mindspore-bk) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
@@ -1116,7 +1116,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
 - [yhl452493373/DownloadManager](https://github.com/yhl452493373/DownloadManager) - 适用于google内核的下载管理器
-- [kooriookami/yugioh-card](https://github.com/kooriookami/yugioh-card) - 一个使用 Canvas 渲染游戏王卡片的工具
+- [kooriookami/yugioh-card](https://github.com/kooriookami/yugioh-card) - Render Yu-Gi-Oh! cards on Canvas with LeaferJS
 - [nostarsnow/typeMonkey.js](https://github.com/nostarsnow/typeMonkey.js) - typeMonkey.js。抖音字说很火的文字动画。
 - [redleafnew/zotero-javascripts](https://github.com/redleafnew/zotero-javascripts) - Some JavaScripts used in Zotero to batch process
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
@@ -2076,6 +2076,7 @@
 - [spoonysonny/pi-dashboard-daq](https://github.com/spoonysonny/pi-dashboard-daq) - No description
 - [ghboke/win10explore](https://github.com/ghboke/win10explore) - WordPress win10explore主题
 - [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+- [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 - [YianAndCode/Comment2Wechat](https://github.com/YianAndCode/Comment2Wechat) - Typecho 插件——新评论微信通知
 - [jzwalk/TeStore](https://github.com/jzwalk/TeStore) - 插件仓库插件 for Typecho 1.1
 - [kokororin/typecho-plugin-Access](https://github.com/kokororin/typecho-plugin-Access) - Access Log Plugin for Typecho
@@ -3742,7 +3743,6 @@
 - [KieSun/FE-advance-road](https://github.com/KieSun/FE-advance-road) - 进阶资深前端开发
 - [gourouting/giligili-vue](https://github.com/gourouting/giligili-vue) - G站前端项目
 - [betterde/ects](https://github.com/betterde/ects) - Elastic Crontab System
-- [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
