@@ -578,7 +578,7 @@
 - [aa2013/ClipShare](https://github.com/aa2013/ClipShare) - A cross-platform (currently Android, Windows, Linux, MacOS) clipboard history and synchronization software that supports background sync on Android 10 and above, and can copy and sync text, images, files, and text messages. / 一个支持跨平台（目前为Android、Windows、Linux、MacOS）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步。
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [lollipopkit/llmbox](https://github.com/lollipopkit/llmbox) - LLMBox - a third-party client for OpenAI/Anthropic/Gemini API.
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
@@ -742,7 +742,7 @@
 - [djherbis/nio](https://github.com/djherbis/nio) - Concurrent Buffered IO in Go #golang
 - [wuhan005/icppp](https://github.com/wuhan005/icppp) - 👻 一个帮我应对 ICP 备案页面检查的小玩意儿
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - Drive Chrome from Go over the Chrome DevTools Protocol: browser automation, web scraping, testing, screenshots and PDFs. No Node, Selenium or WebDriver.
 - [shenwei356/csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient and practical CSV/TSV toolkit in Golang
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [tinycedar/lily](https://github.com/tinycedar/lily) - Hosts管理工具，双击切换立即生效，告别重启浏览器！ Hosts manager takes effect immediately on switch
@@ -1914,7 +1914,6 @@
 - [OpenArkCompiler/openarkcompiler](https://github.com/OpenArkCompiler/openarkcompiler) - OpenArkCompiler official website
 - [jianzhu/dl-notes](https://github.com/jianzhu/dl-notes) - No description
 - [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) - No description
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
@@ -2546,7 +2545,7 @@
 - [BortonWrightonLabs/DRAM](https://github.com/BortonWrightonLabs/DRAM) - Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [moyy996/AVDC](https://github.com/moyy996/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - MDC - The AI local media metadata crawler
 - [RimoChan/cotrace](https://github.com/RimoChan/cotrace) - 【cotrace】同事追踪器！
 - [merenlab/anvio](https://github.com/merenlab/anvio) - An analysis and visualization platform for 'omics data
 - [HibiKier/nonebot_plugin_gamedraw](https://github.com/HibiKier/nonebot_plugin_gamedraw) - nonebot2 实现自动更新的 原神/明日方舟/赛马娘/坎公骑冠剑/公主连结/碧蓝航线/FGO/阴阳师 抽卡插件
@@ -2842,6 +2841,7 @@
 - [nofacer/Flask_Pytorch_Server](https://github.com/nofacer/Flask_Pytorch_Server) - Building Pytorch Server with Flask
 - [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask for Beginners / Flask 入门教程
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [chenxuuu/24h-raspberry-live-on-bilibili](https://github.com/chenxuuu/24h-raspberry-live-on-bilibili) - 🎦树莓派/VPS驱动的b站直播弹幕点播台，代码写得很烂，看之前请吃点降压药。已计划重写
 - [smilecc/blive-raspberry](https://github.com/smilecc/blive-raspberry) - B站VPS直播弹幕点歌台，2.0版已全新回归
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
